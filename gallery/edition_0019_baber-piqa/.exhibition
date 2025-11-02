@@ -1,0 +1,34 @@
+{
+  "edition_number": 19,
+  "exhibited": "2025-11-02 21:34:25 UTC",
+  "original": {
+    "name": "baber/piqa",
+    "url": "https://huggingface.co/datasets/baber/piqa",
+    "downloads": 54517,
+    "likes": 3,
+    "tags": [
+      "size_categories:10K<n<100K",
+      "format:parquet",
+      "modality:text",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us"
+    ]
+  },
+  "process": {
+    "strategy": "popular_backup",
+    "method": "streamed",
+    "rows": 500,
+    "columns": 4,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 0.804542
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_0019_baber-piqa-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_0019_baber-piqa-readymade"
+  }
+}
