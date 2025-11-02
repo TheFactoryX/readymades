@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Exhibited |
 |---------|----------|--------|-----------|
-| #0 | [fancyzhx/ag_news](https://huggingface.co/datasets/fancyzhx/ag_news) | 2 cols · 500 rows | 2025-11-02 |
+| #1 | [Rowan/hellaswag](https://huggingface.co/datasets/Rowan/hellaswag) | 10 cols · 500 rows | 2025-11-02 |
 ---
 
 ## 🎭 The Method
@@ -84,3 +84,4 @@ Or let GitHub Action run it automatically.
 | Edition # | Timestamp | Original | Process | Readymade |
 |-----------|-----------|----------|---------|-----------|
 | 0 | 2025-11-02 13:42:23 | [fancyzhx/ag_news](https://huggingface.co/datasets/fancyzhx/ag_news) | streamed (500 rows, 2 cols) | [edition_0000_fancyzhx-ag_news](edition_0000_fancyzhx-ag_news) |
+| 1 | 2025-11-02 13:47:47 | [Rowan/hellaswag](https://huggingface.co/datasets/Rowan/hellaswag) | streamed (500 rows, 10 cols) | [edition_0001_Rowan-hellaswag](edition_0001_Rowan-hellaswag) |
