@@ -1,0 +1,38 @@
+name: Curator #0 Switch
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'  # Every 15 minutes
+  workflow_dispatch: # Manual switch
+
+jobs:
+  curate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Curate exhibition
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: |
+          python curator0.py
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "curator0@thefactoryx.art"
+          git config --local user.name "Curator #0"
+          git add .
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🖼️ New exhibition" && git push)
