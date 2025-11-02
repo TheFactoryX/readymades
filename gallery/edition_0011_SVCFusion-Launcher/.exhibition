@@ -1,0 +1,28 @@
+{
+  "edition_number": 11,
+  "exhibited": "2025-11-02 17:54:02 UTC",
+  "original": {
+    "name": "SVCFusion/Launcher",
+    "url": "https://huggingface.co/datasets/SVCFusion/Launcher",
+    "downloads": 84546,
+    "likes": 0,
+    "tags": [
+      "license:cc",
+      "region:us"
+    ]
+  },
+  "process": {
+    "strategy": "popular",
+    "method": "streamed",
+    "rows": 3,
+    "columns": 19,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 1.196916
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_0011_SVCFusion-Launcher-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_0011_SVCFusion-Launcher-readymade"
+  }
+}

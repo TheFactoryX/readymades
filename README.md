@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #10 | [rajpurkar/squad](https://huggingface.co/datasets/rajpurkar/squad) | 5 cols · 500 rows | [edition_0010_rajpurkar-squad-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0010_rajpurkar-squad-readymade) | 2025-11-02 |
+| #11 | [SVCFusion/Launcher](https://huggingface.co/datasets/SVCFusion/Launcher) | 19 cols · 3 rows | [edition_0011_SVCFusion-Launcher-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0011_SVCFusion-Launcher-readymade) | 2025-11-02 |
 ---
 
 ## 🎭 The Method
@@ -94,3 +94,4 @@ Or let GitHub Action run it automatically.
 | 8 | 2025-11-02 16:48:55 | [newtextdoc1111/danbooru-tag-csv](https://huggingface.co/datasets/newtextdoc1111/danbooru-tag-csv) | streamed (500 rows, 4 cols) | [edition_0008_newtextdoc1111-danbooru-tag-csv-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0008_newtextdoc1111-danbooru-tag-csv-readymade) |
 | 9 | 2025-11-02 17:10:01 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0009_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0009_tatsu-lab-alpaca-readymade) |
 | 10 | 2025-11-02 17:35:21 | [rajpurkar/squad](https://huggingface.co/datasets/rajpurkar/squad) | streamed (500 rows, 5 cols) | [edition_0010_rajpurkar-squad-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0010_rajpurkar-squad-readymade) |
+| 11 | 2025-11-02 17:54:02 | [SVCFusion/Launcher](https://huggingface.co/datasets/SVCFusion/Launcher) | streamed (3 rows, 19 cols) | [edition_0011_SVCFusion-Launcher-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0011_SVCFusion-Launcher-readymade) |
