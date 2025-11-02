@@ -342,11 +342,15 @@ def log_exhibition(timestamp: str, edition_number: int, original_name: str, edit
         # Update "Current Exhibition" section
         current_marker = "## 🏛️ Current Exhibition"
         if current_marker in content:
+            # Get readymade info from metadata
+            repo_name = metadata["readymade"]["name"].split('/')[-1]
+            repo_url = metadata["readymade"]["url"]
+
             new_exhibition = f"""## 🏛️ Current Exhibition
 
-| Edition | Original | Medium | Exhibited |
-|---------|----------|--------|-----------|
-| #{edition_number} | [{original_name}](https://huggingface.co/datasets/{original_name}) | {columns} cols · {rows} rows | {timestamp.split()[0]} |"""
+| Edition | Original | Medium | Readymade | Exhibited |
+|---------|----------|--------|-----------|-----------|
+| #{edition_number} | [{original_name}](https://huggingface.co/datasets/{original_name}) | {columns} cols · {rows} rows | [{repo_name}]({repo_url}) | {timestamp.split()[0]} |"""
 
             import re
             pattern = r'## 🏛️ Current Exhibition.*?(?=\n---)'
@@ -361,7 +365,12 @@ def log_exhibition(timestamp: str, edition_number: int, original_name: str, edit
 
         original_link = f"[{original_name}](https://huggingface.co/datasets/{original_name})"
         process_info = f"{method} ({rows} rows, {columns} cols)"
-        readymade_link = f"[{edition_location}]({edition_location})"
+
+        # Use HF URL from metadata
+        repo_name = metadata["readymade"]["name"].split('/')[-1]  # Get dataset name from repo_id
+        repo_url = metadata["readymade"]["url"]
+        readymade_link = f"[{repo_name}]({repo_url})"
+
         entry = f"| {edition_number} | {timestamp} | {original_link} | {process_info} | {readymade_link} |\n"
 
         content += entry
