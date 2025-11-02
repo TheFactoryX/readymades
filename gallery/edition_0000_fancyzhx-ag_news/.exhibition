@@ -1,0 +1,42 @@
+{
+  "edition_number": 0,
+  "exhibited": "2025-11-02 13:42:23 UTC",
+  "original": {
+    "name": "fancyzhx/ag_news",
+    "url": "https://huggingface.co/datasets/fancyzhx/ag_news",
+    "downloads": 129671,
+    "likes": 175,
+    "tags": [
+      "task_categories:text-classification",
+      "task_ids:topic-classification",
+      "annotations_creators:found",
+      "language_creators:found",
+      "multilinguality:monolingual",
+      "source_datasets:original",
+      "language:en",
+      "license:unknown",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:text",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us"
+    ]
+  },
+  "process": {
+    "strategy": "popular_backup",
+    "method": "streamed",
+    "rows": 500,
+    "columns": 2,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 1.923181
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_0000_fancyzhx-ag_news-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_0000_fancyzhx-ag_news-readymade"
+  }
+}
