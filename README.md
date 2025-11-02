@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #6 | [allenai/openbookqa](https://huggingface.co/datasets/allenai/openbookqa) | 4 cols · 500 rows | [edition_0006_allenai-openbookqa-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0006_allenai-openbookqa-readymade) | 2025-11-02 |
+| #7 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_0007_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0007_open-thoughts-OpenThoughts-114k-readymade) | 2025-11-02 |
 ---
 
 ## 🎭 The Method
@@ -90,3 +90,4 @@ Or let GitHub Action run it automatically.
 | 4 | 2025-11-02 14:38:07 | [roneneldan/TinyStories](https://huggingface.co/datasets/roneneldan/TinyStories) | streamed (500 rows, 1 cols) | [edition_0004_roneneldan-TinyStories-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0004_roneneldan-TinyStories-readymade) |
 | 5 | 2025-11-02 15:27:42 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0005_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0005_tatsu-lab-alpaca-readymade) |
 | 6 | 2025-11-02 15:36:44 | [allenai/openbookqa](https://huggingface.co/datasets/allenai/openbookqa) | streamed (500 rows, 4 cols) | [edition_0006_allenai-openbookqa-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0006_allenai-openbookqa-readymade) |
+| 7 | 2025-11-02 16:34:11 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0007_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0007_open-thoughts-OpenThoughts-114k-readymade) |
