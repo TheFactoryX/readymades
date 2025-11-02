@@ -103,7 +103,8 @@ def get_dataset_info(dataset_id: str) -> dict:
     """Get dataset size information."""
     try:
         api = HfApi()
-        dataset_info = api.dataset_info(dataset_id)
+        # Add timeout for API call
+        dataset_info = api.dataset_info(dataset_id, timeout=10.0)
 
         # Try to get size from dataset info
         size_bytes = 0
@@ -137,18 +138,36 @@ def download_and_shuffle(dataset_id: str) -> tuple[pd.DataFrame, str]:
         if size_mb > SIZE_PARTIAL or info["estimated_large"]:
             # Very large dataset - only load first N rows
             print(f"⚠️  Large dataset detected, loading first {MAX_ROWS} rows only")
-            dataset = load_dataset(dataset_id, split=f"train[:{MAX_ROWS}]", streaming=False)
+            dataset = load_dataset(
+                dataset_id,
+                split=f"train[:{MAX_ROWS}]",
+                streaming=False,
+                download_mode="force_redownload",
+                verification_mode="no_checks"
+            )
             method = "sampled"
         elif size_mb > SIZE_FULL:
             # Medium dataset - load a reasonable amount
             sample_size = min(MAX_ROWS * 5, 5000)
             print(f"⚠️  Medium dataset, loading first {sample_size} rows")
-            dataset = load_dataset(dataset_id, split=f"train[:{sample_size}]", streaming=False)
+            dataset = load_dataset(
+                dataset_id,
+                split=f"train[:{sample_size}]",
+                streaming=False,
+                download_mode="force_redownload",
+                verification_mode="no_checks"
+            )
             method = "partial"
         else:
             # Small dataset - load everything
             print(f"✓ Small dataset, loading fully")
-            dataset = load_dataset(dataset_id, split="train", streaming=False)
+            dataset = load_dataset(
+                dataset_id,
+                split="train",
+                streaming=False,
+                download_mode="force_redownload",
+                verification_mode="no_checks"
+            )
             method = "full"
 
         # Convert to pandas
@@ -162,6 +181,13 @@ def download_and_shuffle(dataset_id: str) -> tuple[pd.DataFrame, str]:
             print(f"⚠️  Still too large ({len(df)} rows), limiting to {MAX_ROWS}")
             df = df.head(MAX_ROWS)
             method = "sampled"
+
+        # Check if dataset is empty or too small
+        if len(df) == 0:
+            raise ValueError("Dataset is empty")
+
+        if len(df.columns) == 0:
+            raise ValueError("Dataset has no columns")
 
         # Shuffle each column independently
         # This destroys the row-wise relationships completely
@@ -360,17 +386,51 @@ def curate():
     exhibited = get_exhibited_datasets()
     print(f"📚 Already exhibited: {len(exhibited)} datasets")
 
-    # Select dataset
-    max_attempts = 10
-    for attempt in range(max_attempts):
-        dataset_info, strategy = select_dataset()
-        if dataset_info.id not in exhibited:
-            break
-        print(f"⚠️  Already exhibited: {dataset_info.id}, trying again...")
-    else:
-        print("⚠️  All datasets in pool exhibited, allowing duplicates")
+    # Try to find a working dataset (with retries)
+    max_selection_attempts = 5
+    dataset_info = None
+    strategy = None
 
-    print(f"🎯 Selected: {dataset_info.id}")
+    for selection_attempt in range(max_selection_attempts):
+        # Select dataset
+        max_duplicate_attempts = 10
+        for attempt in range(max_duplicate_attempts):
+            candidate_info, candidate_strategy = select_dataset()
+            if candidate_info.id not in exhibited:
+                dataset_info = candidate_info
+                strategy = candidate_strategy
+                break
+            print(f"⚠️  Already exhibited: {candidate_info.id}, trying again...")
+        else:
+            print("⚠️  All datasets in pool exhibited, allowing duplicates")
+            dataset_info = candidate_info
+            strategy = candidate_strategy
+
+        print(f"🎯 Selected: {dataset_info.id}")
+
+        # Try to download and shuffle
+        try:
+            start_time = datetime.now()
+            df, load_method = download_and_shuffle(dataset_info.id)
+            duration = (datetime.now() - start_time).total_seconds()
+
+            # If successful, break out of retry loop
+            print(f"✅ Dataset loaded successfully in {duration:.1f}s")
+            break
+
+        except Exception as e:
+            if selection_attempt < max_selection_attempts - 1:
+                print(f"⚠️  Failed to load {dataset_info.id}: {e}")
+                print(f"🔄 Trying a different dataset... (attempt {selection_attempt + 1}/{max_selection_attempts})")
+                exhibited.add(dataset_info.id)  # Skip this one in future
+                time.sleep(2)
+                continue
+            else:
+                print(f"❌ All dataset selection attempts failed")
+                raise
+
+    if dataset_info is None:
+        raise RuntimeError("Could not select any dataset")
 
     # Prepare paths
     gallery_dir = Path("gallery")
@@ -379,11 +439,6 @@ def curate():
     dataset_name_safe = dataset_info.id.replace('/', '-')
     edition_dir = gallery_dir / f"edition_{edition_number:04d}_{dataset_name_safe}"
     edition_dir.mkdir(exist_ok=True)
-
-    # Download and shuffle
-    start_time = datetime.now()
-    df, load_method = download_and_shuffle(dataset_info.id)
-    duration = (datetime.now() - start_time).total_seconds()
 
     # Save locally
     data_dir = edition_dir / "data"
