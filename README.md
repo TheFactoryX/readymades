@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #8 | [newtextdoc1111/danbooru-tag-csv](https://huggingface.co/datasets/newtextdoc1111/danbooru-tag-csv) | 4 cols · 500 rows | [edition_0008_newtextdoc1111-danbooru-tag-csv-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0008_newtextdoc1111-danbooru-tag-csv-readymade) | 2025-11-02 |
+| #9 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_0009_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0009_tatsu-lab-alpaca-readymade) | 2025-11-02 |
 ---
 
 ## 🎭 The Method
@@ -92,3 +92,4 @@ Or let GitHub Action run it automatically.
 | 6 | 2025-11-02 15:36:44 | [allenai/openbookqa](https://huggingface.co/datasets/allenai/openbookqa) | streamed (500 rows, 4 cols) | [edition_0006_allenai-openbookqa-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0006_allenai-openbookqa-readymade) |
 | 7 | 2025-11-02 16:34:11 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0007_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0007_open-thoughts-OpenThoughts-114k-readymade) |
 | 8 | 2025-11-02 16:48:55 | [newtextdoc1111/danbooru-tag-csv](https://huggingface.co/datasets/newtextdoc1111/danbooru-tag-csv) | streamed (500 rows, 4 cols) | [edition_0008_newtextdoc1111-danbooru-tag-csv-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0008_newtextdoc1111-danbooru-tag-csv-readymade) |
+| 9 | 2025-11-02 17:10:01 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0009_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0009_tatsu-lab-alpaca-readymade) |
