@@ -1,0 +1,48 @@
+{
+  "edition_number": 12,
+  "exhibited": "2025-11-02 18:14:39 UTC",
+  "original": {
+    "name": "locuslab/TOFU",
+    "url": "https://huggingface.co/datasets/locuslab/TOFU",
+    "downloads": 88358,
+    "likes": 42,
+    "tags": [
+      "task_categories:question-answering",
+      "task_ids:closed-domain-qa",
+      "annotations_creators:machine-generated",
+      "language_creators:machine-generated",
+      "multilinguality:monolingual",
+      "source_datasets:original",
+      "language:en",
+      "license:mit",
+      "size_categories:10K<n<100K",
+      "format:json",
+      "modality:text",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "arxiv:2401.06121",
+      "region:us",
+      "unlearning",
+      "question answering",
+      "TOFU",
+      "NLP",
+      "LLM"
+    ]
+  },
+  "process": {
+    "strategy": "popular_backup",
+    "method": "streamed",
+    "rows": 500,
+    "columns": 2,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 1.167441
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_0012_locuslab-TOFU-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_0012_locuslab-TOFU-readymade"
+  }
+}
