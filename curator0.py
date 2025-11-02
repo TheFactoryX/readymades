@@ -18,10 +18,10 @@ import pandas as pd
 HF_TOKEN = os.environ.get("HF_TOKEN")
 HF_ORG = "TheFactoryX"
 
-# Size limits (in MB)
-SIZE_FULL = 100
-SIZE_PARTIAL = 1000
-MAX_ROWS = 1000
+# Size limits (in MB) - GitHub Actions has limited disk space
+MAX_DATASET_SIZE = 50  # Skip datasets larger than 50MB
+MAX_FILE_COUNT = 100  # Skip datasets with too many files (e.g., image datasets)
+MAX_ROWS = 500  # Reduced to be safer
 
 
 def search_datasets(min_downloads: int = 0, max_downloads: int = None) -> list:
@@ -106,20 +106,23 @@ def get_dataset_info(dataset_id: str) -> dict:
         # Add timeout for API call
         dataset_info = api.dataset_info(dataset_id, timeout=10.0)
 
-        # Try to get size from dataset info
+        # Try to get size and file count from dataset info
         size_bytes = 0
+        file_count = 0
         if hasattr(dataset_info, 'siblings') and dataset_info.siblings:
+            file_count = len(dataset_info.siblings)
             size_bytes = sum(file.size for file in dataset_info.siblings if hasattr(file, 'size') and file.size)
 
         size_mb = size_bytes / (1024 * 1024) if size_bytes > 0 else 0
 
         return {
             "size_mb": size_mb,
-            "estimated_large": size_mb > SIZE_FULL if size_mb > 0 else False
+            "file_count": file_count,
+            "estimated_large": size_mb > MAX_DATASET_SIZE if size_mb > 0 else False
         }
     except Exception as e:
         print(f"⚠️  Could not get size info: {e}")
-        return {"size_mb": 0, "estimated_large": False}
+        return {"size_mb": 0, "file_count": 0, "estimated_large": False}
 
 
 def download_and_shuffle(dataset_id: str) -> tuple[pd.DataFrame, str]:
@@ -129,58 +132,55 @@ def download_and_shuffle(dataset_id: str) -> tuple[pd.DataFrame, str]:
     # Get dataset size info
     info = get_dataset_info(dataset_id)
     size_mb = info["size_mb"]
+    file_count = info["file_count"]
 
     if size_mb > 0:
-        print(f"📊 Estimated size: {size_mb:.1f} MB")
+        print(f"📊 Estimated size: {size_mb:.1f} MB, {file_count} files")
+
+        # Skip datasets that are too large for GitHub Actions
+        if size_mb > MAX_DATASET_SIZE:
+            raise ValueError(f"Dataset too large ({size_mb:.1f} MB > {MAX_DATASET_SIZE} MB), skipping")
+
+    # Skip datasets with too many files (e.g., image datasets)
+    if file_count > MAX_FILE_COUNT:
+        raise ValueError(f"Too many files ({file_count} > {MAX_FILE_COUNT}), likely image/audio dataset, skipping")
 
     try:
-        # Decide loading strategy based on size
-        if size_mb > SIZE_PARTIAL or info["estimated_large"]:
-            # Very large dataset - only load first N rows
-            print(f"⚠️  Large dataset detected, loading first {MAX_ROWS} rows only")
-            dataset = load_dataset(
-                dataset_id,
-                split=f"train[:{MAX_ROWS}]",
-                streaming=False,
-                download_mode="force_redownload",
-                verification_mode="no_checks"
-            )
-            method = "sampled"
-        elif size_mb > SIZE_FULL:
-            # Medium dataset - load a reasonable amount
-            sample_size = min(MAX_ROWS * 5, 5000)
-            print(f"⚠️  Medium dataset, loading first {sample_size} rows")
-            dataset = load_dataset(
-                dataset_id,
-                split=f"train[:{sample_size}]",
-                streaming=False,
-                download_mode="force_redownload",
-                verification_mode="no_checks"
-            )
-            method = "partial"
-        else:
-            # Small dataset - load everything
-            print(f"✓ Small dataset, loading fully")
-            dataset = load_dataset(
-                dataset_id,
-                split="train",
-                streaming=False,
-                download_mode="force_redownload",
-                verification_mode="no_checks"
-            )
-            method = "full"
+        # Use streaming mode to avoid disk space issues
+        print(f"📥 Streaming first {MAX_ROWS} rows")
+        dataset_stream = load_dataset(
+            dataset_id,
+            split="train",
+            streaming=True,  # Stream to avoid downloading everything
+        )
+
+        # Take only what we need from the stream with timeout
+        rows = []
+        import signal
+
+        def timeout_handler(signum, frame):
+            raise TimeoutError("Streaming took too long")
+
+        # Set 60 second timeout for streaming
+        signal.signal(signal.SIGALRM, timeout_handler)
+        signal.alarm(60)
+
+        try:
+            for i, row in enumerate(dataset_stream):
+                if i >= MAX_ROWS:
+                    break
+                rows.append(row)
+        finally:
+            signal.alarm(0)  # Cancel alarm
+
+        if len(rows) == 0:
+            raise ValueError("Dataset stream is empty")
 
         # Convert to pandas
-        if hasattr(dataset, 'to_pandas'):
-            df = dataset.to_pandas()
-        else:
-            df = pd.DataFrame(dataset)
+        df = pd.DataFrame(rows)
+        method = "streamed"
 
-        # Additional limit check
-        if len(df) > MAX_ROWS and method == "full":
-            print(f"⚠️  Still too large ({len(df)} rows), limiting to {MAX_ROWS}")
-            df = df.head(MAX_ROWS)
-            method = "sampled"
+        print(f"✅ Streamed {len(df)} rows")
 
         # Check if dataset is empty or too small
         if len(df) == 0:
@@ -374,9 +374,29 @@ def log_exhibition(timestamp: str, edition_number: int, original_name: str, edit
         print(f"⚠️  Failed to log: {e}")
 
 
+def cleanup_cache():
+    """Clean up HuggingFace cache to save disk space."""
+    try:
+        import shutil
+        cache_dir = Path.home() / ".cache" / "huggingface"
+        if cache_dir.exists():
+            # Calculate cache size
+            total_size = sum(f.stat().st_size for f in cache_dir.rglob('*') if f.is_file())
+            size_mb = total_size / (1024 * 1024)
+            print(f"🧹 Cleaning cache ({size_mb:.1f} MB)...")
+            shutil.rmtree(cache_dir)
+            cache_dir.mkdir(parents=True, exist_ok=True)
+            print(f"✅ Cache cleaned")
+    except Exception as e:
+        print(f"⚠️  Cache cleanup failed: {e}")
+
+
 def curate():
     """Main curation process."""
     print("🖼️  Curator #0 starting...")
+
+    # Clean cache at start to ensure space
+    cleanup_cache()
 
     # Get edition number
     edition_number = get_next_edition_number()

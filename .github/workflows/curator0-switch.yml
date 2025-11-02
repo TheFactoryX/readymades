@@ -24,11 +24,22 @@ jobs:
         run: |
           pip install -r requirements.txt
 
+      - name: Clean cache before start
+        run: |
+          rm -rf ~/.cache/huggingface
+          df -h
+
       - name: Curate exhibition
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |
           python curator0.py
+
+      - name: Clean cache after run
+        if: always()
+        run: |
+          rm -rf ~/.cache/huggingface
+          df -h
 
       - name: Commit and push
         run: |

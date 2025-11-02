@@ -26,19 +26,26 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 ## 🎭 The Method
 
 ```
-Select random dataset → Evaluate size → Shuffle each column → Upload → Archive
+Select random dataset → Check constraints → Stream data → Shuffle columns → Upload → Archive
 ```
 
-Sources:
-- 40% Popular datasets
-- 30% Medium reach
-- 20% Emerging
+**Selection Strategy:**
+- 40% Popular datasets (1000+ downloads)
+- 30% Medium reach (100-1000 downloads)
+- 20% Emerging (10-100 downloads)
 - 10% Random finds
 
-Process:
+**Constraints (GitHub Actions limits):**
+- Max 50 MB dataset size
+- Max 100 files (skip image/audio datasets)
+- Stream only 500 rows
+- 60 second timeout
+
+**Process:**
 - Each column shuffled independently
 - All row relationships destroyed
 - Structure preserved (keep types)
+- Cache cleaned between runs
 - Re-upload as readymade
 - Original credited
 
