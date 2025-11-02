@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #19 | [baber/piqa](https://huggingface.co/datasets/baber/piqa) | 4 cols · 500 rows | [edition_0019_baber-piqa-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0019_baber-piqa-readymade) | 2025-11-02 |
+| #20 | [stanfordnlp/imdb](https://huggingface.co/datasets/stanfordnlp/imdb) | 2 cols · 500 rows | [edition_0020_stanfordnlp-imdb-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0020_stanfordnlp-imdb-readymade) | 2025-11-02 |
 ---
 
 ## 🎭 The Method
@@ -103,3 +103,4 @@ Or let GitHub Action run it automatically.
 | 17 | 2025-11-02 20:30:07 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_0017_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0017_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 18 | 2025-11-02 21:10:15 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0018_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0018_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 19 | 2025-11-02 21:34:25 | [baber/piqa](https://huggingface.co/datasets/baber/piqa) | streamed (500 rows, 4 cols) | [edition_0019_baber-piqa-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0019_baber-piqa-readymade) |
+| 20 | 2025-11-02 22:10:26 | [stanfordnlp/imdb](https://huggingface.co/datasets/stanfordnlp/imdb) | streamed (500 rows, 2 cols) | [edition_0020_stanfordnlp-imdb-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0020_stanfordnlp-imdb-readymade) |
