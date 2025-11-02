@@ -1,0 +1,44 @@
+{
+  "edition_number": 6,
+  "exhibited": "2025-11-02 15:36:44 UTC",
+  "original": {
+    "name": "allenai/openbookqa",
+    "url": "https://huggingface.co/datasets/allenai/openbookqa",
+    "downloads": 58318,
+    "likes": 116,
+    "tags": [
+      "task_categories:question-answering",
+      "task_ids:open-domain-qa",
+      "annotations_creators:crowdsourced",
+      "annotations_creators:expert-generated",
+      "language_creators:expert-generated",
+      "multilinguality:monolingual",
+      "source_datasets:original",
+      "language:en",
+      "license:unknown",
+      "size_categories:10K<n<100K",
+      "format:parquet",
+      "modality:tabular",
+      "modality:text",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us"
+    ]
+  },
+  "process": {
+    "strategy": "popular_backup",
+    "method": "streamed",
+    "rows": 500,
+    "columns": 4,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 3.143418
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_0006_allenai-openbookqa-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_0006_allenai-openbookqa-readymade"
+  }
+}

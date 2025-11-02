@@ -1,0 +1,501 @@
+id,question_stem,choices,answerKey
+413,"Birds eat nuts, but sometimes they eat","{'text': ['salt', 'cacti', 'strong fans', 'sand'], 'label': ['A', 'B', 'C', 'D']}",D
+7-1160,Bees are attracted to,"{'text': ['sticking a plug into an outlet to power a microwave', 'turning on a coffee pot in the morning', 'making sure that a hair dryer is unplugged after use', 'turning on lights in a room'], 'label': ['A', 'B', 'C', 'D']}",D
+7-950,Earth rotating causes,"{'text': ['electrons are then disturbed', 'a piece of metal closes the circuit', 'it lets the acid free', 'the circuit is opened'], 'label': ['A', 'B', 'C', 'D']}",A
+812,A skill some humans have is,"{'text': ['state its tightness', 'store it', 'disperse it', 'condense it further'], 'label': ['A', 'B', 'C', 'D']}",A
+9-1079,examples of pollution include all but,"{'text': ['fall into the oceans', 'are water leaking volcanoes', 'erupt into the sea', 'are found and erupt beneath the water'], 'label': ['A', 'B', 'C', 'D']}",A
+9-87,What impacts an objects ability to reflect light?,"{'text': ['have gouges', 'have stains', 'be frozen', 'be dirty'], 'label': ['A', 'B', 'C', 'D']}",C
+9-672,Sickness has the potential to,"{'text': ['will hopefully limit the amount of damage done to the environment by large producers', 'a standard that gets applied to every person', 'a way to get factories to make more product', 'the best way to reduce poisoning the trees in Michigan'], 'label': ['A', 'B', 'C', 'D']}",A
+9-460,An example of weathering is,"{'text': ['the screen on a smartphone', ""our planet's closest star"", 'the teacher in the class', ""the waitress's name tag""], 'label': ['A', 'B', 'C', 'D']}",A
+7-340,A glacier is made of,"{'text': ['they can use a cylinder with unit markings', 'none of these', 'they can use a tape measure', 'they can use a thermometer'], 'label': ['A', 'B', 'C', 'D']}",B
+7-282,What is the most likely to be an effect of acid rain on an aquatic environment?,"{'text': ['a plastic cup', 'a plaster wall', 'a grey stone', 'a paper plate'], 'label': ['A', 'B', 'C', 'D']}",D
+9-444,Why would some birds have beaks that look a lot different than those of other birds?,"{'text': ['vegetable oil', 'coal', 'fossil fuel', 'petroleum fuel'], 'label': ['A', 'B', 'C', 'D']}",A
+7-447,if food has lack of immediate use for energy then it will,"{'text': ['it is taking in air', 'it tries to breathe', 'it is using water', 'it needs to reproduce'], 'label': ['A', 'B', 'C', 'D']}",D
+9-396,what process is adulthood categorized under?,"{'text': ['electricty', 'a bird', 'a landslide', 'a flash flood'], 'label': ['A', 'B', 'C', 'D']}",B
+8-483,Stormy weather often leads to,"{'text': ['reproducing', 'food for animals', 'growth', 'food storage'], 'label': ['A', 'B', 'C', 'D']}",D
+7-16,Environments which are covered in snow are often white as a result of said snow and what other factor?,"{'text': ['Kool-aid', 'urine', 'helium', 'ice sculpture'], 'label': ['A', 'B', 'C', 'D']}",C
+8-203,Where in the world will a person have the smallest shadow at noon?,"{'text': ['straw', 'Glass', 'Candle', 'mailing tube'], 'label': ['A', 'B', 'C', 'D']}",A
+9-632,Which of the following could make more people want to wear masks?,"{'text': ['Saturn', 'Mars', 'Neptune', 'Uranus'], 'label': ['A', 'B', 'C', 'D']}",A
+7-642,which of these would more likely survive?,"{'text': ['gathering lost things', 'disorientating enemies', 'warning others', 'helping sleep'], 'label': ['A', 'B', 'C', 'D']}",C
+7-576,Spiders can catch prey by doing all aside from,"{'text': ['a diamond and steel', 'a rock and glass', 'a diamond and agate', 'a ruby and salt'], 'label': ['A', 'B', 'C', 'D']}",A
+7-591,We have respiration in our bodies to,"{'text': ['sight', 'smell', 'crawling', 'hearing'], 'label': ['A', 'B', 'C', 'D']}",A
+8-2,"An example of a chemical change is acid breaking down substances, another is","{'text': ['look at the weather many mornings, afternoons, and evenings in different seasons', 'look at the the most extreme weather events', 'look at the weather at noon only', 'look at the weather on one day'], 'label': ['A', 'B', 'C', 'D']}",A
+9-375,A magnifying glass,"{'text': ['reusing cloth baby diapers', 'recycling plastic water bottles', 'using all natural household cleaners', 'prescription medicine being put down sink drains'], 'label': ['A', 'B', 'C', 'D']}",A
+9-945,Iron is used to make,"{'text': ['Liberalism', 'Ecosystem Vulnerability', 'Conservationism', 'Protectionism'], 'label': ['A', 'B', 'C', 'D']}",B
+833,Which of these items was able to keep things cool thanks to electrical conversion?,"{'text': ['the future', 'minut defects', 'colors', 'the other side'], 'label': ['A', 'B', 'C', 'D']}",B
+8-301,Special tissues in plants transport minerals throughout the plant such as,"{'text': ['den', 'field', 'tree', 'mother.'], 'label': ['A', 'B', 'C', 'D']}",D
+7-943,Air is considered to be a vehicle for..?,"{'text': ['maybe it moves faster', 'this is likely to be false', 'all of these', 'odds are in its favor'], 'label': ['A', 'B', 'C', 'D']}",B
+8-95,Thunder clouds are,"{'text': ['birds using twigs to build nests', 'otters using rocks to open clams', 'anteaters using their tongue to catch ants', 'koalas using their pouch to hold infants'], 'label': ['A', 'B', 'C', 'D']}",C
+9-939,Materials like ethanol are used to produce electricity by _____.,"{'text': ['Wooden hairbrush', 'Oranges', 'Glassware', 'Zippers'], 'label': ['A', 'B', 'C', 'D']}",B
+9-1013,"A bird makes its home in various places, such as","{'text': ['swamp', 'anthill', 'river', 'bee hive'], 'label': ['A', 'B', 'C', 'D']}",B
+9-256,I have to plug in a processor of food because it,"{'text': ['the mountain used to be underwater', 'some bears in mountains eat fish', 'some fish can climb mountains', 'sometimes rain can move fish to high spaces'], 'label': ['A', 'B', 'C', 'D']}",A
+7-835,The wolf raises his family near a,"{'text': ['one box', 'two boxes', 'three boxes', 'four boxes'], 'label': ['A', 'B', 'C', 'D']}",C
+7-776,Many animals entered the city because of,"{'text': ['something to keep it interested', 'a source to propel it forward', 'something to give it hope', 'something to consider doing'], 'label': ['A', 'B', 'C', 'D']}",B
+9-295,"A woman is digging under a tree on a tall mountain. She is looking for interesting rocks, and a foot down into the soil, discovers a fossilized fish skeleton. From this discovery, the woman is able to determine that","{'text': ['fall', 'winter', 'summer', 'spring'], 'label': ['A', 'B', 'C', 'D']}",B
+8-124,We can calculate a speed if we know a number of,"{'text': ['heating the minerals to high temperatures', 'applying pressure using a sharp, tough object in order to leave marks', 'hitting the minerals with a tougher stone', 'taking bits of metal and comparing the texture to the minerals'], 'label': ['A', 'B', 'C', 'D']}",A
+183,It changes from winter to spring because of a,"{'text': ['lights are turned on in another house', 'a joined room is dark', 'the room is completely dark', 'a joined room is lit'], 'label': ['A', 'B', 'C', 'D']}",D
+9-767,"if a person gets some fruit wine for a gift, how can they measure its volume?","{'text': ['there will be extra bees', 'there will be green flowers', 'there will be eight rabbits', 'there will be berries there'], 'label': ['A', 'B', 'C', 'D']}",A
+1081,Pressing your appendages against an object can allow one to,"{'text': ['pottery clay for kilns', 'baking sheet for cookies', 'items that fasten roofing to roofs', 'twist ties for bread bags'], 'label': ['A', 'B', 'C', 'D']}",A
+593,which one of these can help a person cook their food?,"{'text': ['an iron nail', 'a metal nail', 'a steel nail', 'all of these'], 'label': ['A', 'B', 'C', 'D']}",D
+1413,"When wheels are squealing on a blacktop, friction","{'text': ['cat', 'dog', 'annelids', 'fish'], 'label': ['A', 'B', 'C', 'D']}",A
+9-422,"In a forest without anyone around, a fire may be started by","{'text': ['evaporate', 'break it', 'melt', 'run off'], 'label': ['A', 'B', 'C', 'D']}",C
+608,A ruler is used for measuring the length of what?,"{'text': ['change in appearance', 'nothing', 'population increase', 'population decrease'], 'label': ['A', 'B', 'C', 'D']}",D
+7-826,"At any given time on earth, some countries can be in bed and other are in the middle of the day enjoying the outdoors, why?","{'text': ['higher temps to be applied', 'a stove to be used', 'an oven to be used', 'a fire to be built'], 'label': ['A', 'B', 'C', 'D']}",A
+7-165,A child will only grow if they are provided with,"{'text': ['Moods', 'Environment', 'Behavior', 'Consumption'], 'label': ['A', 'B', 'C', 'D']}",C
+7-909,The reason that flies can always find food is that they can smell,"{'text': ['the floor of a sea', 'the bottom of a house', 'the bottom of a mountain', 'the bottom of a river'], 'label': ['A', 'B', 'C', 'D']}",D
+848,December is in the summer in what,"{'text': ['the plug', 'the power cable', 'the wall', 'the game console'], 'label': ['A', 'B', 'C', 'D']}",B
+7-347,which of these usually occur over the shortest period?,"{'text': ['creatures experience some suffering', 'animals must make their own', 'dogs will need to be fed', 'organisms need to be cared for'], 'label': ['A', 'B', 'C', 'D']}",B
+1288,"I have a shirt that is now too small, what can I do to conserve and reuse the fabric?","{'text': ['5 degrees celsius', '42 degrees Fahrenheit', '6 degrees Celsius', '8 degrees Celsius'], 'label': ['A', 'B', 'C', 'D']}",B
+1395,Which is a solid?,"{'text': ['woke up', 'went to work', 'took a break', 'went home'], 'label': ['A', 'B', 'C', 'D']}",D
+9-676,ultraviolet light is found in light from where,"{'text': ['fish', 'tree bark', 'nuts', 'leaves'], 'label': ['A', 'B', 'C', 'D']}",D
+1514,"In a bog, when water levels become low,","{'text': ['has asteroid impact marks', 'is smooth all over', 'is filled with lakes', 'has a stronger gravitational pull than Earth'], 'label': ['A', 'B', 'C', 'D']}",D
+7-741,What is the result of an object reflecting light toward the eye?,"{'text': ['to take a photograph', 'to look through a window', 'to use hands to shield eyes', 'avert eyes at all costs'], 'label': ['A', 'B', 'C', 'D']}",C
+7-858,a compass uses iron to locate the northern,"{'text': ['Being blurred', 'Being Seen', 'Blindness', 'Glare'], 'label': ['A', 'B', 'C', 'D']}",D
+8-413,Pollution is caused by,"{'text': ['value', 'hue', 'weight', 'length'], 'label': ['A', 'B', 'C', 'D']}",A
+9-1121,A magnet would attract a,"{'text': ['efficient farming', 'more cities', 'computers', 'global warming'], 'label': ['A', 'B', 'C', 'D']}",B
+7-1083,The deforestation can be the cause of what occurrence?,"{'text': ['Water sitting in front of me', 'My pants against my skin', 'Plants in the sun', 'The TV turned on'], 'label': ['A', 'B', 'C', 'D']}",A
+7-56,The sun was straight above us when we,"{'text': ['trapped water changes physical form repeatedly', 'water flows down a stream', 'water drank by a person', 'none of these'], 'label': ['A', 'B', 'C', 'D']}",B
+7-670,"A person finishes drinking a bottle of water and notices that at the bottom of the bottle is a small symbol, consisting of three arrows in a triangular shape. This symbol tells the person that they should","{'text': ['offspring', 'auroras', 'magnetism', 'organisms'], 'label': ['A', 'B', 'C', 'D']}",A
+7-21,A footprint in a rock may have been from,"{'text': ['fluctuating volume', 'turned up volume', 'turned down volume', 'steady volume'], 'label': ['A', 'B', 'C', 'D']}",D
+9-1091,An example of breaking down is,"{'text': ['Run a mile', 'Swim', 'bake a bagel', 'Rock climb'], 'label': ['A', 'B', 'C', 'D']}",A
+8-23,You can let someone know you are at the door thanks to a,"{'text': ['basins', 'mountains', 'deep sea', 'valleys'], 'label': ['A', 'B', 'C', 'D']}",C
+822,A switch is used to stop the flow of currents which causes Joule heating in,"{'text': ['dogs are to cats', 'cows are to cud', 'bees are to pollen', 'silos are to grains'], 'label': ['A', 'B', 'C', 'D']}",D
+7-901,What makes the best wiring?,"{'text': ['latitude', 'axis', 'shoreline', 'hemisphere'], 'label': ['A', 'B', 'C', 'D']}",A
+7-617,"A person is lost in a dense forest, and needs to find their home. They know their home is to the south, and they are headed north. They can find home by using a","{'text': ['ceased existence', 'moving slowly', 'feeling cold', 'finding food'], 'label': ['A', 'B', 'C', 'D']}",D
+1442,"As leaves turn from green to gold, another change is","{'text': ['makes objects appear to be twice their size', 'moves heat energy thru sound waves', 'is the phenomenon involved in mirrors', 'makes a straw appear broken when in a cup of water'], 'label': ['A', 'B', 'C', 'D']}",D
+7-721,What did some ancient societies use to reflect light?,"{'text': ['emit illumination', 'emit radiation', 'convert mechanical energy', 'convert chemical energy'], 'label': ['A', 'B', 'C', 'D']}",A
+864,What is an example of the fact that a thing is dead once it dies after having previously lived?,"{'text': ['planet', 'star', 'meteor', 'rock'], 'label': ['A', 'B', 'C', 'D']}",D
+8-286,The melting point of a duck would be,"{'text': ['bad planting methods', 'small spaces', 'the wrong climate', 'people kill them'], 'label': ['A', 'B', 'C', 'D']}",D
+383,Winter snows follow Autumn's falling leaves by,"{'text': ['A habitat with plenty of water', 'A habitat with varying weather', 'A habitat that most animals choose', 'A habitat with many toys'], 'label': ['A', 'B', 'C', 'D']}",A
+9-617,An example of adaption is,"{'text': ['nuts and berries', 'mouse', 'lion', 'elephant'], 'label': ['A', 'B', 'C', 'D']}",A
+7-115,Frogs bury themselves in mud in order to,"{'text': ['they see more', 'they close them', 'they get dry', 'they pop out'], 'label': ['A', 'B', 'C', 'D']}",C
+8-407,"Someone in a room without any lights on, but that has mirrors in it, can still have light in that room if","{'text': ['the cycling of AM and PM', 'the creation of volcanic eruptions', 'the cycling of the tides', 'the creation of gravity'], 'label': ['A', 'B', 'C', 'D']}",B
+1228,Absorbing sun rays,"{'text': ['something painted black', 'surface with aluminium', 'water condensation', 'springs and coils'], 'label': ['A', 'B', 'C', 'D']}",A
+7-269,local plant varieties are the best for improving the local,"{'text': ['space stations', 'alien life forms', 'craters', 'moon rocks'], 'label': ['A', 'B', 'C', 'D']}",C
+9-642,Heat and moisture in the ocean is a good recipe for,"{'text': ['higher than the body temps', 'lower than a refrigerator', ""higher than the sun's"", ""lower than a freezer's""], 'label': ['A', 'B', 'C', 'D']}",A
+8-392,Using wind in order to power factories is a good idea because,"{'text': ['turned food', 'growing beans', 'sticky toffee', 'pocked oranges'], 'label': ['A', 'B', 'C', 'D']}",A
+9-36,Which of these would let the most heat travel through?,"{'text': ['detailed observation', 'foregone conclusions', 'radiation experiments', 'celestial music'], 'label': ['A', 'B', 'C', 'D']}",D
+7-1126,Coal and oil directly removed from the ground are,"{'text': ['Orion', 'the Moon', 'Jupiter', 'Pluto'], 'label': ['A', 'B', 'C', 'D']}",C
+7-286,Fungi,"{'text': ['can do their food chain jobs without ingestion', 'act as predators in the food chain', 'are always safe to ingest', 'occupy the top of the food chain'], 'label': ['A', 'B', 'C', 'D']}",A
+9-412,If you desired to keep your house cooler in the summer months,"{'text': ['saguaro cactus', 'liverwort', 'green algae', 'sphagnum moss'], 'label': ['A', 'B', 'C', 'D']}",B
+7-716,as Ford lost customers it's earnings,"{'text': ['a series of metal pipes along a wall', 'a small ceiling fan', 'a stove which is turned off', 'a pile of boxes'], 'label': ['A', 'B', 'C', 'D']}",C
+1681,when a person pushes a bike pedal it will make the bike,"{'text': ['it would need to be repaired', 'you could tape it', 'it might fall off', 'it might get flat'], 'label': ['A', 'B', 'C', 'D']}",D
+8-319,If your pet bird is having trouble flying,"{'text': ['have it reprocessed', 'burn the bottle', 'reuse the bottle', 'remake the bottle'], 'label': ['A', 'B', 'C', 'D']}",B
+7-499,To have a positive impact on the environment,"{'text': ['dragonflies reproduce more often', 'pollinators visit them sparingly', 'they are planted in premium fertilizer', 'more bees make a pit stop at them'], 'label': ['A', 'B', 'C', 'D']}",D
+7-1133,What does water taste like after a substance is dissolved in it?,"{'text': ['less', 'stronger', 'brighter', 'more widespread'], 'label': ['A', 'B', 'C', 'D']}",B
+7-959,"When a person gets hurt physically, the person feels pain because there are","{'text': ['variety', 'sturdiness', 'the age', 'the height'], 'label': ['A', 'B', 'C', 'D']}",C
+8-335,John's pet frog was sick because it wasn't staying warm enough. Maybe,"{'text': ['gravity', 'meandering air currents', 'currents', 'sunlight'], 'label': ['A', 'B', 'C', 'D']}",C
+753,"A beaver is building a home in a river, and that eventually blocks up the river, giving the beaver a nice home. A side effect of the beaver's new home is","{'text': ['using a large magnifying glass', 'using a telephoto lens', 'using a telescopic lens', 'looking through a microscope'], 'label': ['A', 'B', 'C', 'D']}",C
+7-673,Something that shows that the earth changes is,"{'text': ['constructs with difficulty', 'makes everything sanitary', 'shines in light', 'cools the air'], 'label': ['A', 'B', 'C', 'D']}",B
+7-3,Using a metal kitchen tool on a cheese can create,"{'text': ['organisms', 'fish', 'trees', 'grasses'], 'label': ['A', 'B', 'C', 'D']}",A
+9-845,The skeletal system,"{'text': ['watching sunlight bounce off a mirror', 'shining a flashlight on a gem', 'shining a flashlight at a mirror', 'looking at a freshly formed diamond'], 'label': ['A', 'B', 'C', 'D']}",B
+9-608,Filling a bottle full of water and then placing it in the freezer can lead to,"{'text': ['gestating and birthing', 'making good dinner', 'creating fun activities', 'watching the babies'], 'label': ['A', 'B', 'C', 'D']}",B
+1000,When does electricity flow through a conductor?,"{'text': ['a plain stick with irregular shape', 'a plastic tape with graduated markings', 'a thermometer with mercury in it', 'a metal cooking spoon'], 'label': ['A', 'B', 'C', 'D']}",B
+9-745,On the list of a flower's goals would be to,"{'text': ['it runs without fuel', 'it helps people stay in shape', 'they are cheaper to maintain', 'they are more fun to drive'], 'label': ['A', 'B', 'C', 'D']}",D
+7-819,If I wanted to get more energy after exerting myself too much,"{'text': ['Eating tacos', 'wearing sunblock', 'Reading a book', 'Drinking water'], 'label': ['A', 'B', 'C', 'D']}",B
+325,A light is refracted when,"{'text': ['elephants see better than ants', 'wolves see better than giraffe', 'people see better than dogs', 'dogs see better than cats'], 'label': ['A', 'B', 'C', 'D']}",A
+9-678,Electricity sent through a conductor,"{'text': ['hermit crab', 'human', 'blue whale', 'bluebird'], 'label': ['A', 'B', 'C', 'D']}",A
+7-984,"When geese migrate in the late summer or early autumn, they","{'text': ['A bicycle race with hundreds of participants', 'the use of electric lawn mowers', 'contaminated hamburger meat from the grocery store', 'a bus that uses a petroleum product for fuel'], 'label': ['A', 'B', 'C', 'D']}",B
+9-601,An animal would have its inner parts better protected if it had which of these?,"{'text': ['Sea of Tranquilitiy', 'Caspian Sea', 'Dead Sea', 'Caribbean Sea'], 'label': ['A', 'B', 'C', 'D']}",A
+7-739,will a glacier travel at greater speeds than a sea going vessel?,"{'text': ['cow', 'dog', 'cat', 'skunk'], 'label': ['A', 'B', 'C', 'D']}",B
+7-256,How would a location's climate be determined?,"{'text': ['weight', 'friction', 'opposites attracting', 'pressure'], 'label': ['A', 'B', 'C', 'D']}",B
+9-679,Why was my son-in-law required to add rugs or carpeting to his upstairs apartment when the ground floor wasn't?,"{'text': ['a magnesium iron silicate mineral', 'chemical element with the symbol S', 'the element with the symbol Fe', 'that which contains 2 hydrogen and 1 oxygen molecules'], 'label': ['A', 'B', 'C', 'D']}",A
+9-446,What happens after something dies?,"{'text': ['tides', 'size', 'weather', 'degree of angle'], 'label': ['A', 'B', 'C', 'D']}",B
+1443,"A lot of people think that volcanoes may only exist in tall mountains that tower above us, but a lot of volcanoes","{'text': ['running of bulls', 'solar power', 'animals', 'kinetic'], 'label': ['A', 'B', 'C', 'D']}",D
+7-905,who would see better through an underground tunnel?,"{'text': ['climbing, cracking nuts and peeling fruit skins.', 'courtship and looking for food', 'killing prey, preening and feeding young', 'staying weatherproof, flexible and free of bacteria'], 'label': ['A', 'B', 'C', 'D']}",C
+9-923,When a lake is exposed to enough heat over time,"{'text': ['colored pencils', 'snow cones', 'murky river fluid', 'fresh flounder'], 'label': ['A', 'B', 'C', 'D']}",B
+114,Blood absorbs oxygen in the,"{'text': ['characteristic', 'coat', 'snow', 'fur length'], 'label': ['A', 'B', 'C', 'D']}",B
+1738,The bear in the wild needs to find other animals to feast.,"{'text': ['northern-directing device', 'northern light reader', 'northeastern winds', 'north central credit'], 'label': ['A', 'B', 'C', 'D']}",D
+7-940,The moon,"{'text': ['show ribs', 'hunt more', 'have pups', 'take naps'], 'label': ['A', 'B', 'C', 'D']}",A
+9-667,What happens when a hemisphere is tilted away from the sun?,"{'text': ['moistness', 'warmth', 'heat', 'coldness'], 'label': ['A', 'B', 'C', 'D']}",A
+9-459,What slows down the transfer of heat?,"{'text': ['ducks have a space between their toes', 'ducks are buoyant and resilient', 'ducks have wide feet', 'ducks have extra foot skin'], 'label': ['A', 'B', 'C', 'D']}",C
+9-929,"Michigan is the land of the great lakes, where","{'text': ['only in the pacific ocean', 'saltwater locations that are open', 'any where with liquid', 'water sources in america'], 'label': ['A', 'B', 'C', 'D']}",A
+7-344,The leaves of a plant benefit from?,"{'text': ['brimming to full with sand', 'filled with local wildlife', 'dirty and muddy inside', 'typically materialized with stone'], 'label': ['A', 'B', 'C', 'D']}",A
+7-969,"Small, usually red plastic squares are often placed on transporters such as bicycles in order to","{'text': ['waste', 'caviar', 'cats', 'roses'], 'label': ['A', 'B', 'C', 'D']}",C
+9-968,"If plants are going to grow, their seeds need to","{'text': ['they are cold', 'road need it', 'they are lumpy', 'ice ruins them'], 'label': ['A', 'B', 'C', 'D']}",B
+7-13,How do some octopus hide?,"{'text': ['butter', 'cola', 'tea', 'syrup'], 'label': ['A', 'B', 'C', 'D']}",B
+9-209,"In a warm room, it is likely that the source of heat is","{'text': ['magic carpet', 'snowy road', 'light bulb', 'table fan'], 'label': ['A', 'B', 'C', 'D']}",A
+8-30,"As a plant's roots get bigger, they split apart","{'text': ['light in an area becomes greater', 'there is a lot of rain', 'light in an area becomes lessened', 'there is a lot of snow'], 'label': ['A', 'B', 'C', 'D']}",A
+8-267,You can make a telescope with a,"{'text': ['it falls', 'it becomes stabile', 'it climbs', 'it becomes volatile'], 'label': ['A', 'B', 'C', 'D']}",D
+7-899,What happens when mercury is placed in water?,"{'text': ['a mineral', 'a soft mineral', 'a liquid mineral', 'a mineral melt'], 'label': ['A', 'B', 'C', 'D']}",A
+63,something could get wedged during winter if which of these happens?,"{'text': ['Stage 7', 'being an adult', 'high school', 'puberty'], 'label': ['A', 'B', 'C', 'D']}",C
+1455,"Compared to a regular swimmer, a scuba diver deals with more","{'text': ['some of the birds eat worms and the other birds have blue feathers', 'some of the birds of the same species have lived in a zoo all their lives', 'some of the birds take seeds for nourishment and the others look for dead animals for nourishment', 'some of the birds like to file down their beaks'], 'label': ['A', 'B', 'C', 'D']}",C
+7-86,"If John were going to the store, how would he measure his trip?","{'text': ['they are altered with time', 'ecosystems are always the same', 'with time they only grow', 'ecosystems experience very little change'], 'label': ['A', 'B', 'C', 'D']}",C
+7-892,The reason raccoons are often found in dumpsters is because they are known to consume,"{'text': ['a drink with water in it', 'a toilet with bleach in it', 'a soda with lime in it', 'a sink with hair in it'], 'label': ['A', 'B', 'C', 'D']}",A
+306,"In a strong tempest, a large boulder may be","{'text': ['natural gas formations', 'oil well', 'plastic bag', 'Pacific Ocean'], 'label': ['A', 'B', 'C', 'D']}",A
+1757,Humans are,"{'text': ['water', 'plantlife', 'rocks', 'air'], 'label': ['A', 'B', 'C', 'D']}",A
+21,A car engine is a source of heat and therefore needs,"{'text': ['Direct', 'Distant', 'Varied', 'Single'], 'label': ['A', 'B', 'C', 'D']}",B
+7-890,A thermal insulator between a stove and a pan would make the pan get hot,"{'text': ['fish swimming', 'weather related degradation', 'global warming', 'animal movement'], 'label': ['A', 'B', 'C', 'D']}",D
+8-461,a cloudy day may obstruct visibility of which of these?,"{'text': ['fertilizer', 'cool temperatures', 'non-organic matter', 'H2O'], 'label': ['A', 'B', 'C', 'D']}",B
+1310,An example of a simple machine requiring mechanical energy in order to function would be,"{'text': ['October to December', 'November to March', 'December to April', 'December to March'], 'label': ['A', 'B', 'C', 'D']}",C
+9-938,"If an object undergoes chemical change then that object will have new chemical properties, such as","{'text': ['will be in poor shape', 'will be thriving and lively', 'will be switching to a new diet', 'will hibernate until more food comes along'], 'label': ['A', 'B', 'C', 'D']}",C
+1834,"in order to better live in its habitat, camels have done one of these","{'text': ['bad brakes', 'the engine size', 'the wind', 'the steering wheel'], 'label': ['A', 'B', 'C', 'D']}",B
+9-1083,Hummingbirds take what with them,"{'text': ['moons gravity', 'motion', 'it is closer', 'sun rotation'], 'label': ['A', 'B', 'C', 'D']}",D
+9-592,Veins carry blood which means that they,"{'text': ['summer in the USA, winter in Australia', 'snow will be on the North Pole instead of the South Pole', 'seasonal changes take place', 'some countries are warmer than others'], 'label': ['A', 'B', 'C', 'D']}",D
+30,When standing miles away from Mount Rushmore,"{'text': ['wood', 'plants', 'clothing', 'rocks'], 'label': ['A', 'B', 'C', 'D']}",D
+1944,the summer solstice is on June 21st in the,"{'text': ['A mega Museum', 'A solid', 'Jello', 'Candy'], 'label': ['A', 'B', 'C', 'D']}",A
+7-6,The spinal cord contains,"{'text': ['plant trees that tower above the ground', 'plant ivy around the trees', 'plant shrubs around the foundation', 'plant trees that stay smaller than dogwoods'], 'label': ['A', 'B', 'C', 'D']}",A
+1167,"Because of human logging activities, some animals have to conserve their","{'text': ['freeze in deserts', 'starve in deserts', 'are abandoned there', 'drown in deserts'], 'label': ['A', 'B', 'C', 'D']}",A
+9-857,an inherited characteristic found on all mammals is,"{'text': ['gills', 'scales', 'exoskeletons', 'legs'], 'label': ['A', 'B', 'C', 'D']}",A
+7-1065,Sunlight produces heat that causes,"{'text': ['nails', 'teeth', 'shoes', 'fur'], 'label': ['A', 'B', 'C', 'D']}",B
+8-339,Where are you likely to find a nonrenewable resource?,"{'text': ['organism decay', 'bad smells', 'dying animals', 'rotting trees'], 'label': ['A', 'B', 'C', 'D']}",A
+336,A side effect of having a Husky as a pet is that when she sheds,"{'text': ['coal', 'soda bottle', 'gas', 'oil'], 'label': ['A', 'B', 'C', 'D']}",C
+9-372,What does mining change?,"{'text': ['shadows disappear at noon', 'the shadows on trees are longest at noon', 'sundials can tell time easiest using shadows', 'the sun is hottest at noon'], 'label': ['A', 'B', 'C', 'D']}",C
+9-467,Which is a complete circuit?,"{'text': ['Tidal', 'Pressure', 'Light', 'Dark'], 'label': ['A', 'B', 'C', 'D']}",A
+9-156,To positively affect the environment,"{'text': ['water', 'electricity', 'light', 'heat'], 'label': ['A', 'B', 'C', 'D']}",B
+112,Birds build nests out of things such as,"{'text': ['thermostat', 'solar energy', 'magnetic fields', 'electrical circuit.'], 'label': ['A', 'B', 'C', 'D']}",A
+501,What does harming an organism cause?,"{'text': ['picnics in the park', 'moisture in rain gauges', 'dry fields and roads', 'sunny and bright days'], 'label': ['A', 'B', 'C', 'D']}",C
+8-233,Puerto Rico experienced many landslides due to Hurricane Maria in,"{'text': ['oil', 'sunlight', 'fats', 'tea'], 'label': ['A', 'B', 'C', 'D']}",A
+1155,Worms are excellent decomposers because,"{'text': ['wood planks', 'cardboard', 'a large stone', 'wheels'], 'label': ['A', 'B', 'C', 'D']}",D
+7-958,"If an animal is living, then","{'text': ['global warming', 'buildings', 'warm streets', 'logging'], 'label': ['A', 'B', 'C', 'D']}",A
+1187,Which celestial object is the shortest distance from earth?,"{'text': ['So it would look good then prospective renters took a tour', ""Because they didn't want him to scratch up the wood floors."", ""Because they didn't want the downstairs renters to be as likely to complain about noise"", ""Because they didn't want to pay for carpeting themselves.""], 'label': ['A', 'B', 'C', 'D']}",B
+7-460,"What contributes more, though less than some believe, to the lung damage caused by smoking?","{'text': ['dolphin and fish', 'hyena and bear', 'whale and cat', 'eagle and raven'], 'label': ['A', 'B', 'C', 'D']}",B
+9-1195,"Hardness of minerals may be measured in certain ways, such as what?","{'text': ['leave lights on', 'take shorter showers', 'use Styrofoam plates', 'take longer showers'], 'label': ['A', 'B', 'C', 'D']}",C
+1261,What is an example of the sun being directly overhead at noon?,"{'text': ['Walk a runway with it', 'Use it to protect my body from bullets', 'Make a new wallet', 'Track the weather with it'], 'label': ['A', 'B', 'C', 'D']}",D
+1640,"If a lizard is unable to obtain sufficient nutrients in a period of time, the resulting effect may be","{'text': ['a deer munching grass', 'a plant beginning to photosynthesize', 'a squirrel eating a bug', 'a wolf eating a deer'], 'label': ['A', 'B', 'C', 'D']}",C
+7-474,polar bears are white due to an inherited,"{'text': ['magic receptors', 'electric reactions', 'making nervous', 'loud nerves'], 'label': ['A', 'B', 'C', 'D']}",C
+7-149,"A car is driving on a highway trying to get up the the speed limit. However, there are strong winds hitting the windshield of the car. Even though the driver is trying to speed up, the high winds","{'text': ['travel elsewhere', 'be eaten', 'pass a test', 'be washed'], 'label': ['A', 'B', 'C', 'D']}",D
+1705,"If a snail is heated to the point of being burned, the snail will","{'text': ['lemonade', 'cars', 'grass.', 'power plant'], 'label': ['A', 'B', 'C', 'D']}",A
+7-939,Some animals that detect objects by emitting sound live in,"{'text': ['the water turns evaporates rapidly', 'the water then solidifies', 'the water becomes black', 'all of these'], 'label': ['A', 'B', 'C', 'D']}",C
+168,adding a direct flame to container of acid causes a,"{'text': ['to mate', 'to avoid crocodiles', 'to catch prey', 'to  build nests'], 'label': ['A', 'B', 'C', 'D']}",D
+1579,"After extensive logging activity, a forest had less","{'text': ['both lower limbs of the body', 'organs that develop during childhood', 'nasal bones projecting above the mouth', 'inner canals of the ear'], 'label': ['A', 'B', 'C', 'D']}",A
+7-563,Heavy rains cause flooding which,"{'text': ['they never kill', 'they only eat', 'they are docile', 'they are killers'], 'label': ['A', 'B', 'C', 'D']}",D
+172,Transpiration involves,"{'text': ['chickadees', 'glass flamingos', 'chicks', 'plastic parrots'], 'label': ['A', 'B', 'C', 'D']}",C
+1337,seeds are often found inside a,"{'text': ['humans expel it', 'deer eat it', 'birds use it', 'trees absorb it'], 'label': ['A', 'B', 'C', 'D']}",B
+453,I use a knife to chip away at what to make a sculpture,"{'text': ['a bird sitting in a bird bath', 'a child splashing in a tub', 'a person drinking from a glass of water', 'a deer drinking from a lake'], 'label': ['A', 'B', 'C', 'D']}",A
+9-973,The moon's surface,"{'text': ['nutrition', 'biology', 'chemical composition', 'formation'], 'label': ['A', 'B', 'C', 'D']}",D
+1363,The sun is responsible for,"{'text': ['solar panels', 'energy', 'coal power plants', 'wind turbines'], 'label': ['A', 'B', 'C', 'D']}",B
+7-812,What shows that the Earth being tilted on its axis causes ones side of the Earth to receive less energy from the Sun than the other side?,"{'text': ['penny', 'tower', 'pyramid', 'box'], 'label': ['A', 'B', 'C', 'D']}",A
+9-31,Pressure is quite high in spaces such as,"{'text': ['radiator fluid', 'water added', 'wiper fluid', 'gasoline'], 'label': ['A', 'B', 'C', 'D']}",B
+9-599,Plants require this to grow,"{'text': ['worms', 'water', 'granite', 'atoms'], 'label': ['A', 'B', 'C', 'D']}",D
+9-355,Wax is on some plant leaves for what purpose?,"{'text': ['electrically excitable cells', 'nerve gas', 'biological impulses', 'hair follicles'], 'label': ['A', 'B', 'C', 'D']}",A
+7-1070,"The lights were turned off in a room, who could find the light switch?","{'text': ['deal with gas', 'Talk for hours', 'Thinking', 'Running'], 'label': ['A', 'B', 'C', 'D']}",A
+9-232,Inanimate things may be pollinators such as,"{'text': ['find new homes', 'dig for food', 'reproduce', 'fight for leadership'], 'label': ['A', 'B', 'C', 'D']}",D
+1171,What sort of habitat would living things live in?,"{'text': ['directly consumed', 'thrown away', 'made into products', 'stored underground'], 'label': ['A', 'B', 'C', 'D']}",B
+8-366,"When cutting down rain forests, it is important to keep in mind air quality. When too many trees are cut down in a given area, there may be decrease in the air's","{'text': ['Gasoline', 'Potatoes', 'The sun', 'Water'], 'label': ['A', 'B', 'C', 'D']}",A
+8-383,The removal of trees may cause damage to ecosystems such as,"{'text': ['national park', 'sky', 'forest', 'sea'], 'label': ['A', 'B', 'C', 'D']}",A
+7-446,On a clear day I should,"{'text': ['the wire may be hot to the touch', 'the wire may be cool to the touch', 'the wire is automatically grounded', 'the wire is automatically water safe'], 'label': ['A', 'B', 'C', 'D']}",C
+7-889,"Which of the following, when plugged into an outlet, completes a circuit?","{'text': ['a person who mines for coal', 'a rare type of stone', 'a place where coal is processed', 'a mine that is beneath the earth where coal is found'], 'label': ['A', 'B', 'C', 'D']}",A
+575,"When a microfiber towel is used to pick up a puddle of milk, the towel then","{'text': ['is milky white', 'is partly milk', 'contains the milk', 'is now wet'], 'label': ['A', 'B', 'C', 'D']}",A
+8-14,"Which converts carbon dioxide, water, and solar energy into oxygen?","{'text': ['air', 'water', 'legs', 'food'], 'label': ['A', 'B', 'C', 'D']}",C
+9-417,To identify the percent chance of a trait being passed down we need at least,"{'text': ['gas fills the new area', 'gas easily is dispersed', 'gas moves around freely', 'gas is lighter than air'], 'label': ['A', 'B', 'C', 'D']}",A
+116,"A cacti is basically an enormous stem, which means that","{'text': ['warm lights that float', 'made out of nitrate', 'great balls of gas burning billions of miles away', 'lights in the sky'], 'label': ['A', 'B', 'C', 'D']}",A
+7-45,one inherited characteristic of fur is it's,"{'text': ['rope', 'Tungsten', 'hemp', 'plastic'], 'label': ['A', 'B', 'C', 'D']}",D
+7-729,"Which would be a logical hypothesis after viewing a white substance on the floor, with a yellow carton on the counter?","{'text': ['filled with beautiful music', 'of a significant weight', 'the color light pink', 'take 10 years to form'], 'label': ['A', 'B', 'C', 'D']}",A
+8-90,"Humans cry when they are born, horses can walk when they are born, and birds can chirp when born because of","{'text': ['temperature in single digits', 'temperatures in triple digits', 'finding the right temperatures', 'being unaware of the temperature'], 'label': ['A', 'B', 'C', 'D']}",D
+1492,"if a student needs to travel with their lunch for long distances, which of these would have the freshest meal?","{'text': ['discount store', 'lawyer', 'catalog', 'pharmacy'], 'label': ['A', 'B', 'C', 'D']}",A
+8-73,nutrients from food and water are necessary to an organism's,"{'text': ['horses pull carriage over snow', 'child is propelling scooter', 'trolley collects current from overhead wire', 'EMT transports panting patient'], 'label': ['A', 'B', 'C', 'D']}",A
+7-26,A good example of increased demand may equal increased production is,"{'text': ['people to use umbrellas', 'dogs to take a nap', 'rockets to fly to the moon', 'the earth to spin'], 'label': ['A', 'B', 'C', 'D']}",C
+9-1162,Webbed feet aid in what,"{'text': ['groves of plants', 'waterways', 'city streets', 'public parks'], 'label': ['A', 'B', 'C', 'D']}",A
+7-1183,Which animal lacks the ability to see by sensing light?,"{'text': ['provide light due to wiring', 'provide light through plastic', 'use light to heat the flashlight', 'provide light due to moisture'], 'label': ['A', 'B', 'C', 'D']}",A
+1846,The sea is,"{'text': ['Earths Rotation', 'Changing Weather', 'Suns Rotation', 'Time Change'], 'label': ['A', 'B', 'C', 'D']}",A
+9-451,The increase in transport ability may increase the available types of,"{'text': ['they will boil', 'they turn hard', 'a combined reaction', 'they do nothing'], 'label': ['A', 'B', 'C', 'D']}",C
+8-391,"There are fuels that we are soon to run out of, and there are options that are like the sun, in that","{'text': ['adjust speed', 'run after it', 'find other prey', 'take a break'], 'label': ['A', 'B', 'C', 'D']}",B
+9-572,If someone is experiencing frequent falls,"{'text': ['below it', 'far from it', 'beside it', 'above it'], 'label': ['A', 'B', 'C', 'D']}",D
+1591,"A mouse is being hunted by a Great Horned Owl. The owl watches the mouse carefully, and the mouse is unaware that it is being hunted. The mouse is unable to tell where the owl is, because","{'text': ['hydroelectric power', 'renewable energy', 'burning', 'carbon fixation'], 'label': ['A', 'B', 'C', 'D']}",B
+9-475,What item's housing is made of metal?,"{'text': ['Coal', 'Petroleum', 'Natural Gas', 'Sunlight'], 'label': ['A', 'B', 'C', 'D']}",A
+7-69,strumming a string can cause what type of wave?,"{'text': ['they are unhealthy', 'they need water', 'they require insects', 'they grow slowly'], 'label': ['A', 'B', 'C', 'D']}",A
+9-1051,What makes a body stronger?,"{'text': ['worm', 'mate', 'stream', 'bush'], 'label': ['A', 'B', 'C', 'D']}",A
+7-88,Stars appear in different areas in the sky at different times of year due to what?,"{'text': ['higher temps', 'arid environment', 'dark heat', 'spaciousness'], 'label': ['A', 'B', 'C', 'D']}",D
+482,People shiver when they are cold and animals:,"{'text': ['keep you cozy on a frigid night', 'conserve valuable planetary resources', 'aid in cooling down the planet', 'keep a car running in the cold'], 'label': ['A', 'B', 'C', 'D']}",A
+1929,A chipmunk will consume all of these things with just one that it refuses to:,"{'text': ['three months', 'three days', 'three years', '12 months'], 'label': ['A', 'B', 'C', 'D']}",C
+7-1075,What causes a chemical reaction?,"{'text': ['puppies learning new tricks', 'children growing up and getting old', 'flowers wilting in a vase', 'plants sprouting, blooming and wilting'], 'label': ['A', 'B', 'C', 'D']}",A
+7-249,When food is reduced in the stomach,"{'text': ['restoring old city streets', 'creating a protected space', 'building a large community', 'sheltering all the young'], 'label': ['A', 'B', 'C', 'D']}",D
+7-770,What is it termed when a squirrel is inanimate,"{'text': ['run a bath', 'use a dehumidifier', 'open a window', 'hope it rains'], 'label': ['A', 'B', 'C', 'D']}",D
+9-831,Seeing the stars will be harder when what happens?,"{'text': ['using clear ink to spread smell', 'hiding in dark, inky caves', 'expelling dark fluid for cover', 'using ink to paint camouflage'], 'label': ['A', 'B', 'C', 'D']}",A
+1046,Animals may relocate to a new environment if their old environment,"{'text': ['a paling of the skin', 'a greening of the skin', 'an even darker tone', 'none of these'], 'label': ['A', 'B', 'C', 'D']}",B
+9-732,If the sun has set it is,"{'text': ['degraded during the process', 'man made before the process', 'a required during production like labor and capital', 'only used in the final phase'], 'label': ['A', 'B', 'C', 'D']}",B
+7-982,What can cause light to bounce off an object?,"{'text': ['add more salt to the drink', 'add some dissolved carbon dioxide', 'shake up the drink bottles before shipping them to the stores', 'boil the drink in a large vat'], 'label': ['A', 'B', 'C', 'D']}",A
+8-133,Precipitation sometimes leads to,"{'text': ['all of these', 'the combination of nails and hammers', 'the presence of H20', 'the combination of chlorine and gas'], 'label': ['A', 'B', 'C', 'D']}",D
+884,Which animal emits something that many autistic people would be extra sensitive to?,"{'text': ['is smooth on the entire surface', 'contains large cavities cause by explosions', 'contains an internal core of cheese', 'is filled with lakes'], 'label': ['A', 'B', 'C', 'D']}",A
+8-152,what creates no pollution?,"{'text': ['flour added to salt', 'milk added to water', 'corn added to soup', 'lemon juice added to milk'], 'label': ['A', 'B', 'C', 'D']}",B
+722,the top layer of soil contains the most nutrients where I,"{'text': ['the living term', 'a plant feeding', 'the entertainment circuit', 'a chemical reaction'], 'label': ['A', 'B', 'C', 'D']}",A
+595,"For a hungry hawk chasing a mouse, if the mouse darts away, the hawk must","{'text': ['a radio recording', 'shove from behind', 'a label', 'a loud noise'], 'label': ['A', 'B', 'C', 'D']}",A
+9-635,When car is close to the runner the illumination of the motorized entity is at a higher level because?,"{'text': ['dogs to bark', 'stones to form', 'warmth on bodies', 'plastic to form'], 'label': ['A', 'B', 'C', 'D']}",A
+7-926,The moon's surface,"{'text': ['can tell you if you need an umbrella that day', 'can tell you which direction the wind is blowing', 'can help you decide how many layers of clothes to wear outside', 'can tell you how much rain has fallen'], 'label': ['A', 'B', 'C', 'D']}",D
+7-579,"If you breathe out, especially in the vicinity of clear glass, you may witness","{'text': ['fungi', 'sunflowers', 'trees', 'voles'], 'label': ['A', 'B', 'C', 'D']}",B
+7-1167,Oil is a source of a material used for an object with,"{'text': ['water', 'starch', 'spices', 'sugar'], 'label': ['A', 'B', 'C', 'D']}",C
+8-222,During a thunderstorm an animal is most likely going to relocate to a,"{'text': ['measure how much belly fat the user has', 'measure height of the user', 'help users know if they need to drop some lbs.', 'help users determine their blood sugar levels'], 'label': ['A', 'B', 'C', 'D']}",A
+8-32,The part of a cell that separates the interior from the outside provides,"{'text': ['acid rain', 'smog', 'chemical run-off', 'laundry soup'], 'label': ['A', 'B', 'C', 'D']}",B
+9-936,What can show how a rainbow is formed by refraction of light by splitting light into all different colors?,"{'text': ['parking far away', 'travelling by air', 'reading technical books', 'having multiple children'], 'label': ['A', 'B', 'C', 'D']}",B
+7-104,This type of energy resource often results in particulates that are very toxic to breathe:,"{'text': ['a sugar rich liquid plants produce', 'the scent of flower stamens', 'a oxygen rich liquid plants produce', 'the magnetic field flowers give off'], 'label': ['A', 'B', 'C', 'D']}",A
+658,When the demand for corn rises,"{'text': ['it shines at a gem', 'it shines at a mirror', 'it reflects off a spoon', 'it reflects off a car'], 'label': ['A', 'B', 'C', 'D']}",A
+586,Electricity causes less damage to the Earth's atmosphere than,"{'text': ['works against motion', 'stops motion', 'removes forward motion', 'makes things rough'], 'label': ['A', 'B', 'C', 'D']}",A
+7-235,What is an example of reproduction occurring in adulthood?,"{'text': ['Mars', 'Moon', 'Milky Way', 'Venus'], 'label': ['A', 'B', 'C', 'D']}",B
+498,What is an example of reproduction being a stage in the life cycle process?,"{'text': ['halts the functioning of the conductor', 'moves like traffic through a green light', 'causes fire to flow through the conductor', 'flows heat back to the conductor'], 'label': ['A', 'B', 'C', 'D']}",B
+7-874,"With the apple tree chopped down, there was now no place for","{'text': ['Metal', 'Cement', 'Stone', 'Brick'], 'label': ['A', 'B', 'C', 'D']}",A
+9-1157,"Having reliable plant sources in a field, a rabbit may react by","{'text': ['natural fuel like coal or gas', 'mills that makes energy from the wind', 'buildings that make large quantities of items', 'transportation contraptions with four wheels'], 'label': ['A', 'B', 'C', 'D']}",D
+9-1063,Seasons are caused by,"{'text': ['conserve energy for later', 'save wild animal species', 'keep it from the trash', 'reduce the height of landfills'], 'label': ['A', 'B', 'C', 'D']}",C
+9-1120,Flowers will reproduce more if,"{'text': [""burn an ant in the light's path"", 'Provide shade on a hot day', 'Take a close up picture of the ground', 'Show how many wrinkles I have on my skin'], 'label': ['A', 'B', 'C', 'D']}",D
+9-243,Venus fly traps are poor at creating their own food though photosynthesis because,"{'text': ['ride my bike', 'Bring an umbrella', 'Wear a coat', 'Stay inside'], 'label': ['A', 'B', 'C', 'D']}",A
+8-408,"if a great water traveler took inventory of their tools, which of these would be in it?","{'text': ['it could be up to something bad', 'the hemisphere could be facing away from the sun', 'it could be summer', 'it could be dying'], 'label': ['A', 'B', 'C', 'D']}",B
+9-17,What functions without contact between objects?,"{'text': ['is a burden', 'ceases to exist', 'is missing', 'is pregnant'], 'label': ['A', 'B', 'C', 'D']}",D
+7-1002,Fish move best through water when their fins are?,"{'text': ['things to move sideways', 'things to be moved upwards', 'things to descend to the lowest surface possible', 'things to stay in the same place'], 'label': ['A', 'B', 'C', 'D']}",C
+7-51,A fundamental feature of all life produces,"{'text': ['4:00 pm', '8:00 am', '12:30 pm', '6:30 pm'], 'label': ['A', 'B', 'C', 'D']}",A
+8-76,Which of these things will supplement a squirrel's caloric needs?,"{'text': ['cools', 'nothing', 'heats', 'warms'], 'label': ['A', 'B', 'C', 'D']}",A
+7-335,The number of lines found in a tree bore will tell you?,"{'text': ['more cattle produced', 'more plant life', 'human population increased', 'less water area'], 'label': ['A', 'B', 'C', 'D']}",D
+356,What material is an example of an electrical insulator?,"{'text': ['produce carbon dioxide', 'deroot and die', 'produce offspring', 'remain sterile'], 'label': ['A', 'B', 'C', 'D']}",A
+9-666,"what could it be indicative of, if an animal's fur has grown thicker?","{'text': ['political', 'migration', 'food preparation', 'shopping'], 'label': ['A', 'B', 'C', 'D']}",B
+9-83,"A man is searching for his dog in the woods and brings a flashlight. The flashlight has two large batteries in it, which","{'text': ['constellations are only visible in some parts of the world during certain months', 'cloud coverage varies depending on the season', 'it is always cold in Antarctica', 'the equator moves up and down around the Earth'], 'label': ['A', 'B', 'C', 'D']}",D
+9-1137,"A planet rotating causes cycles of day and night on that planet, like on","{'text': ['evaporation', 'evaluation', 'precipitation', 'condensation'], 'label': ['A', 'B', 'C', 'D']}",C
+1093,"In a zoo, a polar bear exhibit will contain","{'text': ['more CO2 emissions', 'equal CO2 emissions', 'electric emissions', 'less CO2 emmissions'], 'label': ['A', 'B', 'C', 'D']}",B
+9-218,An example of conservation is avoiding,"{'text': ['a violent storm', 'violent sea animals', 'condensation', 'inland storms'], 'label': ['A', 'B', 'C', 'D']}",A
+9-836,Water in a sealed jar might do what when placed in the freezer?,"{'text': ['temperatures', 'biological environments', 'water levels', 'atmospheric pressures'], 'label': ['A', 'B', 'C', 'D']}",C
+1380,with which could you tell the exact size of an object?,"{'text': ['carbs', 'energy', 'grass', 'flowers'], 'label': ['A', 'B', 'C', 'D']}",A
+7-167,Why is it dangerous for an animal to be kept boxed up in an area without air circulation?,"{'text': ['houses', 'education', 'internet', 'grains'], 'label': ['A', 'B', 'C', 'D']}",D
+7-1082,What item is high in moisture?,"{'text': ['dormant cycle', 'lot of nothing', 'lower temperature', 'vapor expulsion'], 'label': ['A', 'B', 'C', 'D']}",D
+7-117,Which set of animals don't compete for food?,"{'text': ['a super size earthquake', 'a torrential rain fall', 'all of these', 'the eruption of a volcano'], 'label': ['A', 'B', 'C', 'D']}",D
+9-343,What happens to body water when animal activity rises,"{'text': ['flushing the toilet twice', 'using water flow limiter', 'driving shorter trips more often', 'using fancy, more expensive paper'], 'label': ['A', 'B', 'C', 'D']}",B
+7-43,Coral is a type of living organism which can be identified in,"{'text': ['a stack of clothes', 'a stack of cans', 'a pack of cigarettes', 'a counter cooker appliance'], 'label': ['A', 'B', 'C', 'D']}",A
+9-734,When the moon is full is has a different,"{'text': ['chocolat', 'ice', 'snow', 'concrete'], 'label': ['A', 'B', 'C', 'D']}",B
+7-1014,Corn can sometimes,"{'text': ['intensive properties', 'form', 'temperature', 'appearance'], 'label': ['A', 'B', 'C', 'D']}",C
+9-335,Putting a cardboard box in a bin instead of the trash can,"{'text': [""H2O traveling about a daffodil's system"", ""pollen traveling about the plant's system"", 'the production of new oxygen molecules', 'the production of new seedlings'], 'label': ['A', 'B', 'C', 'D']}",A
+9-219,Water vapor condensing in clouds may cause,"{'text': ['vying for the same prey', 'forming a strong friendship', 'moving to disparate environments', 'adopting different types of diets'], 'label': ['A', 'B', 'C', 'D']}",A
+7-1081,which of these can be considered a stage in the water cycle?,"{'text': ['would allow the user to better view the legs on an ant', 'would enhance the smell of a viewed specimen', 'would blur the legs of an ant', 'would enhance the feel of the user'], 'label': ['A', 'B', 'C', 'D']}",D
+9-1171,"If two hawks find a dead fox, they will","{'text': ['the weather', 'conservation of metal', 'human life span.', 'the economy'], 'label': ['A', 'B', 'C', 'D']}",D
+7-856,"As a result of decreased water, what will happen to tree rings?","{'text': ['speed to a halt', 'slow down very slowly', 'has zero effect at all', 'accelerate it forward rapidly'], 'label': ['A', 'B', 'C', 'D']}",A
+7-754,Eating and digesting a large meal is guaranteed to produce,"{'text': ['I leave a log poker in the fire', 'I sit down on a bed', 'I wave a flag in the air', 'I have a party'], 'label': ['A', 'B', 'C', 'D']}",B
+9-558,What should my thermometer read if I want to make sure my home-made popsicles are done?,"{'text': ['kittens groom their faces because their mother licked their faces', 'dogs bark because their parents barked at them', 'babies cry because overtired parents cry', 'kittens climb trees because they watch squirrels do it'], 'label': ['A', 'B', 'C', 'D']}",D
+9-872,What shows that animals learn behaviors by watching their parents?,"{'text': ['births can occur only after reproduction takes place', 'death is the last stage in the life cycle', ""reproduction mightn't guarantee a healthy life"", 'life can end during reproduction'], 'label': ['A', 'B', 'C', 'D']}",A
+9-353,After the wolf ate all the rabbits he survived on:,"{'text': ['create light', 'show color', 'identify drivers', 'shine light'], 'label': ['A', 'B', 'C', 'D']}",C
+7-708,The below surface pebbles of the Snake River are of non rough edges because of?,"{'text': ['Small Population', 'Zero Population', 'Limited population', 'Decreasing Population'], 'label': ['A', 'B', 'C', 'D']}",D
+8-137,Mountains exist on a planet next to,"{'text': ['in the south pacific', 'upper portion of earth', 'lower portion of earth', 'the equator near the tropics'], 'label': ['A', 'B', 'C', 'D']}",B
+1827,"During a sandstorm, a bird looks for a","{'text': ['easy to cook a meal', 'time to eat breakfast', 'necessary to wear a coat', 'harder to see outside'], 'label': ['A', 'B', 'C', 'D']}",A
+9-1189,"if the boiling point of water is attained, what ensues beyond this point?","{'text': ['energy stored due to the relative positions of charged particles or electric fields', 'energy stored due to the bombardment of particles', 'energy stored between the cells of nonadjacent particles', 'energy that is broken down in particles'], 'label': ['A', 'B', 'C', 'D']}",D
+7-792,Trembling muscles spasms in animals can be caused in party by,"{'text': ['various places experience different weather patterns', 'weather is consistent world-wide', 'weather is always different', 'we all have snow'], 'label': ['A', 'B', 'C', 'D']}",A
+8-4,Riding a two wheeled human powered vehicle is good for the environment because,"{'text': ['water', 'carbon dioxide', 'sunlight', 'beach sand'], 'label': ['A', 'B', 'C', 'D']}",D
+8-37,As the earth orbits the sun,"{'text': ['Driving a new car', 'Putting a fresh raspberry seed in soil', 'Taking the temperature for the day', 'Having a large breakfast'], 'label': ['A', 'B', 'C', 'D']}",C
+7-681,"A man is burned in an accident on the road, which means that at one point he was","{'text': ['banana', 'cherry', 'olive', 'strawberry'], 'label': ['A', 'B', 'C', 'D']}",C
+9-985,"a student leaves a nail line on a mineral sample, so that mineral can be described as what?","{'text': ['decrease in plant life', 'increase in fish population', 'increase in plant growth', 'cleaner and clearer water'], 'label': ['A', 'B', 'C', 'D']}",C
+826,The way that squirrels put away food during the cool season ensures that they,"{'text': ['slower', 'immediately', 'same speed', 'faster'], 'label': ['A', 'B', 'C', 'D']}",A
+7-876,On a rainy day the clouds are,"{'text': ['gold', 'glass', 'plastic', 'rubber'], 'label': ['A', 'B', 'C', 'D']}",C
+9-1165,A person's shadow is smallest at what time?,"{'text': ['seeing how much data is left on a phone', 'a part of making chili', 'a way to consider getting something', 'a way to collect data'], 'label': ['A', 'B', 'C', 'D']}",A
+9-1088,A human who goes long periods of time without nourishment will experience,"{'text': ['a cotton candy at the store', 'the new pair of jeans', 'the steel spoon in the cafeteria', 'a calvin klein cotton hat'], 'label': ['A', 'B', 'C', 'D']}",B
+7-980,while passing Jupiter the,"{'text': ['farmers grow different crops', 'farmers ask people to stop eating corn', 'farmers stop planting corn', 'farmers must harvest more corn'], 'label': ['A', 'B', 'C', 'D']}",C
+7-934,Two ships grazing each other as they pass will,"{'text': ['cats', 'dogs', 'humans', 'snakes'], 'label': ['A', 'B', 'C', 'D']}",C
+7-449,Renewable resources,"{'text': ['smoothness', 'fish movement', 'river movement', 'rough rocks'], 'label': ['A', 'B', 'C', 'D']}",C
+8-72,"If a substance can absorb solar energy, then what can or will happen to that substance?","{'text': ['hydrogen peroxide', 'aspirin', 'vitamins', 'petroleum jelly.'], 'label': ['A', 'B', 'C', 'D']}",B
+9-733,The way that electrical conductors works in ways such as,"{'text': ['TV', 'learning from mom', 'instinctive behavior', 'school'], 'label': ['A', 'B', 'C', 'D']}",D
+8-200,Avoiding the use of fossil fuel is an example of,"{'text': ['browning bagels', 'roasting meats', 'toasting corn', 'burning cheese'], 'label': ['A', 'B', 'C', 'D']}",B
+7-700,Which of these animal traits is generally determined by environmental factors rather than heredity?,"{'text': ['often come from fossil fuels', 'take centuries to biodegrade', 'can be used ad infinitum', 'should be used conservatively'], 'label': ['A', 'B', 'C', 'D']}",A
+8-297,A remote device may be powered by,"{'text': ['weather patterns', ""earth's movement pattern"", 'weather changes', 'weather cycles'], 'label': ['A', 'B', 'C', 'D']}",D
+7-678,People commonly have bad reactions to what they get from a,"{'text': ['a city where a tree was', 'a lake where a tree was', 'a tree where a bird was', 'a plant where a rock was'], 'label': ['A', 'B', 'C', 'D']}",D
+9-45,Stems are to flowers as,"{'text': ['it dissolves', 'it sinks', 'it floats', 'it hardens'], 'label': ['A', 'B', 'C', 'D']}",A
+7-756,"Every twenty-four hours and fifty minutes, the moon can have an effect on bodies of water causing them to","{'text': ['animals reproduce', 'preyed upon', 'adapted to it', 'predators get it'], 'label': ['A', 'B', 'C', 'D']}",A
+370,"Some people put metal tags on their dog's collars, because in darkness, these collars can","{'text': ['be discarded immediately', 'kept for later', 'left to rot', 'be thrown up'], 'label': ['A', 'B', 'C', 'D']}",B
+1248,"As I search among classifications, its groupings of materials, and properties, I may be looking for","{'text': ['stay moist for warm weather', 'keep water available for predators', 'creation of toxins in the cells', 'keep the ongoing hydration'], 'label': ['A', 'B', 'C', 'D']}",B
+7-568,Where would the amount of water decrease most?,"{'text': ['human.', 'whole pumpkin', 'soda can', 'leaf'], 'label': ['A', 'B', 'C', 'D']}",B
+544,Which kind of behavior has a fixed action pattern?,"{'text': ['a burning flame', 'a gusting breeze', 'a running sheep', 'a small explosion'], 'label': ['A', 'B', 'C', 'D']}",B
+9-180,"Humans go through multiple stages in their life. First is infancy, last is","{'text': ['rest soundly', 'absorb light', 'take in nutrients', 'mature and develop'], 'label': ['A', 'B', 'C', 'D']}",C
+7-189,an example of an excellent earth mover is,"{'text': ['is made up of tissue and organs', 'is made up of the lungs and heart', 'is made up of white blood cells', 'is made up of calcified material'], 'label': ['A', 'B', 'C', 'D']}",A
+7-1085,Plants brought to the western United States from the eastern United States often die because of,"{'text': ['Light', 'Energy', 'Heat', 'Nutrients)'], 'label': ['A', 'B', 'C', 'D']}",A
+1091,Some fields house incredible creatures such as,"{'text': ['building webs', 'building traps', 'hunting', 'howling'], 'label': ['A', 'B', 'C', 'D']}",A
+1230,One of Kangaroo's unusual features are,"{'text': ['jerky', 'grapes', 'nuts', 'acorn'], 'label': ['A', 'B', 'C', 'D']}",D
+1891,Why would a species camouflage as a dangerous animal?,"{'text': ['distance between cities', 'air', 'stuff', 'motivation'], 'label': ['A', 'B', 'C', 'D']}",D
+7-1027,"When looking at an eclipse, an important thing to remember is","{'text': ['none of these', 'positive charge in electricity', 'a bad electric conduction', 'ability to see yourself in it better'], 'label': ['A', 'B', 'C', 'D']}",A
+9-441,The many trees on a forest floor,"{'text': ['eat', 'battle', 'starve', 'fly'], 'label': ['A', 'B', 'C', 'D']}",B
+1123,"as rainfall increases in an area, electricity will be less and less available for","{'text': ['large rabbits', 'lions', 'wolves', 'mackerel'], 'label': ['A', 'B', 'C', 'D']}",D
+634,The only stage of the water cycle process that is nonexistent is,"{'text': ['wood', 'coal', 'oil', 'solar'], 'label': ['A', 'B', 'C', 'D']}",B
+9-702,"After a long winter's hibernation, a female bear and her two cubs exit their cave and begin to search for food. One place they check is","{'text': ['ice', 'steam', 'water', 'salt water'], 'label': ['A', 'B', 'C', 'D']}",C
+663,Recycling old cars has a positive impact on,"{'text': ['bees', 'birds', 'wind', 'deer'], 'label': ['A', 'B', 'C', 'D']}",B
+7-947,It is easiest to get a clear photo of the moon by,"{'text': ['ten fingers', 'vision', 'heart beating', 'talking'], 'label': ['A', 'B', 'C', 'D']}",B
+9-122,a toaster converts electricity into radiant waves for,"{'text': ['fragments from plants', 'small glass shards', 'entire tree trunks', 'several flower buds'], 'label': ['A', 'B', 'C', 'D']}",D
+7-557,air masses are pushed by westerlies but stopped by,"{'text': ['Shark', 'Turtle', 'Giraffe', 'Spider'], 'label': ['A', 'B', 'C', 'D']}",B
+9-191,Thermal conduction occurs when,"{'text': ['it will see a raising of warmth levels', 'heat levels will decrease exponentially', 'temperatures will be maintained', 'the substance will gradually cool'], 'label': ['A', 'B', 'C', 'D']}",D
+8-264,The reason that ducks are such excellent swimmers is because,"{'text': [""when it's outside around lighting"", ""when it's attached to a battery"", ""when it's attached to a human"", ""when it's near a light bulb""], 'label': ['A', 'B', 'C', 'D']}",D
+8-50,When would a reflector be most effective?,"{'text': ['be discomforted', 'be energized', 'be hungry', 'be sad'], 'label': ['A', 'B', 'C', 'D']}",A
+7-824,At what time would a person feel the most heat outside?,"{'text': ['I can consume an apple', 'I can go for a run', 'I can brush my hair', 'I can wash my face'], 'label': ['A', 'B', 'C', 'D']}",C
+789,"Canyons are generally old, huge, and breathtaking and are","{'text': ['melt wax', 'reflect light', 'read books', 'stain clothes'], 'label': ['A', 'B', 'C', 'D']}",A
+9-1070,To positively impact the environment,"{'text': ['watch several educational programs', 'discuss topics with laymen', 'inspect, note, and consider', 'make notes in books'], 'label': ['A', 'B', 'C', 'D']}",B
+1157,Vegetables provide a lot of nutrients for,"{'text': ['a lost dog by the river, with small rodents', 'a cat left in the desert', 'a man drifting a raft at sea without supplies', 'none of these'], 'label': ['A', 'B', 'C', 'D']}",B
+1302,To help your body repair cells,"{'text': ['darkness comes earlier', 'the sun shines', 'more rain storms', 'warmer weather'], 'label': ['A', 'B', 'C', 'D']}",A
+7-1115,"A bunny wants to eat strawberries, but it is unable to find any. However, the bunny finds a patch of small white buds. If the rabbit waits a while","{'text': ['low', 'small', 'white', 'gray'], 'label': ['A', 'B', 'C', 'D']}",C
+1875,A pollutions standard is something which,"{'text': ['Nail.', 'Fe', 'Copper', 'Au'], 'label': ['A', 'B', 'C', 'D']}",B
+8-451,"Whether a rainstorm, snow, or hail, humanity can find a way to escape it by","{'text': ['the flaming ball of gas we orbit', 'giant planets in the neighborhood', 'light sources that we create', 'balls of fire lit with gas'], 'label': ['A', 'B', 'C', 'D']}",D
+7-476,The layer of material on the bottom of the Snake River was put there by what?,"{'text': ['adjust', 'shrink', 'burn', 'collect'], 'label': ['A', 'B', 'C', 'D']}",A
+814,Which would be the result of the breeding of two wolves?,"{'text': ['death', 'inertia', 'colluded', 'emanated'], 'label': ['A', 'B', 'C', 'D']}",A
+7-956,Spiders catch their prey with,"{'text': ['coyote', 'reptile', 'bat', 'scorpion'], 'label': ['A', 'B', 'C', 'D']}",A
+9-419,Peat is an important factor when,"{'text': ['Crystals', 'Rocks', 'Salactites', 'Gemstones'], 'label': ['A', 'B', 'C', 'D']}",B
+8-208,What doesn't eliminate waste?,"{'text': ['soldiers eat beans, so beans are planted when there is war', 'dogs eat kibble, so stores sell it', 'cats eat mice, so mice are afraid of cats', 'people have babies, so baby clothes are made'], 'label': ['A', 'B', 'C', 'D']}",A
+9-782,Changes to the earth can be done as a result of,"{'text': ['having larger litters', 'finding a mate', 'eating more food', 'finding new food'], 'label': ['A', 'B', 'C', 'D']}",D
+8-266,Which animal gives birth to live young?,"{'text': ['a mirror is unable to be dark', 'phone screens are barely reflective', 'a lilac door is easily seen', 'a black door is easily seen'], 'label': ['A', 'B', 'C', 'D']}",C
+1366,The running of the bulls in mexico is a source of what type of energy for the object?,"{'text': ['heat', 'pressure', 'water', 'air'], 'label': ['A', 'B', 'C', 'D']}",C
+8-82,which of these indicate non-living tree?,"{'text': ['the arctic circle', 'the south pole', 'the north pole', 'near the equator'], 'label': ['A', 'B', 'C', 'D']}",B
+1154,"In the wilderness, light pollution is?","{'text': ['cause mayhem', 'sink them', 'speed them up', 'slow them down'], 'label': ['A', 'B', 'C', 'D']}",D
+9-556,Which organism uses xylem for materials transport?,"{'text': ['Putting on sunscreen in a sunny place', 'Growing grass in a field', 'Having a drink of water on a warm day', 'Going for a walk outside'], 'label': ['A', 'B', 'C', 'D']}",A
+9-173,"When the game console's power cable was attached to the wall, electricity ended up in","{'text': ['2017', '2015', '2012', '2009'], 'label': ['A', 'B', 'C', 'D']}",A
+9-128,Using mirrors to focus collected light from heavenly bodies allows,"{'text': ['a big cooking spoon', 'a north facing item', 'a big chopping board', 'a big iron bender'], 'label': ['A', 'B', 'C', 'D']}",A
+9-200,To naturally increase the amount of organic matter in soil add,"{'text': ['lack enough fluid to grow', 'cart essential substances around', 'are unessential for health', 'keep the body healthy'], 'label': ['A', 'B', 'C', 'D']}",D
+9-917,"Mothers have many roles, one of which is","{'text': ['chance', 'rot', 'luck', 'magic'], 'label': ['A', 'B', 'C', 'D']}",C
+1915,A battery converts chemical energy into,"{'text': ['mixing and heating edible items', 'putting water in a bowl', 'petting a small cat', 'rolling a ball on a floor'], 'label': ['A', 'B', 'C', 'D']}",A
+7-1180,what can baking soda and vinegar do together?,"{'text': ['watery', 'the same', 'similar to object', 'full of life'], 'label': ['A', 'B', 'C', 'D']}",C
+9-439,Which form can be made into a triangle?,"{'text': ['it stands tall with flowers', 'none of these', 'it is fresh and green with strong roots', 'it lies horizontally on the park grounds'], 'label': ['A', 'B', 'C', 'D']}",A
+9-512,"Some birds have scooped beaks, but others have sharp beaks such as","{'text': ['Mice', 'Elephants', 'Raccoons', 'Hamsters'], 'label': ['A', 'B', 'C', 'D']}",C
+1320,"The size of eyes matter relevant to sight and sight ability, given that","{'text': ['Large [Collect]', 'Long', 'Small', 'Short'], 'label': ['A', 'B', 'C', 'D']}",A
+9-697,Rubber can protect from,"{'text': ['eat chicken', 'chew gum', 'eat raw sugar', 'drink soda'], 'label': ['A', 'B', 'C', 'D']}",B
+9-795,what is sonar used for,"{'text': ['wolves', 'bugs', 'dogs', 'cats'], 'label': ['A', 'B', 'C', 'D']}",D
+9-326,Why do  berries exist?,"{'text': ['the part by the fence', 'the part with the grass', 'the part by the pool', 'the part by the oak tree'], 'label': ['A', 'B', 'C', 'D']}",A
+1908,Which type of energy is the most environmentally friendly?,"{'text': ['a belt buckle', 'a wooden table', 'a plastic cup', 'a paper plate'], 'label': ['A', 'B', 'C', 'D']}",B
+8-210,the mantle is,"{'text': ['rot', 'quake', 'smoke', 'freeze'], 'label': ['A', 'B', 'C', 'D']}",C
+7-332,What can explain that a body of water is a source of water?,"{'text': ['cut down trees and shrubs', 'drive a gas guzzling car', 'use Styrofoam plates and cups', 'cultivate dogwoods and oaks'], 'label': ['A', 'B', 'C', 'D']}",C
+7-455,Melissa is creating a new product to quench people's thirst. She thinks it will be more popular if it is less flat. She decides to,"{'text': ['social status', 'environs', 'satellite reception', 'future'], 'label': ['A', 'B', 'C', 'D']}",A
+7-975,A prickly pear absorbs nutrients from,"{'text': ['Light', 'Wind', 'Speed', 'Sound'], 'label': ['A', 'B', 'C', 'D']}",A
+9-140,The ability that an oven has to turn ingredients into a moist cake come from its,"{'text': ['be grown in arctic environments', 'be used as kindling', 'fuel a steam locomotive', 'fuel an economy car'], 'label': ['A', 'B', 'C', 'D']}",A
+94,Refraction,"{'text': ['a thing for information', 'these are all incorrect', 'a meal to eat', 'a floral plant life'], 'label': ['A', 'B', 'C', 'D']}",B
+1695,You would use a seismometer if,"{'text': ['it can be drunk from', 'it is very thin', 'it holds up bright green leaves', 'it can hide in grass'], 'label': ['A', 'B', 'C', 'D']}",B
+9-96,"If a glacier going past a dock brushed up against some large boulders there, the stones would","{'text': ['the headlights become more intense', 'the headlights recede into the dark', 'the headlights remain at a constant', 'the headlights turn off'], 'label': ['A', 'B', 'C', 'D']}",B
+8-242,"If something consumes air, then","{'text': ['a student with freshly cooked food', 'a student with food containing preservatives', 'raw uncooked fish meal', 'a student with uncooked beef'], 'label': ['A', 'B', 'C', 'D']}",B
+1102,The biggest things on the moon are,"{'text': ['flip the car over', 'help the car go faster', ""conflict with the driver's goal"", 'move the car sideways'], 'label': ['A', 'B', 'C', 'D']}",B
+9-1125,"A beak is used for catching prey by some birds, like how they are used by","{'text': ['the arctic', 'soil', 'a tide pool', 'rivers'], 'label': ['A', 'B', 'C', 'D']}",C
+9-33,"Deserts, Jungles, and Oceans have many different","{'text': ['mountains', 'earthquakes', 'volcanoes', 'caves'], 'label': ['A', 'B', 'C', 'D']}",A
+278,A coal mine is what?,"{'text': ['They have horns', 'They speak English', 'They can fly', 'webbed feet'], 'label': ['A', 'B', 'C', 'D']}",A
+8-81,I can use electrical energy to,"{'text': ['Lose shape', 'Become narrow', 'Become wider', 'Disappear Completely'], 'label': ['A', 'B', 'C', 'D']}",B
+9-773,Where is the best place to shoot animals?,"{'text': ['trap the dangerous gases released by plants', 'protect plants from snow and frost', 'keep plants from getting warm', 'protect plants from mild weather'], 'label': ['A', 'B', 'C', 'D']}",C
+9-1052,Thermometers,"{'text': ['a small squirrel falls from a tree and breaks its leg', 'a panda stops eating and falls into a coma', 'a dog is paralyzed and is unable to move', 'a vibrant cat is deceased after being hit by a car'], 'label': ['A', 'B', 'C', 'D']}",A
+9-13,many vehicles emitting pollution into the air may occur when,"{'text': ['ice', 'soil', 'liquid water', 'plants'], 'label': ['A', 'B', 'C', 'D']}",A
+7-1009,An incandescent light bulb requires a filament to,"{'text': [""around the crystal's area"", 'through any of its sides', 'in the room its in', 'in to a mirror at it'], 'label': ['A', 'B', 'C', 'D']}",C
+8-446,Organisms require energy in order to do what?,"{'text': ['bacteria', 'trout', 'virus', 'tree'], 'label': ['A', 'B', 'C', 'D']}",A
+9-328,What can melting glaciers deposit?,"{'text': ['nutrients', 'support', 'food', 'energy'], 'label': ['A', 'B', 'C', 'D']}",B
+9-162,The worst place to leave a candy bar is,"{'text': ['moon', 'cloud', 'star', 'sky'], 'label': ['A', 'B', 'C', 'D']}",D
+7-701,"If a creature wishes to hunt, which senses would be avoided?","{'text': ['quality', 'carbon dioxide', 'helium amounts', 'carbin dioyide levels'], 'label': ['A', 'B', 'C', 'D']}",A
+9-1193,A kid having a preference is something like,"{'text': ['a Tree', 'a robot', 'a house', 'a car'], 'label': ['A', 'B', 'C', 'D']}",A
+144,Matter in the gas phase has,"{'text': ['tug devices for locating directions', 'give false locations to planes', 'be a huge distraction', 'cause ships to crash'], 'label': ['A', 'B', 'C', 'D']}",D
+9-722,"if a person is unable to stand cold weather, which of these should be avoided?","{'text': ['Air', 'Sunlight', 'Water', 'Plants'], 'label': ['A', 'B', 'C', 'D']}",A
+7-285,One renewable fuel source is,"{'text': ['southwest is a good place to be', 'the land gently inclines in that direction', 'the world is mostly land', 'the land is supple'], 'label': ['A', 'B', 'C', 'D']}",A
+8-40,When the scientist finally completed his new invention he thanked his,"{'text': ['a refrigerator that is running', 'a battery removed from a toy', 'a clock that is wound-up', 'a fuse that has blown'], 'label': ['A', 'B', 'C', 'D']}",B
+7-948,A nail can attach to metals after it receives,"{'text': ['strengthen an organism', 'test an organism', 'eliminate an organism', 'eat an organism'], 'label': ['A', 'B', 'C', 'D']}",A
+7-121,Extinction is the term for an organism which..?,"{'text': ['Southern cave crayfish', 'lobster', 'cod', 'salmon'], 'label': ['A', 'B', 'C', 'D']}",D
+7-74,Thick feathers can be used for,"{'text': ['peregrine falcons', 'pelicans', 'toucans', 'snakes'], 'label': ['A', 'B', 'C', 'D']}",B
+792,If electrical current is running,"{'text': ['are unable to decay', 'are able to regrow themselves', 'are broken down for good', 'broke, passed, will decay'], 'label': ['A', 'B', 'C', 'D']}",B
+9-102,celestial bodies are known to,"{'text': ['refrigerator', 'closet', 'freezer', 'sunlight'], 'label': ['A', 'B', 'C', 'D']}",A
+7-1090,"When a bird is living in a certain segment of the world, it can become part of that environment along with predators and food sources, the process being called what?","{'text': ['a forest', 'a dam', 'a mine', 'a solar panel'], 'label': ['A', 'B', 'C', 'D']}",C
+1440,seasons change due to the earth's,"{'text': ['gallons', 'millimeters', 'dollars', 'pounds'], 'label': ['A', 'B', 'C', 'D']}",D
+7-530,Beach balls contain,"{'text': ['A mysterious rumble off the coast of Japan', 'Someone farted in class', 'Kids were stomping on the floor', 'to track the buzz of a bee'], 'label': ['A', 'B', 'C', 'D']}",A
+9-841,What causes the pull of gravity on a planet?,"{'text': ['the sands of Mars moving', 'the moon appearing larger in the night sky', 'a volcano erupting in Hawaii burning through a forest', 'a skyscraper being built'], 'label': ['A', 'B', 'C', 'D']}",B
+7-912,slope is a measure of the difference in elevation from the top to the base of a,"{'text': ['calcium', 'rust', 'carbon', 'silicon'], 'label': ['A', 'B', 'C', 'D']}",A
+1977,"A pupa creates cocoons in a stage of the life cycle, and eventually the insect will","{'text': ['under clear skies', 'in the clouds', 'during a storm', 'indoors'], 'label': ['A', 'B', 'C', 'D']}",C
+9-234,What would you measure in a graduated cylinder?,"{'text': ['cutting an apple into slices', 'putting a jigsaw puzzle together', 'mixing cake ingredients together', 'applying coats of paint onto a wall'], 'label': ['A', 'B', 'C', 'D']}",C
+9-283,"In the desert, a hawk may enjoy an occasional","{'text': ['a pool', 'freshwater body', 'a mountain', 'an ocean'], 'label': ['A', 'B', 'C', 'D']}",A
+656,The water in the bowl was gone before the water,"{'text': ['milk was spilled', 'white juice spilled', 'bleach was spilled', 'was an illusion'], 'label': ['A', 'B', 'C', 'D']}",A
+1844,a lighter object hue can lead to what?,"{'text': ['will make your face appear bigger', 'will make your face appear in macro', 'will make your wrinkles less obvious', 'will make it easier to see your pores'], 'label': ['A', 'B', 'C', 'D']}",A
+7-713,When being pursued by a lion,"{'text': ['Bees', 'energy', 'Pollen', 'Honey'], 'label': ['A', 'B', 'C', 'D']}",A
+9-616,What part of the backyard is cooler than the other parts?,"{'text': ['the desert is drier', 'the ocean is wet', 'there is more moisture in the air', 'the moisture is higher up'], 'label': ['A', 'B', 'C', 'D']}",D
+8-405,"A balloon is filled with Helium, and then is opened and pressed up to someone's mouth to make a voice high, why does it do this?","{'text': ['your breath is air', 'your breath is dry', 'your breath beading up', 'your breath smells bad'], 'label': ['A', 'B', 'C', 'D']}",A
+7-870,Condensation over night,"{'text': ['a backpack on its back', 'a calcium fortified internal structure', 'none of these', 'a shell of cotton'], 'label': ['A', 'B', 'C', 'D']}",C
+9-1128,An example of a change in the Earth is,"{'text': ['dampen', 'circulate', 'cool', 'warm'], 'label': ['A', 'B', 'C', 'D']}",A
+8-91,High can be visually represented by,"{'text': ['kilometer', 'centimeter', 'decameter', 'meter'], 'label': ['A', 'B', 'C', 'D']}",C
+834,"If something is a raw material in a process, then that something is","{'text': ['death of trees', 'death of oceans', 'saline solutions', 'global warming'], 'label': ['A', 'B', 'C', 'D']}",B
+8-173,What contains seeds,"{'text': ['a smooth sandy beach', 'a smooth river stone', 'a tall pine tree', 'a large sharp boulder'], 'label': ['A', 'B', 'C', 'D']}",C
+8-458,What stores food for future use and is green?,"{'text': ['conditions which allow little if any heat to be produced or stored', 'temperatures that are colder than a tropical environment', 'cool air that flows in a circular pattern', 'wind chill that meets warm fronts on occasion'], 'label': ['A', 'B', 'C', 'D']}",B
+7-674,"When producers create food in an ecosystem, a portion of the nutrients are","{'text': ['hike', 'wade', 'jog', 'skate'], 'label': ['A', 'B', 'C', 'D']}",A
+8-78,"More carbon dioxide is in the air in the past decade than ever before, probably because","{'text': ['firewood', 'light bulb', 'wet dog', 'a book'], 'label': ['A', 'B', 'C', 'D']}",C
+7-274,An echo is produced by what type of reflection of sound source?,"{'text': ['The number of freckles I have on my back', 'How long the road is', 'My weight loss in 6 months', 'how many marshmallows I can eat in 10 minutes'], 'label': ['A', 'B', 'C', 'D']}",D
+9-527,When a wolf is buried what will happen to other wolves?,"{'text': ['glaciers tore out lakes', 'there are lots of swimmers', 'glaciers are in lakes', 'lakes are filled with eels'], 'label': ['A', 'B', 'C', 'D']}",D
+8-447,Deer are less safe in the woods because wolves,"{'text': ['leads to extremely dry conditions', 'can lead to slippery grass', 'causes plants to wilt and die', 'causes black ice on bridges'], 'label': ['A', 'B', 'C', 'D']}",C
+9-695,"John, who lives in Minnesota, noticed that the time between sunrise and sunset was the shortest it had been for an entire year. The month was most likely to be","{'text': ['water', 'plants.', 'fat', 'luck'], 'label': ['A', 'B', 'C', 'D']}",D
+1111,Breaking a vase changes its,"{'text': ['wear layers', 'Run barefoot', 'Walk instead', 'Wear sandals'], 'label': ['A', 'B', 'C', 'D']}",D
+8-262,Arctic animals often live on,"{'text': ['cave', 'beach', 'mountain', 'pond'], 'label': ['A', 'B', 'C', 'D']}",A
+7-546,"When any two object strike with each other, the molecules of the outer of the two objects coming in contact could","{'text': ['noon', 'midnight', 'morning', 'evening'], 'label': ['A', 'B', 'C', 'D']}",C
+8-347,The source of a type of energy we use is a,"{'text': ['toss plastic bottles in trash receptacles', 'use plastic knives and forks for every meal', 'scrap metal from old buildings is processed to be used for new construction', 'buy a less fuel efficient car'], 'label': ['A', 'B', 'C', 'D']}",A
+9-134,Because a logging company has been working here the area has more,"{'text': ['experienced a large hurricane', 'experienced a serious thunderstorm', 'had a few arid days', 'had little rainfall for a week'], 'label': ['A', 'B', 'C', 'D']}",C
+9-182,what does a barometer do to air pressure,"{'text': ['Is used for grinding metal', 'is an oil machine', 'is an electric Motor', 'is a battery operated machine'], 'label': ['A', 'B', 'C', 'D']}",A
+7-748,A a switch turns something with batteies on because:,"{'text': ['cities', 'jungles', 'fields', 'oceans'], 'label': ['A', 'B', 'C', 'D']}",B
+9-1143,Near which location would an anteater most likely live?,"{'text': ['has less matter than Earth', 'orbits around the sun', 'weighs more than Earth', 'has more mass than Earth'], 'label': ['A', 'B', 'C', 'D']}",B
+7-436,Two animals with similar diets living in the same environments leads to them,"{'text': ['the water decreases', 'it stays same', 'the water increases', 'the water hardens'], 'label': ['A', 'B', 'C', 'D']}",B
+9-1006,An example of feeling,"{'text': ['retailers make more money', 'retailers open new branches', 'retailers lose out on revenue', 'retailers double up on their stock'], 'label': ['A', 'B', 'C', 'D']}",B
+7-64,"While many habitats support a great variety of life, and deserts are included, many animals","{'text': ['She will be able to fix her appearance to be more likely to receive help', 'She can use the makeup as camouflage', 'she can use the mirror to signal someone', 'She can break the mirror to use the pieces for a weapon'], 'label': ['A', 'B', 'C', 'D']}",B
+876,Shorter periods of daylight happen,"{'text': ['small change', 'learn to fly', 'less of them', 'more of them'], 'label': ['A', 'B', 'C', 'D']}",A
+1284,"when an animal's eyes grow, what happens","{'text': ['the area becomes damp', 'the surrounding land is underwater', 'the wind blows over trees', 'everything around burns down'], 'label': ['A', 'B', 'C', 'D']}",A
+9-963,A car slowed down because of,"{'text': ['sense differences in atomic structure', 'sense differences in color', 'sense differences in atomic value', 'sense differences in material makeup'], 'label': ['A', 'B', 'C', 'D']}",D
+8-462,Why should people conserve gas when fueling their cars?,"{'text': ['bark and canopies', 'a crystal lake', 'a snowy mountaintop', 'a small bird'], 'label': ['A', 'B', 'C', 'D']}",D
+7-342,which of these would make an ideal object to drive in with a hammer?,"{'text': ['the push of a cat', 'fossil fuel products refined', 'the motion of atmosphere', 'the warmth of the sun'], 'label': ['A', 'B', 'C', 'D']}",A
+7-243,Stars are,"{'text': ['have live births', 'eat only meat', 'incubate their food', 'incubate their young'], 'label': ['A', 'B', 'C', 'D']}",C
+7-156,Which has renewable resources?,"{'text': ['Popcorn', 'Grass', 'Apple', 'A bison'], 'label': ['A', 'B', 'C', 'D']}",B
+7-829,Where would a greenhouse best be used?,"{'text': ['he completed a lap', 'he made a good deal', 'he invented new circuits', 'he completed a circuit'], 'label': ['A', 'B', 'C', 'D']}",D
+9-1077,A microscope can be placed against the sun and,"{'text': ['people', 'plants', 'kilograms', 'air'], 'label': ['A', 'B', 'C', 'D']}",A
+9-207,An animal living in an environment lacking in food resources,"{'text': ['eye color', 'height', 'hair length', 'number of chromosomes'], 'label': ['A', 'B', 'C', 'D']}",D
+7-842,"Over a period of years in direct heat and sunlight, a large boulder may be","{'text': ['the owl is invisible', 'the mouse is oblivious', 'the mouse is blind', 'the owl matches its background'], 'label': ['A', 'B', 'C', 'D']}",B
+7-397,Burning natural gas can,"{'text': ['it will be confused', 'it might get too viscious', 'it will be scared', 'it might get overheated'], 'label': ['A', 'B', 'C', 'D']}",A
+1045,coal is a resource that,"{'text': ['size', 'weight', 'distance', 'appearance'], 'label': ['A', 'B', 'C', 'D']}",A
+578,Cardinals,"{'text': ['swell', 'float', 'die', 'burn'], 'label': ['A', 'B', 'C', 'D']}",C
+9-725,Chimpanzees dig for insects with sticks; what is another example of using tools?,"{'text': ['Fish', 'Word of mouth', 'Knowledge', 'Boat'], 'label': ['A', 'B', 'C', 'D']}",A
+9-1040,Earth is a similar material as,"{'text': ['nitrogen', 'Perfume', 'Oxygen', 'helium'], 'label': ['A', 'B', 'C', 'D']}",A
+154,"If more pollution is released into the air, what happens to the planet's temperature?","{'text': ['bog animals may be thirsty', 'bog animals may search longer for nutrients', 'the bog produces more water', 'bog predators need more prey'], 'label': ['A', 'B', 'C', 'D']}",A
+9-869,An example of a consumer would be,"{'text': ['sun', 'iron', 'sand', 'cafeteria'], 'label': ['A', 'B', 'C', 'D']}",A
+384,"A tiny spark grows and the result tears through an area of nature and spreads through the mountains, consuming","{'text': ['friendships', 'habitat', 'survival', 'caloric needs'], 'label': ['A', 'B', 'C', 'D']}",D
+8-217,The material that makes up iron nails is known as what on the table of elements?,"{'text': ['because it can only be used once', 'because it is hard to find', 'because the more it is used the more it costs', 'because it can mess up their engines'], 'label': ['A', 'B', 'C', 'D']}",D
+1652,How can a woman's compact best help if she is lost on a mountain?,"{'text': ['lock them in their cage more', 'give up and get a new bird', 'try putting them on a diet', 'take away all their perches'], 'label': ['A', 'B', 'C', 'D']}",A
+8-289,Seeds travel by,"{'text': ['a bed', 'education', 'inspiration', 'energy'], 'label': ['A', 'B', 'C', 'D']}",B
+7-406,A consequence of polluting could be that,"{'text': ['dry sticks', 'dirt pile', 'berry bushes', 'dead leaves'], 'label': ['A', 'B', 'C', 'D']}",A
+8-388,A magnet will stick to,"{'text': ['July', 'January', 'September', 'April'], 'label': ['A', 'B', 'C', 'D']}",C
+7-749,"A storm rages for two weeks, and the rivers and lakes swell past their holding capacity, so","{'text': ['he gets bored easily', 'he likes having dinner', 'he hates eating peas', 'he likes blonde girls'], 'label': ['A', 'B', 'C', 'D']}",D
+7-513,Which of these items is required for a deer to live,"{'text': ['retain energy', 'bear young', 'find food', 'take a nap'], 'label': ['A', 'B', 'C', 'D']}",A
+852,Which doesn't contain water?,"{'text': ['fish become inedible', 'water tastes gross', 'papers report it', 'trash is overflowing'], 'label': ['A', 'B', 'C', 'D']}",A
+155,An eagle will use their claws to catch which of the following?,"{'text': ['penguins laying eggs on ice', 'fish hiding in coral reefs', 'gulls dive bombing fish from the sea', 'ducks chasing prey underwater'], 'label': ['A', 'B', 'C', 'D']}",A
+8-83,Moving your face further from a mirror,"{'text': ['dog', 'sun', 'human', 'dust'], 'label': ['A', 'B', 'C', 'D']}",B
+7-30,"When the weather changes as it does from Christmas to Easter,","{'text': ['new ground to inhabit', 'a large fish eating a tree', 'a burst of fire from the future', 'a small crack in a tall mountain'], 'label': ['A', 'B', 'C', 'D']}",B
+1107,As you look deeper into a Marbel you can see,"{'text': ['circle balls of hydrogen', 'travel through deep space', 'crash into each other', 'slingshot around the galaxy'], 'label': ['A', 'B', 'C', 'D']}",A
+886,If I wanted to prevent a blister when running I can,"{'text': ['the dog enjoys being washed out', 'washing all the fur is easy', 'it takes hours to vacuum all of the fur', 'the fur is still attached to the skin'], 'label': ['A', 'B', 'C', 'D']}",C
+7-11,Our eyes can help us with,"{'text': ['a light that needs a crank to be turned', 'a radio that needs four batteries', 'a computer that needs to be plugged in', 'a stove that works on gas'], 'label': ['A', 'B', 'C', 'D']}",C
+9-307,"Lightness may be seen reflected more clearly and brighter off of lighter colored objects, so an example would be","{'text': ['sleep', 'do the same', 'pant', 'pace'], 'label': ['A', 'B', 'C', 'D']}",A
+7-637,Without reliable sources of food or water,"{'text': ['paper plates', 'ceramic plates', 'solo cups', 'plastic forks'], 'label': ['A', 'B', 'C', 'D']}",A
+8-44,What do rotating vanes on an electric fan do to air?,"{'text': ['clouds are a cloud source', 'ponds are a moisture source', 'air is a air source', 'fish are a fish source'], 'label': ['A', 'B', 'C', 'D']}",B
+9-1150,"The sun is a source of which, first and foremost?","{'text': ['animals leave', 'it ceases existing', 'plants dry up', 'fish grow ill'], 'label': ['A', 'B', 'C', 'D']}",D
+9-21,Carbon dioxide exists where it does because,"{'text': ['kittens', 'wolf pups', 'fox pups', 'dog pups'], 'label': ['A', 'B', 'C', 'D']}",D
+7-1199,Cooking food requires,"{'text': ['a level of our planet', 'the planet closest to ours', 'a kind of rock found on Earth', 'the deepest part of our planet'], 'label': ['A', 'B', 'C', 'D']}",C
+7-531,"When looking for a good renewable resource in order to avoid wasting anything that will eventually run out, a man decides to use","{'text': ['smoking less', 'switching to chewing', 'no filters', 'switching to e-cigs'], 'label': ['A', 'B', 'C', 'D']}",C
+7-1084,"In order to better understand the world around us, specialists","{'text': ['disease', 'fecal matter', 'fuel', 'fertilizer'], 'label': ['A', 'B', 'C', 'D']}",D
+7-420,Scales,"{'text': ['hard', 'clear', 'light', 'far away'], 'label': ['A', 'B', 'C', 'D']}",B
+8-275,What can be used more than one time?,"{'text': ['new rock formation', 'a random break', 'an optical illusion', 'very long ago'], 'label': ['A', 'B', 'C', 'D']}",B
+7-898,I can use a stopwatch to track,"{'text': ['broken', 'smoothed', 'sharpened', 'stained'], 'label': ['A', 'B', 'C', 'D']}",A
+9-650,There are now many more people because of,"{'text': ['the arctic regions', 'all of these', 'tropical rain forest', 'the mangrove forest'], 'label': ['A', 'B', 'C', 'D']}",B
+723,"If one mineral can scratch another mineral then that other mineral is softer than that one mineral, as can be tested with","{'text': ['Starvation', 'Perspiration', 'Fullness', 'happiness'], 'label': ['A', 'B', 'C', 'D']}",C
+899,Poison causes harm to which of the following?,"{'text': ['milk', 'blue cheese', 'melted cheese', 'small pieces'], 'label': ['A', 'B', 'C', 'D']}",B
+9-373,"If a river is rushing southwest on a sunny day, then it is safe to assume that","{'text': ['the mind needs time to digest', 'take a second to digest what I said', 'nutrients are being deconstructed', ""reader's digest is a body of works""], 'label': ['A', 'B', 'C', 'D']}",A
+1386,An electric car causes,"{'text': ['212 degrees F.', '0 degrees C.', '39 degrees F.', '32 degrees C.'], 'label': ['A', 'B', 'C', 'D']}",A
+9-195,Many animals that give birth to live young have,"{'text': ['the air may chill', 'the ground may freeze', 'the plants may die', 'the ground may warm'], 'label': ['A', 'B', 'C', 'D']}",A
+7-647,An example of adapting to survive is,"{'text': ['raises the Fahrenheit of an object', 'lowers the Celsius of an object', 'causes the object to cool', 'causes the temperature of the object to descend'], 'label': ['A', 'B', 'C', 'D']}",C
+7-321,Feeling sweaty is normal on the ocean because,"{'text': ['it has capacity to grow', 'it is home grown', 'it will grow into a life form', 'it was hatched from a shell'], 'label': ['A', 'B', 'C', 'D']}",D
+9-1116,What does gravity cause substances on a planet?,"{'text': ['Bahamas', 'Nebraska', 'Florida', 'Mexico'], 'label': ['A', 'B', 'C', 'D']}",B
+7-409,"if a person remotely controls a machine to do something, which of these is required?","{'text': ['plummeted', 'raised', 'stayed the same', 'fluctuated'], 'label': ['A', 'B', 'C', 'D']}",D
+7-223,A car can be powered by all but,"{'text': ['exposed to extreme heat', 'frozen in an ice storm', 'crashed into a helicopter', 'melted by molten lava'], 'label': ['A', 'B', 'C', 'D']}",C
+7-190,"If a wolf is unable to catch prey reliably, the wolf will","{'text': ['color pallete', 'weights', 'height', 'smell'], 'label': ['A', 'B', 'C', 'D']}",C
+7-267,Quartz may produce rainbows when light is shined,"{'text': ['a ram will leap', 'a mouse will hide', 'a cheetah will fight', 'a giraffe will dash'], 'label': ['A', 'B', 'C', 'D']}",D
+9-818,Water vapor is an example of what?,"{'text': ['A slab of rock', 'A bucket of sand', 'A glass of water', 'A bag of air'], 'label': ['A', 'B', 'C', 'D']}",B
+7-588,"If a room is going to be humid, or dry, depends on how much water vapor is in the air, so if a room wants to be humid","{'text': ['they are endlessly available', 'inexpensive to store at home', ""free for everyone's use"", 'available to the public'], 'label': ['A', 'B', 'C', 'D']}",C
+7-1076,Which uses gills to breathe?,"{'text': ['the mountains seem very close', 'the mountains are boring', 'the mountains look the same as from up close', 'the mountains seem smaller than in photographs'], 'label': ['A', 'B', 'C', 'D']}",A
+585,What are a source of fibers?,"{'text': ['ice trays', 'solid water', 'warm water', 'buckets of oil'], 'label': ['A', 'B', 'C', 'D']}",C
+84,A hawk would prefer this for lunch,"{'text': ['better the view', 'stronger the gravity', 'moon orbits you', 'gravitational force weakens'], 'label': ['A', 'B', 'C', 'D']}",C
+8-8,Seed dispersal happened when the plant's seeds were,"{'text': ['The frog was getting burned by a heat lamp', 'the frog was unable to regulate its body temperature without an external heat source', 'The frog was using too much ice in its drinks', 'The water in the tank had dried up.'], 'label': ['A', 'B', 'C', 'D']}",C
+9-1142,Why would happen if the screw was loose on a bicycle's tire?,"{'text': ['sold to a person in another country', 'genetically modified for pesticide resitance', 'destroyed by radiation during processing', 'planted in the same garden'], 'label': ['A', 'B', 'C', 'D']}",D
+1237,"If a fox shuffles off the mortal coil, then that fox","{'text': ['water', 'soil', 'carbon dioxide', 'biodiversity'], 'label': ['A', 'B', 'C', 'D']}",D
+7-584,Which of these items must be combined with a river to produce power?,"{'text': ['cold', 'burns', 'electricity', 'fire'], 'label': ['A', 'B', 'C', 'D']}",A
+1034,Billy's new puppy had floppy ears. That might be because,"{'text': ['are mainly creatures like deer', 'require photosynthesis to survive', 'produce a thing called chlorophyll', 'make good money at work'], 'label': ['A', 'B', 'C', 'D']}",A
+1921,do ecosystems remain the same?,"{'text': ['they eat a lot of rot', 'worms eat dead bodies', 'they enjoy eating carcasses and expel waste back to earth', 'worms enjoy eating dirt and decay'], 'label': ['A', 'B', 'C', 'D']}",A
+930,Which is most likely to cause an animal to shiver?,"{'text': ['they should move out of their house', 'they should just stop trying to walk', 'they should try wearing slicker bottomed shoes', 'they should try putting down carpet or throw rugs'], 'label': ['A', 'B', 'C', 'D']}",A
+7-248,Roads need repaved in spring because,"{'text': ['requires less force to move', 'requires minimal effort to move', 'requires more muscle power to shift', 'requires a light touch to move'], 'label': ['A', 'B', 'C', 'D']}",C
+7-145,What covers over 90% of the Earth's surface and 0% of the moon's surface,"{'text': ['chrysanthemum', 'mistletoe', 'mushroom', 'mole'], 'label': ['A', 'B', 'C', 'D']}",D
+8-480,"A person wants to buy some reusable equipment for the kitchen, so they get","{'text': ['ocean tides', 'animals', 'planet rotation', 'rotation of sun'], 'label': ['A', 'B', 'C', 'D']}",B
+9-404,What do steam and ice have in common?,"{'text': ['head to less snowy areas', 'prefer to visit florida', 'take a scenic route', 'travel in small groups'], 'label': ['A', 'B', 'C', 'D']}",D
+1295,What is an example of protecting the environment?,"{'text': ['it can be gotten continuously', 'it is free from dirt', 'it is electric and powerful', 'is uses very little gasoline'], 'label': ['A', 'B', 'C', 'D']}",C
+9-97,Greenhouses,"{'text': ['a wooden wall', 'the wind', 'the sun', 'light rays'], 'label': ['A', 'B', 'C', 'D']}",A
+1871,"After a wildfire, the surviving creatures need to","{'text': [""The puppy's mother had ears that looked the same way"", 'The puppy was deaf', 'The puppy was tired', 'The puppy was missing the bones in its ears'], 'label': ['A', 'B', 'C', 'D']}",B
+9-1035,"If something is alive, then it requires","{'text': ['center of gravity', 'shape and mass', 'chemical composition', 'speed'], 'label': ['A', 'B', 'C', 'D']}",D
+9-344,A man plugs his television into an outlet behind a cabinet. He sees that the television may now be turned on so that he can watch his favorite show. The man knows that by hooking the t.v. cord into the outlet,"{'text': ['a silky thread', 'trickery', 'seduction', 'a flyswatter'], 'label': ['A', 'B', 'C', 'D']}",B
+7-752,"A small volcano under the sea erupts ever four years. After a few centuries, there will be","{'text': ['powers of observation', 'lucky stars', 'mother', 'grandmother'], 'label': ['A', 'B', 'C', 'D']}",B
+9-644,Tearing an object changes that object's,"{'text': ['heaps of ice cubes', 'heaps of confused penguins', 'heaps of crystalline solids', 'heaps of coral reef'], 'label': ['A', 'B', 'C', 'D']}",C
+1946,"There are producers that exist in the food chain, and they basically","{'text': ['apples', 'apple pies', 'falling leaves', ""bird's nests""], 'label': ['A', 'B', 'C', 'D']}",D
+9-737,What is an example of the Earth rotating on its axis?,"{'text': [""adapted long ears the size of elephant's"", 'adapted a raised portion on their dorsal side', 'adapted long snouts to drink from holes', 'all of these'], 'label': ['A', 'B', 'C', 'D']}",D
+9-62,"A woman leaves some meat on the counter, and bacteria begins to quickly grow on the surface. This bacteria may cause","{'text': ['the southern part of cities', 'the northern part of Earth', 'the southern part of the third rock', 'the southern part of every rock'], 'label': ['A', 'B', 'C', 'D']}",A
+8-310,A heavier object,"{'text': ['humans are unable to reproduce until they are legal adults', 'eggs are unable to be fertilized before they are dropped', 'dogs are unable to have puppies until they are two years old', 'cats are unable to produce offspring until they are sexually mature'], 'label': ['A', 'B', 'C', 'D']}",A
+8-212,A pile of iron will,"{'text': ['Mars', 'Jupiter', 'Neptune', 'the sun'], 'label': ['A', 'B', 'C', 'D']}",A
+7-714,Filling a glass with markers for cup amounts on it would be,"{'text': ['a boy with a pen', 'a man with a stick', 'a man with a spoon', 'a man with a candle and match'], 'label': ['A', 'B', 'C', 'D']}",D
+9-827,Some minerals originated from a material that was,"{'text': ['high temps', 'mild weather', 'large storms', 'snowing clouds'], 'label': ['A', 'B', 'C', 'D']}",C
+9-1093,Seasons of the year highly impact what?,"{'text': ['plants', 'mushrooms', 'bacteria', 'robots'], 'label': ['A', 'B', 'C', 'D']}",C
+9-263,a day hiking will most likely result in which of these?,"{'text': ['frozen', 'catapulted', 'ravaged', 'rotted'], 'label': ['A', 'B', 'C', 'D']}",D
+9-1131,"A source of something supplies that something, like how","{'text': ['soak fields', 'create dams', 'feed fish', 'ruin crops'], 'label': ['A', 'B', 'C', 'D']}",D
+9-788,As a car approaches you in the night,"{'text': ['loosening of the bottle lid', 'deflation of the bottle', 'ice cubes in the freezer', 'bursting of the bottle'], 'label': ['A', 'B', 'C', 'D']}",C
+7-744,Disposition is the process of forming what?,"{'text': ['that animal has matured', 'that animal was impregnated', 'that animal was in heat', 'that animal was interested'], 'label': ['A', 'B', 'C', 'D']}",A
+9-255,If an animal is able to reproduce then,"{'text': ['survive', 'eat', 'live', 'grow'], 'label': ['A', 'B', 'C', 'D']}",C
+9-625,"A student is studying different aspects of science, and today's area is magnetic properties. The student has a magnet, and is testing which sort of objects the magnet will have an attraction to. The student is surprised that the magnet tugs itself towards","{'text': ['have fur', 'howl', 'have claws', 'have tails'], 'label': ['A', 'B', 'C', 'D']}",A
+7-281,As demand for product lags,"{'text': ['on the tray', 'in the mug', 'on the plate', 'on the table'], 'label': ['A', 'B', 'C', 'D']}",A
