@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #12 | [locuslab/TOFU](https://huggingface.co/datasets/locuslab/TOFU) | 2 cols · 500 rows | [edition_0012_locuslab-TOFU-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0012_locuslab-TOFU-readymade) | 2025-11-02 |
+| #13 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_0013_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0013_argilla-databricks-dolly-15k-curated-en-readymade) | 2025-11-02 |
 ---
 
 ## 🎭 The Method
@@ -96,3 +96,4 @@ Or let GitHub Action run it automatically.
 | 10 | 2025-11-02 17:35:21 | [rajpurkar/squad](https://huggingface.co/datasets/rajpurkar/squad) | streamed (500 rows, 5 cols) | [edition_0010_rajpurkar-squad-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0010_rajpurkar-squad-readymade) |
 | 11 | 2025-11-02 17:54:02 | [SVCFusion/Launcher](https://huggingface.co/datasets/SVCFusion/Launcher) | streamed (3 rows, 19 cols) | [edition_0011_SVCFusion-Launcher-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0011_SVCFusion-Launcher-readymade) |
 | 12 | 2025-11-02 18:14:39 | [locuslab/TOFU](https://huggingface.co/datasets/locuslab/TOFU) | streamed (500 rows, 2 cols) | [edition_0012_locuslab-TOFU-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0012_locuslab-TOFU-readymade) |
+| 13 | 2025-11-02 18:37:14 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0013_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0013_argilla-databricks-dolly-15k-curated-en-readymade) |
