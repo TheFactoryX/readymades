@@ -1,0 +1,44 @@
+{
+  "edition_number": 10,
+  "exhibited": "2025-11-02 17:35:21 UTC",
+  "original": {
+    "name": "rajpurkar/squad",
+    "url": "https://huggingface.co/datasets/rajpurkar/squad",
+    "downloads": 81700,
+    "likes": 340,
+    "tags": [
+      "task_categories:question-answering",
+      "task_ids:extractive-qa",
+      "annotations_creators:crowdsourced",
+      "language_creators:crowdsourced",
+      "language_creators:found",
+      "multilinguality:monolingual",
+      "source_datasets:extended|wikipedia",
+      "language:en",
+      "license:cc-by-sa-4.0",
+      "size_categories:10K<n<100K",
+      "format:parquet",
+      "modality:text",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "arxiv:1606.05250",
+      "region:us"
+    ]
+  },
+  "process": {
+    "strategy": "popular",
+    "method": "streamed",
+    "rows": 500,
+    "columns": 5,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 1.888488
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_0010_rajpurkar-squad-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_0010_rajpurkar-squad-readymade"
+  }
+}
