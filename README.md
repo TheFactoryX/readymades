@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #28 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_0028_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0028_open-thoughts-OpenThoughts-114k-readymade) | 2025-11-03 |
+| #29 | [inductiva/windtunnel-20k](https://huggingface.co/datasets/inductiva/windtunnel-20k) | 15 cols · 500 rows | [edition_0029_inductiva-windtunnel-20k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0029_inductiva-windtunnel-20k-readymade) | 2025-11-03 |
 ---
 
 ## 🎭 The Method
@@ -112,3 +112,4 @@ Or let GitHub Action run it automatically.
 | 26 | 2025-11-03 02:46:08 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0026_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0026_shi-labs-oneformer_demo-readymade) |
 | 27 | 2025-11-03 03:45:57 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0027_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0027_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 28 | 2025-11-03 04:21:35 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0028_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0028_open-thoughts-OpenThoughts-114k-readymade) |
+| 29 | 2025-11-03 04:50:35 | [inductiva/windtunnel-20k](https://huggingface.co/datasets/inductiva/windtunnel-20k) | streamed (500 rows, 15 cols) | [edition_0029_inductiva-windtunnel-20k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0029_inductiva-windtunnel-20k-readymade) |
