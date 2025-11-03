@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #52 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | 2 cols · 500 rows | [edition_0052_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0052_cornell-movie-review-data-rotten_tomatoes-readymade) | 2025-11-03 |
+| #53 | [newtextdoc1111/danbooru-tag-csv](https://huggingface.co/datasets/newtextdoc1111/danbooru-tag-csv) | 4 cols · 500 rows | [edition_0053_newtextdoc1111-danbooru-tag-csv-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0053_newtextdoc1111-danbooru-tag-csv-readymade) | 2025-11-03 |
 ---
 
 ## 🎭 The Method
@@ -136,3 +136,4 @@ Or let GitHub Action run it automatically.
 | 50 | 2025-11-03 20:49:45 | [newtextdoc1111/danbooru-tag-csv](https://huggingface.co/datasets/newtextdoc1111/danbooru-tag-csv) | streamed (500 rows, 4 cols) | [edition_0050_newtextdoc1111-danbooru-tag-csv-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0050_newtextdoc1111-danbooru-tag-csv-readymade) |
 | 51 | 2025-11-03 21:28:19 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0051_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0051_shi-labs-oneformer_demo-readymade) |
 | 52 | 2025-11-03 22:47:56 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_0052_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0052_cornell-movie-review-data-rotten_tomatoes-readymade) |
+| 53 | 2025-11-03 23:12:13 | [newtextdoc1111/danbooru-tag-csv](https://huggingface.co/datasets/newtextdoc1111/danbooru-tag-csv) | streamed (500 rows, 4 cols) | [edition_0053_newtextdoc1111-danbooru-tag-csv-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0053_newtextdoc1111-danbooru-tag-csv-readymade) |
