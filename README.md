@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #30 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_0030_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0030_shi-labs-oneformer_demo-readymade) | 2025-11-03 |
+| #31 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | 11 cols · 500 rows | [edition_0031_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0031_SWE-Gym-SWE-Gym-readymade) | 2025-11-03 |
 ---
 
 ## 🎭 The Method
@@ -114,3 +114,4 @@ Or let GitHub Action run it automatically.
 | 28 | 2025-11-03 04:21:35 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0028_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0028_open-thoughts-OpenThoughts-114k-readymade) |
 | 29 | 2025-11-03 04:50:35 | [inductiva/windtunnel-20k](https://huggingface.co/datasets/inductiva/windtunnel-20k) | streamed (500 rows, 15 cols) | [edition_0029_inductiva-windtunnel-20k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0029_inductiva-windtunnel-20k-readymade) |
 | 30 | 2025-11-03 05:42:30 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0030_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0030_shi-labs-oneformer_demo-readymade) |
+| 31 | 2025-11-03 06:20:25 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | streamed (500 rows, 11 cols) | [edition_0031_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0031_SWE-Gym-SWE-Gym-readymade) |
