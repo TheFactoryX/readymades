@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #47 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_0047_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0047_shi-labs-oneformer_demo-readymade) | 2025-11-03 |
+| #48 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | 11 cols · 500 rows | [edition_0048_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0048_SWE-Gym-SWE-Gym-readymade) | 2025-11-03 |
 ---
 
 ## 🎭 The Method
@@ -131,3 +131,4 @@ Or let GitHub Action run it automatically.
 | 45 | 2025-11-03 16:15:31 | [newtextdoc1111/danbooru-tag-csv](https://huggingface.co/datasets/newtextdoc1111/danbooru-tag-csv) | streamed (500 rows, 4 cols) | [edition_0045_newtextdoc1111-danbooru-tag-csv-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0045_newtextdoc1111-danbooru-tag-csv-readymade) |
 | 46 | 2025-11-03 17:02:00 | [newtextdoc1111/danbooru-tag-csv](https://huggingface.co/datasets/newtextdoc1111/danbooru-tag-csv) | streamed (500 rows, 4 cols) | [edition_0046_newtextdoc1111-danbooru-tag-csv-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0046_newtextdoc1111-danbooru-tag-csv-readymade) |
 | 47 | 2025-11-03 17:31:22 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0047_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0047_shi-labs-oneformer_demo-readymade) |
+| 48 | 2025-11-03 17:48:14 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | streamed (500 rows, 11 cols) | [edition_0048_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0048_SWE-Gym-SWE-Gym-readymade) |
