@@ -1,0 +1,27 @@
+{
+  "edition_number": 34,
+  "exhibited": "2025-11-03 07:48:50 UTC",
+  "original": {
+    "name": "newtextdoc1111/danbooru-tag-csv",
+    "url": "https://huggingface.co/datasets/newtextdoc1111/danbooru-tag-csv",
+    "downloads": 59064,
+    "likes": 4,
+    "tags": [
+      "region:us"
+    ]
+  },
+  "process": {
+    "strategy": "popular_backup",
+    "method": "streamed",
+    "rows": 500,
+    "columns": 4,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 1.523591
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_0034_newtextdoc1111-danbooru-tag-csv-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_0034_newtextdoc1111-danbooru-tag-csv-readymade"
+  }
+}
