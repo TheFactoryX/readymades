@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #65 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | 11 cols · 500 rows | [edition_0065_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0065_SWE-Gym-SWE-Gym-readymade) | 2025-11-04 |
+| #66 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_0066_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0066_argilla-databricks-dolly-15k-curated-en-readymade) | 2025-11-04 |
 ---
 
 ## 🎭 The Method
@@ -149,3 +149,4 @@ Or let GitHub Action run it automatically.
 | 63 | 2025-11-04 11:29:04 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0063_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0063_open-thoughts-OpenThoughts-114k-readymade) |
 | 64 | 2025-11-04 11:48:36 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0064_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0064_tatsu-lab-alpaca-readymade) |
 | 65 | 2025-11-04 12:27:53 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | streamed (500 rows, 11 cols) | [edition_0065_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0065_SWE-Gym-SWE-Gym-readymade) |
+| 66 | 2025-11-04 13:09:04 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0066_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0066_argilla-databricks-dolly-15k-curated-en-readymade) |
