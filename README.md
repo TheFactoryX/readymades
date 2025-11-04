@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #62 | [newtextdoc1111/danbooru-tag-csv](https://huggingface.co/datasets/newtextdoc1111/danbooru-tag-csv) | 4 cols · 500 rows | [edition_0062_newtextdoc1111-danbooru-tag-csv-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0062_newtextdoc1111-danbooru-tag-csv-readymade) | 2025-11-04 |
+| #63 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_0063_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0063_open-thoughts-OpenThoughts-114k-readymade) | 2025-11-04 |
 ---
 
 ## 🎭 The Method
@@ -146,3 +146,4 @@ Or let GitHub Action run it automatically.
 | 60 | 2025-11-04 08:17:46 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0060_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0060_tatsu-lab-alpaca-readymade) |
 | 61 | 2025-11-04 09:51:13 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0061_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0061_open-thoughts-OpenThoughts-114k-readymade) |
 | 62 | 2025-11-04 10:54:29 | [newtextdoc1111/danbooru-tag-csv](https://huggingface.co/datasets/newtextdoc1111/danbooru-tag-csv) | streamed (500 rows, 4 cols) | [edition_0062_newtextdoc1111-danbooru-tag-csv-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0062_newtextdoc1111-danbooru-tag-csv-readymade) |
+| 63 | 2025-11-04 11:29:04 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0063_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0063_open-thoughts-OpenThoughts-114k-readymade) |
