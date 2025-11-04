@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #59 | [newtextdoc1111/danbooru-tag-csv](https://huggingface.co/datasets/newtextdoc1111/danbooru-tag-csv) | 4 cols · 500 rows | [edition_0059_newtextdoc1111-danbooru-tag-csv-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0059_newtextdoc1111-danbooru-tag-csv-readymade) | 2025-11-04 |
+| #60 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_0060_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0060_tatsu-lab-alpaca-readymade) | 2025-11-04 |
 ---
 
 ## 🎭 The Method
@@ -143,3 +143,4 @@ Or let GitHub Action run it automatically.
 | 57 | 2025-11-04 04:36:58 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0057_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0057_open-thoughts-OpenThoughts-114k-readymade) |
 | 58 | 2025-11-04 07:30:40 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0058_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0058_open-thoughts-OpenThoughts-114k-readymade) |
 | 59 | 2025-11-04 07:48:08 | [newtextdoc1111/danbooru-tag-csv](https://huggingface.co/datasets/newtextdoc1111/danbooru-tag-csv) | streamed (500 rows, 4 cols) | [edition_0059_newtextdoc1111-danbooru-tag-csv-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0059_newtextdoc1111-danbooru-tag-csv-readymade) |
+| 60 | 2025-11-04 08:17:46 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0060_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0060_tatsu-lab-alpaca-readymade) |
