@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #73 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | 11 cols · 500 rows | [edition_0073_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0073_SWE-Gym-SWE-Gym-readymade) | 2025-11-04 |
+| #74 | [neashton/drivaerml](https://huggingface.co/datasets/neashton/drivaerml) | 1 cols · 500 rows | [edition_0074_neashton-drivaerml-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0074_neashton-drivaerml-readymade) | 2025-11-04 |
 ---
 
 ## 🎭 The Method
@@ -157,3 +157,4 @@ Or let GitHub Action run it automatically.
 | 71 | 2025-11-04 16:16:17 | [newtextdoc1111/danbooru-tag-csv](https://huggingface.co/datasets/newtextdoc1111/danbooru-tag-csv) | streamed (500 rows, 4 cols) | [edition_0071_newtextdoc1111-danbooru-tag-csv-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0071_newtextdoc1111-danbooru-tag-csv-readymade) |
 | 72 | 2025-11-04 17:41:30 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | streamed (500 rows, 11 cols) | [edition_0072_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0072_SWE-Gym-SWE-Gym-readymade) |
 | 73 | 2025-11-04 18:18:14 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | streamed (500 rows, 11 cols) | [edition_0073_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0073_SWE-Gym-SWE-Gym-readymade) |
+| 74 | 2025-11-04 19:40:14 | [neashton/drivaerml](https://huggingface.co/datasets/neashton/drivaerml) | streamed (500 rows, 1 cols) | [edition_0074_neashton-drivaerml-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0074_neashton-drivaerml-readymade) |

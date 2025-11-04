@@ -1,0 +1,29 @@
+{
+  "edition_number": 74,
+  "exhibited": "2025-11-04 19:40:14 UTC",
+  "original": {
+    "name": "neashton/drivaerml",
+    "url": "https://huggingface.co/datasets/neashton/drivaerml",
+    "downloads": 78852,
+    "likes": 7,
+    "tags": [
+      "license:cc-by-sa-4.0",
+      "arxiv:2408.11969",
+      "region:us"
+    ]
+  },
+  "process": {
+    "strategy": "popular",
+    "method": "streamed",
+    "rows": 500,
+    "columns": 1,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 358.873711
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_0074_neashton-drivaerml-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_0074_neashton-drivaerml-readymade"
+  }
+}
