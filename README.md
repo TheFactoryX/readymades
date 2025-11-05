@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #88 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_0088_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0088_open-thoughts-OpenThoughts-114k-readymade) | 2025-11-05 |
+| #89 | [newtextdoc1111/danbooru-tag-csv](https://huggingface.co/datasets/newtextdoc1111/danbooru-tag-csv) | 4 cols · 500 rows | [edition_0089_newtextdoc1111-danbooru-tag-csv-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0089_newtextdoc1111-danbooru-tag-csv-readymade) | 2025-11-05 |
 ---
 
 ## 🎭 The Method
@@ -172,3 +172,4 @@ Or let GitHub Action run it automatically.
 | 86 | 2025-11-05 04:00:01 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0086_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0086_tatsu-lab-alpaca-readymade) |
 | 87 | 2025-11-05 04:25:01 | [newtextdoc1111/danbooru-tag-csv](https://huggingface.co/datasets/newtextdoc1111/danbooru-tag-csv) | streamed (500 rows, 4 cols) | [edition_0087_newtextdoc1111-danbooru-tag-csv-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0087_newtextdoc1111-danbooru-tag-csv-readymade) |
 | 88 | 2025-11-05 04:52:23 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0088_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0088_open-thoughts-OpenThoughts-114k-readymade) |
+| 89 | 2025-11-05 05:13:00 | [newtextdoc1111/danbooru-tag-csv](https://huggingface.co/datasets/newtextdoc1111/danbooru-tag-csv) | streamed (500 rows, 4 cols) | [edition_0089_newtextdoc1111-danbooru-tag-csv-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0089_newtextdoc1111-danbooru-tag-csv-readymade) |
