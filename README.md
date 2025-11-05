@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #97 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_0097_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0097_argilla-databricks-dolly-15k-curated-en-readymade) | 2025-11-05 |
+| #98 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_0098_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0098_open-thoughts-OpenThoughts-114k-readymade) | 2025-11-05 |
 ---
 
 ## 🎭 The Method
@@ -181,3 +181,4 @@ Or let GitHub Action run it automatically.
 | 95 | 2025-11-05 07:48:39 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_0095_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0095_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 96 | 2025-11-05 09:15:07 | [newtextdoc1111/danbooru-tag-csv](https://huggingface.co/datasets/newtextdoc1111/danbooru-tag-csv) | streamed (500 rows, 4 cols) | [edition_0096_newtextdoc1111-danbooru-tag-csv-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0096_newtextdoc1111-danbooru-tag-csv-readymade) |
 | 97 | 2025-11-05 09:51:36 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0097_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0097_argilla-databricks-dolly-15k-curated-en-readymade) |
+| 98 | 2025-11-05 10:14:25 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0098_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0098_open-thoughts-OpenThoughts-114k-readymade) |
