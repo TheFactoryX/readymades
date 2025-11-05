@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #107 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_0107_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0107_open-thoughts-OpenThoughts-114k-readymade) | 2025-11-05 |
+| #108 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_0108_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0108_tatsu-lab-alpaca-readymade) | 2025-11-05 |
 ---
 
 ## 🎭 The Method
@@ -191,3 +191,4 @@ Or let GitHub Action run it automatically.
 | 105 | 2025-11-05 14:13:32 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0105_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0105_shi-labs-oneformer_demo-readymade) |
 | 106 | 2025-11-05 14:35:42 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_0106_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0106_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 107 | 2025-11-05 14:53:43 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0107_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0107_open-thoughts-OpenThoughts-114k-readymade) |
+| 108 | 2025-11-05 16:15:48 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0108_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0108_tatsu-lab-alpaca-readymade) |
