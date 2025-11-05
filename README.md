@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #114 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_0114_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0114_shi-labs-oneformer_demo-readymade) | 2025-11-05 |
+| #115 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_0115_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0115_shi-labs-oneformer_demo-readymade) | 2025-11-05 |
 ---
 
 ## 🎭 The Method
@@ -198,3 +198,4 @@ Or let GitHub Action run it automatically.
 | 112 | 2025-11-05 19:10:29 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0112_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0112_open-thoughts-OpenThoughts-114k-readymade) |
 | 113 | 2025-11-05 19:42:11 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_0113_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0113_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 114 | 2025-11-05 19:48:01 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0114_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0114_shi-labs-oneformer_demo-readymade) |
+| 115 | 2025-11-05 20:51:01 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0115_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0115_shi-labs-oneformer_demo-readymade) |
