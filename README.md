@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #116 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_0116_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0116_argilla-databricks-dolly-15k-curated-en-readymade) | 2025-11-05 |
+| #117 | [newtextdoc1111/danbooru-tag-csv](https://huggingface.co/datasets/newtextdoc1111/danbooru-tag-csv) | 4 cols · 500 rows | [edition_0117_newtextdoc1111-danbooru-tag-csv-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0117_newtextdoc1111-danbooru-tag-csv-readymade) | 2025-11-05 |
 ---
 
 ## 🎭 The Method
@@ -200,3 +200,4 @@ Or let GitHub Action run it automatically.
 | 114 | 2025-11-05 19:48:01 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0114_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0114_shi-labs-oneformer_demo-readymade) |
 | 115 | 2025-11-05 20:51:01 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0115_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0115_shi-labs-oneformer_demo-readymade) |
 | 116 | 2025-11-05 21:29:08 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0116_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0116_argilla-databricks-dolly-15k-curated-en-readymade) |
+| 117 | 2025-11-05 21:48:23 | [newtextdoc1111/danbooru-tag-csv](https://huggingface.co/datasets/newtextdoc1111/danbooru-tag-csv) | streamed (500 rows, 4 cols) | [edition_0117_newtextdoc1111-danbooru-tag-csv-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0117_newtextdoc1111-danbooru-tag-csv-readymade) |
