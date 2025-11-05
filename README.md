@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #101 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | 11 cols · 500 rows | [edition_0101_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0101_SWE-Gym-SWE-Gym-readymade) | 2025-11-05 |
+| #102 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_0102_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0102_shi-labs-oneformer_demo-readymade) | 2025-11-05 |
 ---
 
 ## 🎭 The Method
@@ -185,3 +185,4 @@ Or let GitHub Action run it automatically.
 | 99 | 2025-11-05 10:39:21 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_0099_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0099_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 100 | 2025-11-05 11:37:52 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0100_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0100_open-thoughts-OpenThoughts-114k-readymade) |
 | 101 | 2025-11-05 12:24:11 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | streamed (500 rows, 11 cols) | [edition_0101_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0101_SWE-Gym-SWE-Gym-readymade) |
+| 102 | 2025-11-05 13:07:34 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0102_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0102_shi-labs-oneformer_demo-readymade) |
