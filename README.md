@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #111 | [inductiva/windtunnel-20k](https://huggingface.co/datasets/inductiva/windtunnel-20k) | 15 cols · 500 rows | [edition_0111_inductiva-windtunnel-20k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0111_inductiva-windtunnel-20k-readymade) | 2025-11-05 |
+| #112 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_0112_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0112_open-thoughts-OpenThoughts-114k-readymade) | 2025-11-05 |
 ---
 
 ## 🎭 The Method
@@ -195,3 +195,4 @@ Or let GitHub Action run it automatically.
 | 109 | 2025-11-05 17:13:10 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0109_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0109_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 110 | 2025-11-05 18:17:29 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_0110_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0110_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 111 | 2025-11-05 18:54:36 | [inductiva/windtunnel-20k](https://huggingface.co/datasets/inductiva/windtunnel-20k) | streamed (500 rows, 15 cols) | [edition_0111_inductiva-windtunnel-20k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0111_inductiva-windtunnel-20k-readymade) |
+| 112 | 2025-11-05 19:10:29 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0112_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0112_open-thoughts-OpenThoughts-114k-readymade) |
