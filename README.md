@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #139 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_0139_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0139_open-thoughts-OpenThoughts-114k-readymade) | 2025-11-06 |
+| #140 | [newtextdoc1111/danbooru-tag-csv](https://huggingface.co/datasets/newtextdoc1111/danbooru-tag-csv) | 4 cols · 500 rows | [edition_0140_newtextdoc1111-danbooru-tag-csv-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0140_newtextdoc1111-danbooru-tag-csv-readymade) | 2025-11-06 |
 ---
 
 ## 🎭 The Method
@@ -223,3 +223,4 @@ Or let GitHub Action run it automatically.
 | 137 | 2025-11-06 19:36:48 | [inductiva/windtunnel-20k](https://huggingface.co/datasets/inductiva/windtunnel-20k) | streamed (500 rows, 15 cols) | [edition_0137_inductiva-windtunnel-20k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0137_inductiva-windtunnel-20k-readymade) |
 | 138 | 2025-11-06 20:13:34 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0138_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0138_tatsu-lab-alpaca-readymade) |
 | 139 | 2025-11-06 21:38:11 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0139_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0139_open-thoughts-OpenThoughts-114k-readymade) |
+| 140 | 2025-11-06 22:33:18 | [newtextdoc1111/danbooru-tag-csv](https://huggingface.co/datasets/newtextdoc1111/danbooru-tag-csv) | streamed (500 rows, 4 cols) | [edition_0140_newtextdoc1111-danbooru-tag-csv-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0140_newtextdoc1111-danbooru-tag-csv-readymade) |
