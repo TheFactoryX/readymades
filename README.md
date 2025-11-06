@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #137 | [inductiva/windtunnel-20k](https://huggingface.co/datasets/inductiva/windtunnel-20k) | 15 cols · 500 rows | [edition_0137_inductiva-windtunnel-20k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0137_inductiva-windtunnel-20k-readymade) | 2025-11-06 |
+| #138 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_0138_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0138_tatsu-lab-alpaca-readymade) | 2025-11-06 |
 ---
 
 ## 🎭 The Method
@@ -221,3 +221,4 @@ Or let GitHub Action run it automatically.
 | 135 | 2025-11-06 14:51:25 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0135_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0135_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 136 | 2025-11-06 15:35:17 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0136_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0136_tatsu-lab-alpaca-readymade) |
 | 137 | 2025-11-06 19:36:48 | [inductiva/windtunnel-20k](https://huggingface.co/datasets/inductiva/windtunnel-20k) | streamed (500 rows, 15 cols) | [edition_0137_inductiva-windtunnel-20k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0137_inductiva-windtunnel-20k-readymade) |
+| 138 | 2025-11-06 20:13:34 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0138_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0138_tatsu-lab-alpaca-readymade) |
