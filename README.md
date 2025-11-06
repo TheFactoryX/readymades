@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #121 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_0121_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0121_open-thoughts-OpenThoughts-114k-readymade) | 2025-11-06 |
+| #122 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_0122_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0122_shi-labs-oneformer_demo-readymade) | 2025-11-06 |
 ---
 
 ## 🎭 The Method
@@ -205,3 +205,4 @@ Or let GitHub Action run it automatically.
 | 119 | 2025-11-05 22:32:59 | [newtextdoc1111/danbooru-tag-csv](https://huggingface.co/datasets/newtextdoc1111/danbooru-tag-csv) | streamed (500 rows, 4 cols) | [edition_0119_newtextdoc1111-danbooru-tag-csv-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0119_newtextdoc1111-danbooru-tag-csv-readymade) |
 | 120 | 2025-11-05 23:47:21 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0120_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0120_open-thoughts-OpenThoughts-114k-readymade) |
 | 121 | 2025-11-06 03:35:51 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0121_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0121_open-thoughts-OpenThoughts-114k-readymade) |
+| 122 | 2025-11-06 04:02:59 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0122_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0122_shi-labs-oneformer_demo-readymade) |
