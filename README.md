@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #128 | [newtextdoc1111/danbooru-tag-csv](https://huggingface.co/datasets/newtextdoc1111/danbooru-tag-csv) | 4 cols · 500 rows | [edition_0128_newtextdoc1111-danbooru-tag-csv-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0128_newtextdoc1111-danbooru-tag-csv-readymade) | 2025-11-06 |
+| #129 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_0129_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0129_open-thoughts-OpenThoughts-114k-readymade) | 2025-11-06 |
 ---
 
 ## 🎭 The Method
@@ -212,3 +212,4 @@ Or let GitHub Action run it automatically.
 | 126 | 2025-11-06 07:40:33 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0126_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0126_tatsu-lab-alpaca-readymade) |
 | 127 | 2025-11-06 08:17:52 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | streamed (500 rows, 11 cols) | [edition_0127_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0127_SWE-Gym-SWE-Gym-readymade) |
 | 128 | 2025-11-06 09:15:15 | [newtextdoc1111/danbooru-tag-csv](https://huggingface.co/datasets/newtextdoc1111/danbooru-tag-csv) | streamed (500 rows, 4 cols) | [edition_0128_newtextdoc1111-danbooru-tag-csv-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0128_newtextdoc1111-danbooru-tag-csv-readymade) |
+| 129 | 2025-11-06 10:15:09 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0129_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0129_open-thoughts-OpenThoughts-114k-readymade) |
