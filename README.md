@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #166 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_0166_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0166_tatsu-lab-alpaca-readymade) | 2025-11-07 |
+| #167 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_0167_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0167_tatsu-lab-alpaca-readymade) | 2025-11-07 |
 ---
 
 ## 🎭 The Method
@@ -250,3 +250,4 @@ Or let GitHub Action run it automatically.
 | 164 | 2025-11-07 18:44:38 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | streamed (500 rows, 11 cols) | [edition_0164_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0164_SWE-Gym-SWE-Gym-readymade) |
 | 165 | 2025-11-07 18:53:01 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_0165_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0165_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 166 | 2025-11-07 19:48:50 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0166_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0166_tatsu-lab-alpaca-readymade) |
+| 167 | 2025-11-07 20:29:59 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0167_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0167_tatsu-lab-alpaca-readymade) |
