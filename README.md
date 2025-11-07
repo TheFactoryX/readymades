@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #155 | [inductiva/windtunnel-20k](https://huggingface.co/datasets/inductiva/windtunnel-20k) | 15 cols · 500 rows | [edition_0155_inductiva-windtunnel-20k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0155_inductiva-windtunnel-20k-readymade) | 2025-11-07 |
+| #156 | [newtextdoc1111/danbooru-tag-csv](https://huggingface.co/datasets/newtextdoc1111/danbooru-tag-csv) | 4 cols · 500 rows | [edition_0156_newtextdoc1111-danbooru-tag-csv-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0156_newtextdoc1111-danbooru-tag-csv-readymade) | 2025-11-07 |
 ---
 
 ## 🎭 The Method
@@ -239,3 +239,4 @@ Or let GitHub Action run it automatically.
 | 153 | 2025-11-07 09:48:09 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_0153_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0153_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 154 | 2025-11-07 10:36:59 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | streamed (500 rows, 11 cols) | [edition_0154_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0154_SWE-Gym-SWE-Gym-readymade) |
 | 155 | 2025-11-07 11:30:05 | [inductiva/windtunnel-20k](https://huggingface.co/datasets/inductiva/windtunnel-20k) | streamed (500 rows, 15 cols) | [edition_0155_inductiva-windtunnel-20k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0155_inductiva-windtunnel-20k-readymade) |
+| 156 | 2025-11-07 11:37:01 | [newtextdoc1111/danbooru-tag-csv](https://huggingface.co/datasets/newtextdoc1111/danbooru-tag-csv) | streamed (500 rows, 4 cols) | [edition_0156_newtextdoc1111-danbooru-tag-csv-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0156_newtextdoc1111-danbooru-tag-csv-readymade) |
