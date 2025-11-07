@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #168 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_0168_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0168_tatsu-lab-alpaca-readymade) | 2025-11-07 |
+| #169 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | 11 cols · 500 rows | [edition_0169_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0169_SWE-Gym-SWE-Gym-readymade) | 2025-11-07 |
 ---
 
 ## 🎭 The Method
@@ -252,3 +252,4 @@ Or let GitHub Action run it automatically.
 | 166 | 2025-11-07 19:48:50 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0166_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0166_tatsu-lab-alpaca-readymade) |
 | 167 | 2025-11-07 20:29:59 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0167_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0167_tatsu-lab-alpaca-readymade) |
 | 168 | 2025-11-07 20:48:25 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0168_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0168_tatsu-lab-alpaca-readymade) |
+| 169 | 2025-11-07 21:47:56 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | streamed (500 rows, 11 cols) | [edition_0169_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0169_SWE-Gym-SWE-Gym-readymade) |
