@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #150 | [inductiva/windtunnel-20k](https://huggingface.co/datasets/inductiva/windtunnel-20k) | 15 cols · 500 rows | [edition_0150_inductiva-windtunnel-20k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0150_inductiva-windtunnel-20k-readymade) | 2025-11-07 |
+| #151 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_0151_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0151_shi-labs-oneformer_demo-readymade) | 2025-11-07 |
 ---
 
 ## 🎭 The Method
@@ -234,3 +234,4 @@ Or let GitHub Action run it automatically.
 | 148 | 2025-11-07 07:41:02 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0148_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0148_tatsu-lab-alpaca-readymade) |
 | 149 | 2025-11-07 08:17:28 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0149_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0149_open-thoughts-OpenThoughts-114k-readymade) |
 | 150 | 2025-11-07 08:50:37 | [inductiva/windtunnel-20k](https://huggingface.co/datasets/inductiva/windtunnel-20k) | streamed (500 rows, 15 cols) | [edition_0150_inductiva-windtunnel-20k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0150_inductiva-windtunnel-20k-readymade) |
+| 151 | 2025-11-07 09:13:34 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0151_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0151_shi-labs-oneformer_demo-readymade) |
