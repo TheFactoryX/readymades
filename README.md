@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #157 | [newtextdoc1111/danbooru-tag-csv](https://huggingface.co/datasets/newtextdoc1111/danbooru-tag-csv) | 4 cols · 500 rows | [edition_0157_newtextdoc1111-danbooru-tag-csv-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0157_newtextdoc1111-danbooru-tag-csv-readymade) | 2025-11-07 |
+| #158 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_0158_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0158_shi-labs-oneformer_demo-readymade) | 2025-11-07 |
 ---
 
 ## 🎭 The Method
@@ -241,3 +241,4 @@ Or let GitHub Action run it automatically.
 | 155 | 2025-11-07 11:30:05 | [inductiva/windtunnel-20k](https://huggingface.co/datasets/inductiva/windtunnel-20k) | streamed (500 rows, 15 cols) | [edition_0155_inductiva-windtunnel-20k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0155_inductiva-windtunnel-20k-readymade) |
 | 156 | 2025-11-07 11:37:01 | [newtextdoc1111/danbooru-tag-csv](https://huggingface.co/datasets/newtextdoc1111/danbooru-tag-csv) | streamed (500 rows, 4 cols) | [edition_0156_newtextdoc1111-danbooru-tag-csv-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0156_newtextdoc1111-danbooru-tag-csv-readymade) |
 | 157 | 2025-11-07 13:04:17 | [newtextdoc1111/danbooru-tag-csv](https://huggingface.co/datasets/newtextdoc1111/danbooru-tag-csv) | streamed (500 rows, 4 cols) | [edition_0157_newtextdoc1111-danbooru-tag-csv-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0157_newtextdoc1111-danbooru-tag-csv-readymade) |
+| 158 | 2025-11-07 13:39:05 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0158_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0158_shi-labs-oneformer_demo-readymade) |
