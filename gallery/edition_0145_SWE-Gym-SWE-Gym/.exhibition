@@ -1,0 +1,35 @@
+{
+  "edition_number": 145,
+  "exhibited": "2025-11-07 05:13:19 UTC",
+  "original": {
+    "name": "SWE-Gym/SWE-Gym",
+    "url": "https://huggingface.co/datasets/SWE-Gym/SWE-Gym",
+    "downloads": 912531,
+    "likes": 20,
+    "tags": [
+      "license:mit",
+      "size_categories:1K<n<10K",
+      "format:parquet",
+      "modality:text",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us"
+    ]
+  },
+  "process": {
+    "strategy": "popular_backup",
+    "method": "streamed",
+    "rows": 500,
+    "columns": 11,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 1.280895
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_0145_SWE-Gym-SWE-Gym-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_0145_SWE-Gym-SWE-Gym-readymade"
+  }
+}
