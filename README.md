@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #142 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_0142_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0142_tatsu-lab-alpaca-readymade) | 2025-11-07 |
+| #143 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | 10 cols · 32 rows | [edition_0143_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0143_lavita-medical-qa-shared-task-v1-toy-readymade) | 2025-11-07 |
 ---
 
 ## 🎭 The Method
@@ -226,3 +226,4 @@ Or let GitHub Action run it automatically.
 | 140 | 2025-11-06 22:33:18 | [newtextdoc1111/danbooru-tag-csv](https://huggingface.co/datasets/newtextdoc1111/danbooru-tag-csv) | streamed (500 rows, 4 cols) | [edition_0140_newtextdoc1111-danbooru-tag-csv-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0140_newtextdoc1111-danbooru-tag-csv-readymade) |
 | 141 | 2025-11-07 00:56:46 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | streamed (500 rows, 11 cols) | [edition_0141_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0141_SWE-Gym-SWE-Gym-readymade) |
 | 142 | 2025-11-07 02:27:42 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0142_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0142_tatsu-lab-alpaca-readymade) |
+| 143 | 2025-11-07 03:31:51 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_0143_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0143_lavita-medical-qa-shared-task-v1-toy-readymade) |
