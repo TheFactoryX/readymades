@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #212 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_0212_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0212_argilla-databricks-dolly-15k-curated-en-readymade) | 2025-11-08 |
+| #213 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | 11 cols · 500 rows | [edition_0213_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0213_SWE-Gym-SWE-Gym-readymade) | 2025-11-08 |
 ---
 
 ## 🎭 The Method
@@ -296,3 +296,4 @@ Or let GitHub Action run it automatically.
 | 210 | 2025-11-08 20:15:17 | [inductiva/windtunnel-20k](https://huggingface.co/datasets/inductiva/windtunnel-20k) | streamed (500 rows, 15 cols) | [edition_0210_inductiva-windtunnel-20k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0210_inductiva-windtunnel-20k-readymade) |
 | 211 | 2025-11-08 20:32:05 | [newtextdoc1111/danbooru-tag-csv](https://huggingface.co/datasets/newtextdoc1111/danbooru-tag-csv) | streamed (500 rows, 4 cols) | [edition_0211_newtextdoc1111-danbooru-tag-csv-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0211_newtextdoc1111-danbooru-tag-csv-readymade) |
 | 212 | 2025-11-08 20:39:01 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0212_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0212_argilla-databricks-dolly-15k-curated-en-readymade) |
+| 213 | 2025-11-08 21:10:14 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | streamed (500 rows, 11 cols) | [edition_0213_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0213_SWE-Gym-SWE-Gym-readymade) |
