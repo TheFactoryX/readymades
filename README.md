@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #195 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_0195_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0195_argilla-databricks-dolly-15k-curated-en-readymade) | 2025-11-08 |
+| #196 | [inductiva/windtunnel-20k](https://huggingface.co/datasets/inductiva/windtunnel-20k) | 15 cols · 500 rows | [edition_0196_inductiva-windtunnel-20k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0196_inductiva-windtunnel-20k-readymade) | 2025-11-08 |
 ---
 
 ## 🎭 The Method
@@ -279,3 +279,4 @@ Or let GitHub Action run it automatically.
 | 193 | 2025-11-08 11:48:13 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_0193_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0193_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 194 | 2025-11-08 12:20:34 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0194_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0194_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 195 | 2025-11-08 12:59:02 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0195_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0195_argilla-databricks-dolly-15k-curated-en-readymade) |
+| 196 | 2025-11-08 13:26:22 | [inductiva/windtunnel-20k](https://huggingface.co/datasets/inductiva/windtunnel-20k) | streamed (500 rows, 15 cols) | [edition_0196_inductiva-windtunnel-20k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0196_inductiva-windtunnel-20k-readymade) |
