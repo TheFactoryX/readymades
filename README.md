@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #219 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_0219_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0219_argilla-databricks-dolly-15k-curated-en-readymade) | 2025-11-09 |
+| #220 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_0220_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0220_shi-labs-oneformer_demo-readymade) | 2025-11-09 |
 ---
 
 ## 🎭 The Method
@@ -303,3 +303,4 @@ Or let GitHub Action run it automatically.
 | 217 | 2025-11-09 00:59:49 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0217_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0217_open-thoughts-OpenThoughts-114k-readymade) |
 | 218 | 2025-11-09 03:35:44 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_0218_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0218_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 219 | 2025-11-09 04:22:48 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0219_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0219_argilla-databricks-dolly-15k-curated-en-readymade) |
+| 220 | 2025-11-09 04:49:59 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0220_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0220_shi-labs-oneformer_demo-readymade) |
