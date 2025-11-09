@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #230 | [inductiva/windtunnel-20k](https://huggingface.co/datasets/inductiva/windtunnel-20k) | 15 cols · 500 rows | [edition_0230_inductiva-windtunnel-20k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0230_inductiva-windtunnel-20k-readymade) | 2025-11-09 |
+| #231 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_0231_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0231_shi-labs-oneformer_demo-readymade) | 2025-11-09 |
 ---
 
 ## 🎭 The Method
@@ -314,3 +314,4 @@ Or let GitHub Action run it automatically.
 | 228 | 2025-11-09 08:14:00 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_0228_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0228_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 229 | 2025-11-09 08:34:50 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0229_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0229_shi-labs-oneformer_demo-readymade) |
 | 230 | 2025-11-09 08:52:18 | [inductiva/windtunnel-20k](https://huggingface.co/datasets/inductiva/windtunnel-20k) | streamed (500 rows, 15 cols) | [edition_0230_inductiva-windtunnel-20k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0230_inductiva-windtunnel-20k-readymade) |
+| 231 | 2025-11-09 09:28:05 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0231_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0231_shi-labs-oneformer_demo-readymade) |
