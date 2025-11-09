@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #239 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | 11 cols · 500 rows | [edition_0239_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0239_SWE-Gym-SWE-Gym-readymade) | 2025-11-09 |
+| #240 | [newtextdoc1111/danbooru-tag-csv](https://huggingface.co/datasets/newtextdoc1111/danbooru-tag-csv) | 4 cols · 500 rows | [edition_0240_newtextdoc1111-danbooru-tag-csv-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0240_newtextdoc1111-danbooru-tag-csv-readymade) | 2025-11-09 |
 ---
 
 ## 🎭 The Method
@@ -323,3 +323,4 @@ Or let GitHub Action run it automatically.
 | 237 | 2025-11-09 11:48:27 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0237_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0237_shi-labs-oneformer_demo-readymade) |
 | 238 | 2025-11-09 12:20:29 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0238_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0238_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 239 | 2025-11-09 12:58:57 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | streamed (500 rows, 11 cols) | [edition_0239_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0239_SWE-Gym-SWE-Gym-readymade) |
+| 240 | 2025-11-09 13:38:48 | [newtextdoc1111/danbooru-tag-csv](https://huggingface.co/datasets/newtextdoc1111/danbooru-tag-csv) | streamed (500 rows, 4 cols) | [edition_0240_newtextdoc1111-danbooru-tag-csv-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0240_newtextdoc1111-danbooru-tag-csv-readymade) |
