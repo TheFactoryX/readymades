@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #223 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_0223_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0223_tatsu-lab-alpaca-readymade) | 2025-11-09 |
+| #224 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | 10 cols · 32 rows | [edition_0224_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0224_lavita-medical-qa-shared-task-v1-toy-readymade) | 2025-11-09 |
 ---
 
 ## 🎭 The Method
@@ -307,3 +307,4 @@ Or let GitHub Action run it automatically.
 | 221 | 2025-11-09 05:12:07 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | streamed (500 rows, 11 cols) | [edition_0221_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0221_SWE-Gym-SWE-Gym-readymade) |
 | 222 | 2025-11-09 05:38:11 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0222_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0222_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 223 | 2025-11-09 05:48:06 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0223_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0223_tatsu-lab-alpaca-readymade) |
+| 224 | 2025-11-09 06:16:49 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_0224_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0224_lavita-medical-qa-shared-task-v1-toy-readymade) |
