@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #245 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_0245_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0245_argilla-databricks-dolly-15k-curated-en-readymade) | 2025-11-09 |
+| #246 | [inductiva/windtunnel-20k](https://huggingface.co/datasets/inductiva/windtunnel-20k) | 15 cols · 500 rows | [edition_0246_inductiva-windtunnel-20k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0246_inductiva-windtunnel-20k-readymade) | 2025-11-09 |
 ---
 
 ## 🎭 The Method
@@ -329,3 +329,4 @@ Or let GitHub Action run it automatically.
 | 243 | 2025-11-09 14:47:43 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0243_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0243_tatsu-lab-alpaca-readymade) |
 | 244 | 2025-11-09 15:27:27 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0244_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0244_tatsu-lab-alpaca-readymade) |
 | 245 | 2025-11-09 15:48:08 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0245_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0245_argilla-databricks-dolly-15k-curated-en-readymade) |
+| 246 | 2025-11-09 16:38:27 | [inductiva/windtunnel-20k](https://huggingface.co/datasets/inductiva/windtunnel-20k) | streamed (500 rows, 15 cols) | [edition_0246_inductiva-windtunnel-20k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0246_inductiva-windtunnel-20k-readymade) |
