@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #255 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | 11 cols · 500 rows | [edition_0255_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0255_SWE-Gym-SWE-Gym-readymade) | 2025-11-09 |
+| #256 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | 11 cols · 500 rows | [edition_0256_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0256_SWE-Gym-SWE-Gym-readymade) | 2025-11-09 |
 ---
 
 ## 🎭 The Method
@@ -339,3 +339,4 @@ Or let GitHub Action run it automatically.
 | 253 | 2025-11-09 21:25:36 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0253_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0253_open-thoughts-OpenThoughts-114k-readymade) |
 | 254 | 2025-11-09 21:33:58 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0254_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0254_shi-labs-oneformer_demo-readymade) |
 | 255 | 2025-11-09 22:29:55 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | streamed (500 rows, 11 cols) | [edition_0255_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0255_SWE-Gym-SWE-Gym-readymade) |
+| 256 | 2025-11-09 22:41:07 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | streamed (500 rows, 11 cols) | [edition_0256_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0256_SWE-Gym-SWE-Gym-readymade) |
