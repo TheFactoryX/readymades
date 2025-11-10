@@ -1,0 +1,35 @@
+{
+  "edition_number": 276,
+  "exhibited": "2025-11-10 16:57:48 UTC",
+  "original": {
+    "name": "argilla/databricks-dolly-15k-curated-en",
+    "url": "https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en",
+    "downloads": 65090,
+    "likes": 45,
+    "tags": [
+      "language:en",
+      "size_categories:10K<n<100K",
+      "format:parquet",
+      "modality:text",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us"
+    ]
+  },
+  "process": {
+    "strategy": "popular",
+    "method": "streamed",
+    "rows": 500,
+    "columns": 9,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 1.70037
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_0276_argilla-databricks-dolly-15k-curated-en-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_0276_argilla-databricks-dolly-15k-curated-en-readymade"
+  }
+}
