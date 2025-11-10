@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #259 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_0259_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0259_open-thoughts-OpenThoughts-114k-readymade) | 2025-11-10 |
+| #260 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | 2 cols · 500 rows | [edition_0260_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0260_cornell-movie-review-data-rotten_tomatoes-readymade) | 2025-11-10 |
 ---
 
 ## 🎭 The Method
@@ -343,3 +343,4 @@ Or let GitHub Action run it automatically.
 | 257 | 2025-11-09 22:48:03 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_0257_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0257_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 258 | 2025-11-09 23:30:56 | [inductiva/windtunnel-20k](https://huggingface.co/datasets/inductiva/windtunnel-20k) | streamed (500 rows, 15 cols) | [edition_0258_inductiva-windtunnel-20k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0258_inductiva-windtunnel-20k-readymade) |
 | 259 | 2025-11-10 00:59:51 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0259_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0259_open-thoughts-OpenThoughts-114k-readymade) |
+| 260 | 2025-11-10 02:48:15 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_0260_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0260_cornell-movie-review-data-rotten_tomatoes-readymade) |
