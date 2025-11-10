@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #258 | [inductiva/windtunnel-20k](https://huggingface.co/datasets/inductiva/windtunnel-20k) | 15 cols · 500 rows | [edition_0258_inductiva-windtunnel-20k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0258_inductiva-windtunnel-20k-readymade) | 2025-11-09 |
+| #259 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_0259_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0259_open-thoughts-OpenThoughts-114k-readymade) | 2025-11-10 |
 ---
 
 ## 🎭 The Method
@@ -342,3 +342,4 @@ Or let GitHub Action run it automatically.
 | 256 | 2025-11-09 22:41:07 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | streamed (500 rows, 11 cols) | [edition_0256_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0256_SWE-Gym-SWE-Gym-readymade) |
 | 257 | 2025-11-09 22:48:03 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_0257_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0257_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 258 | 2025-11-09 23:30:56 | [inductiva/windtunnel-20k](https://huggingface.co/datasets/inductiva/windtunnel-20k) | streamed (500 rows, 15 cols) | [edition_0258_inductiva-windtunnel-20k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0258_inductiva-windtunnel-20k-readymade) |
+| 259 | 2025-11-10 00:59:51 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0259_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0259_open-thoughts-OpenThoughts-114k-readymade) |
