@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #272 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | 2 cols · 500 rows | [edition_0272_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0272_cornell-movie-review-data-rotten_tomatoes-readymade) | 2025-11-10 |
+| #273 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | 11 cols · 500 rows | [edition_0273_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0273_SWE-Gym-SWE-Gym-readymade) | 2025-11-10 |
 ---
 
 ## 🎭 The Method
@@ -356,3 +356,4 @@ Or let GitHub Action run it automatically.
 | 270 | 2025-11-10 11:47:31 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0270_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0270_tatsu-lab-alpaca-readymade) |
 | 271 | 2025-11-10 12:24:39 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0271_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0271_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 272 | 2025-11-10 13:52:51 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_0272_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0272_cornell-movie-review-data-rotten_tomatoes-readymade) |
+| 273 | 2025-11-10 14:34:55 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | streamed (500 rows, 11 cols) | [edition_0273_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0273_SWE-Gym-SWE-Gym-readymade) |
