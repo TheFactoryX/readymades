@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #263 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_0263_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0263_shi-labs-oneformer_demo-readymade) | 2025-11-10 |
+| #264 | [newtextdoc1111/danbooru-tag-csv](https://huggingface.co/datasets/newtextdoc1111/danbooru-tag-csv) | 4 cols · 500 rows | [edition_0264_newtextdoc1111-danbooru-tag-csv-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0264_newtextdoc1111-danbooru-tag-csv-readymade) | 2025-11-10 |
 ---
 
 ## 🎭 The Method
@@ -347,3 +347,4 @@ Or let GitHub Action run it automatically.
 | 261 | 2025-11-10 04:45:33 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | streamed (500 rows, 11 cols) | [edition_0261_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0261_SWE-Gym-SWE-Gym-readymade) |
 | 262 | 2025-11-10 04:55:01 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_0262_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0262_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 263 | 2025-11-10 05:34:14 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0263_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0263_shi-labs-oneformer_demo-readymade) |
+| 264 | 2025-11-10 05:49:02 | [newtextdoc1111/danbooru-tag-csv](https://huggingface.co/datasets/newtextdoc1111/danbooru-tag-csv) | streamed (500 rows, 4 cols) | [edition_0264_newtextdoc1111-danbooru-tag-csv-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0264_newtextdoc1111-danbooru-tag-csv-readymade) |
