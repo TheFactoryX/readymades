@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #320 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_0320_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0320_tatsu-lab-alpaca-readymade) | 2025-11-11 |
+| #321 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | 11 cols · 500 rows | [edition_0321_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0321_SWE-Gym-SWE-Gym-readymade) | 2025-11-11 |
 ---
 
 ## 🎭 The Method
@@ -404,3 +404,4 @@ Or let GitHub Action run it automatically.
 | 318 | 2025-11-11 18:47:59 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_0318_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0318_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 319 | 2025-11-11 19:25:38 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0319_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0319_open-thoughts-OpenThoughts-114k-readymade) |
 | 320 | 2025-11-11 21:11:09 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0320_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0320_tatsu-lab-alpaca-readymade) |
+| 321 | 2025-11-11 23:38:34 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | streamed (500 rows, 11 cols) | [edition_0321_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0321_SWE-Gym-SWE-Gym-readymade) |
