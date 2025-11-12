@@ -1,0 +1,38 @@
+{
+  "edition_number": 324,
+  "exhibited": "2025-11-12 04:54:21 UTC",
+  "original": {
+    "name": "open-thoughts/OpenThoughts-114k",
+    "url": "https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k",
+    "downloads": 66829,
+    "likes": 771,
+    "tags": [
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:text",
+      "library:datasets",
+      "library:dask",
+      "library:mlcroissant",
+      "library:polars",
+      "arxiv:2506.04178",
+      "region:us",
+      "curator",
+      "synthetic"
+    ]
+  },
+  "process": {
+    "strategy": "popular",
+    "method": "streamed",
+    "rows": 500,
+    "columns": 2,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 1.899395
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_0324_open-thoughts-OpenThoughts-114k-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_0324_open-thoughts-OpenThoughts-114k-readymade"
+  }
+}
