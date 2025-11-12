@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #348 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | 11 cols · 500 rows | [edition_0348_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0348_SWE-Gym-SWE-Gym-readymade) | 2025-11-12 |
+| #349 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_0349_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0349_tatsu-lab-alpaca-readymade) | 2025-11-12 |
 ---
 
 ## 🎭 The Method
@@ -432,3 +432,4 @@ Or let GitHub Action run it automatically.
 | 346 | 2025-11-12 19:36:55 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0346_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0346_open-thoughts-OpenThoughts-114k-readymade) |
 | 347 | 2025-11-12 19:48:01 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0347_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0347_tatsu-lab-alpaca-readymade) |
 | 348 | 2025-11-12 20:16:03 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | streamed (500 rows, 11 cols) | [edition_0348_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0348_SWE-Gym-SWE-Gym-readymade) |
+| 349 | 2025-11-12 20:34:38 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0349_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0349_tatsu-lab-alpaca-readymade) |
