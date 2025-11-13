@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #361 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | 2 cols · 500 rows | [edition_0361_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0361_cornell-movie-review-data-rotten_tomatoes-readymade) | 2025-11-13 |
+| #362 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_0362_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0362_open-thoughts-OpenThoughts-114k-readymade) | 2025-11-13 |
 ---
 
 ## 🎭 The Method
@@ -445,3 +445,4 @@ Or let GitHub Action run it automatically.
 | 359 | 2025-11-13 04:52:15 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0359_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0359_tatsu-lab-alpaca-readymade) |
 | 360 | 2025-11-13 06:19:37 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0360_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0360_open-thoughts-OpenThoughts-114k-readymade) |
 | 361 | 2025-11-13 06:50:17 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_0361_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0361_cornell-movie-review-data-rotten_tomatoes-readymade) |
+| 362 | 2025-11-13 09:50:25 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0362_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0362_open-thoughts-OpenThoughts-114k-readymade) |
