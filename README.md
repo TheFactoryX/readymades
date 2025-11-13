@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #376 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | 11 cols · 500 rows | [edition_0376_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0376_SWE-Gym-SWE-Gym-readymade) | 2025-11-13 |
+| #377 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_0377_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0377_argilla-databricks-dolly-15k-curated-en-readymade) | 2025-11-13 |
 ---
 
 ## 🎭 The Method
@@ -460,3 +460,4 @@ Or let GitHub Action run it automatically.
 | 374 | 2025-11-13 19:13:23 | [inductiva/windtunnel-20k](https://huggingface.co/datasets/inductiva/windtunnel-20k) | streamed (500 rows, 15 cols) | [edition_0374_inductiva-windtunnel-20k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0374_inductiva-windtunnel-20k-readymade) |
 | 375 | 2025-11-13 19:34:01 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_0375_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0375_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 376 | 2025-11-13 19:49:00 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | streamed (500 rows, 11 cols) | [edition_0376_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0376_SWE-Gym-SWE-Gym-readymade) |
+| 377 | 2025-11-13 20:15:27 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0377_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0377_argilla-databricks-dolly-15k-curated-en-readymade) |
