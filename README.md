@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #409 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | 11 cols · 500 rows | [edition_0409_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0409_SWE-Gym-SWE-Gym-readymade) | 2025-11-14 |
+| #410 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_0410_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0410_google-research-datasets-mbpp-readymade) | 2025-11-14 |
 ---
 
 ## 🎭 The Method
@@ -493,3 +493,4 @@ Or let GitHub Action run it automatically.
 | 407 | 2025-11-14 21:11:32 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_0407_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0407_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 408 | 2025-11-14 21:38:52 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_0408_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0408_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 409 | 2025-11-14 22:11:47 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | streamed (500 rows, 11 cols) | [edition_0409_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0409_SWE-Gym-SWE-Gym-readymade) |
+| 410 | 2025-11-14 22:33:56 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_0410_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0410_google-research-datasets-mbpp-readymade) |
