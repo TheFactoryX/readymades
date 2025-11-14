@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #397 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | 2 cols · 500 rows | [edition_0397_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0397_cornell-movie-review-data-rotten_tomatoes-readymade) | 2025-11-14 |
+| #398 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_0398_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0398_google-research-datasets-mbpp-readymade) | 2025-11-14 |
 ---
 
 ## 🎭 The Method
@@ -481,3 +481,4 @@ Or let GitHub Action run it automatically.
 | 395 | 2025-11-14 11:36:30 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_0395_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0395_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 396 | 2025-11-14 13:04:57 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0396_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0396_tatsu-lab-alpaca-readymade) |
 | 397 | 2025-11-14 14:49:27 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_0397_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0397_cornell-movie-review-data-rotten_tomatoes-readymade) |
+| 398 | 2025-11-14 15:12:58 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_0398_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0398_google-research-datasets-mbpp-readymade) |
