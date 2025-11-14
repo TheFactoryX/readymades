@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #403 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | 11 cols · 500 rows | [edition_0403_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0403_SWE-Gym-SWE-Gym-readymade) | 2025-11-14 |
+| #404 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | 10 cols · 32 rows | [edition_0404_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0404_lavita-medical-qa-shared-task-v1-toy-readymade) | 2025-11-14 |
 ---
 
 ## 🎭 The Method
@@ -487,3 +487,4 @@ Or let GitHub Action run it automatically.
 | 401 | 2025-11-14 16:56:23 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0401_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0401_tatsu-lab-alpaca-readymade) |
 | 402 | 2025-11-14 17:12:05 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0402_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0402_shi-labs-oneformer_demo-readymade) |
 | 403 | 2025-11-14 17:49:32 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | streamed (500 rows, 11 cols) | [edition_0403_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0403_SWE-Gym-SWE-Gym-readymade) |
+| 404 | 2025-11-14 18:17:39 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_0404_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0404_lavita-medical-qa-shared-task-v1-toy-readymade) |
