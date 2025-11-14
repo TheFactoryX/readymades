@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #386 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | 11 cols · 500 rows | [edition_0386_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0386_SWE-Gym-SWE-Gym-readymade) | 2025-11-14 |
+| #387 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | 10 cols · 32 rows | [edition_0387_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0387_lavita-medical-qa-shared-task-v1-toy-readymade) | 2025-11-14 |
 ---
 
 ## 🎭 The Method
@@ -470,3 +470,4 @@ Or let GitHub Action run it automatically.
 | 384 | 2025-11-14 04:54:09 | [inductiva/windtunnel-20k](https://huggingface.co/datasets/inductiva/windtunnel-20k) | streamed (500 rows, 15 cols) | [edition_0384_inductiva-windtunnel-20k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0384_inductiva-windtunnel-20k-readymade) |
 | 385 | 2025-11-14 05:13:11 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0385_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0385_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 386 | 2025-11-14 05:34:16 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | streamed (500 rows, 11 cols) | [edition_0386_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0386_SWE-Gym-SWE-Gym-readymade) |
+| 387 | 2025-11-14 06:19:14 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_0387_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0387_lavita-medical-qa-shared-task-v1-toy-readymade) |
