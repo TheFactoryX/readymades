@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #423 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_0423_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0423_google-research-datasets-mbpp-readymade) | 2025-11-15 |
+| #424 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | 11 cols · 500 rows | [edition_0424_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0424_SWE-Gym-SWE-Gym-readymade) | 2025-11-15 |
 ---
 
 ## 🎭 The Method
@@ -507,3 +507,4 @@ Or let GitHub Action run it automatically.
 | 421 | 2025-11-15 11:23:59 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_0421_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0421_google-research-datasets-mbpp-readymade) |
 | 422 | 2025-11-15 11:34:43 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_0422_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0422_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 423 | 2025-11-15 11:47:55 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_0423_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0423_google-research-datasets-mbpp-readymade) |
+| 424 | 2025-11-15 13:24:40 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | streamed (500 rows, 11 cols) | [edition_0424_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0424_SWE-Gym-SWE-Gym-readymade) |
