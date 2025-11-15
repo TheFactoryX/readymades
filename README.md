@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #431 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_0431_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0431_argilla-databricks-dolly-15k-curated-en-readymade) | 2025-11-15 |
+| #432 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_0432_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0432_google-research-datasets-mbpp-readymade) | 2025-11-15 |
 ---
 
 ## 🎭 The Method
@@ -515,3 +515,4 @@ Or let GitHub Action run it automatically.
 | 429 | 2025-11-15 15:28:36 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0429_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0429_shi-labs-oneformer_demo-readymade) |
 | 430 | 2025-11-15 16:13:07 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | streamed (500 rows, 11 cols) | [edition_0430_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0430_SWE-Gym-SWE-Gym-readymade) |
 | 431 | 2025-11-15 17:09:56 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0431_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0431_argilla-databricks-dolly-15k-curated-en-readymade) |
+| 432 | 2025-11-15 18:15:44 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_0432_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0432_google-research-datasets-mbpp-readymade) |
