@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #464 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | 10 cols · 32 rows | [edition_0464_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0464_lavita-medical-qa-shared-task-v1-toy-readymade) | 2025-11-16 |
+| #465 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_0465_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0465_google-research-datasets-mbpp-readymade) | 2025-11-16 |
 ---
 
 ## 🎭 The Method
@@ -548,3 +548,4 @@ Or let GitHub Action run it automatically.
 | 462 | 2025-11-16 19:34:17 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0462_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0462_shi-labs-oneformer_demo-readymade) |
 | 463 | 2025-11-16 20:32:34 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_0463_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0463_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 464 | 2025-11-16 21:35:44 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_0464_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0464_lavita-medical-qa-shared-task-v1-toy-readymade) |
+| 465 | 2025-11-16 21:48:15 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_0465_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0465_google-research-datasets-mbpp-readymade) |
