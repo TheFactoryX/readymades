@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #443 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | 2 cols · 500 rows | [edition_0443_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0443_cornell-movie-review-data-rotten_tomatoes-readymade) | 2025-11-16 |
+| #444 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_0444_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0444_open-thoughts-OpenThoughts-114k-readymade) | 2025-11-16 |
 ---
 
 ## 🎭 The Method
@@ -527,3 +527,4 @@ Or let GitHub Action run it automatically.
 | 441 | 2025-11-16 01:00:35 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | streamed (500 rows, 11 cols) | [edition_0441_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0441_SWE-Gym-SWE-Gym-readymade) |
 | 442 | 2025-11-16 03:44:32 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | streamed (500 rows, 11 cols) | [edition_0442_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0442_SWE-Gym-SWE-Gym-readymade) |
 | 443 | 2025-11-16 04:04:56 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_0443_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0443_cornell-movie-review-data-rotten_tomatoes-readymade) |
+| 444 | 2025-11-16 04:37:45 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0444_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0444_open-thoughts-OpenThoughts-114k-readymade) |
