@@ -1,0 +1,42 @@
+{
+  "edition_number": 468,
+  "exhibited": "2025-11-16 22:50:12 UTC",
+  "original": {
+    "name": "inductiva/windtunnel-20k",
+    "url": "https://huggingface.co/datasets/inductiva/windtunnel-20k",
+    "downloads": 51719,
+    "likes": 6,
+    "tags": [
+      "task_categories:feature-extraction",
+      "task_categories:graph-ml",
+      "task_categories:image-to-3d",
+      "language:en",
+      "size_categories:10K<n<100K",
+      "modality:3d",
+      "modality:tabular",
+      "modality:text",
+      "region:us",
+      "simulation",
+      "openfoam",
+      "physics",
+      "windtunnel",
+      "inductiva",
+      "machine learning",
+      "synthetic"
+    ]
+  },
+  "process": {
+    "strategy": "popular_backup",
+    "method": "streamed",
+    "rows": 500,
+    "columns": 15,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 131.581732
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_0468_inductiva-windtunnel-20k-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_0468_inductiva-windtunnel-20k-readymade"
+  }
+}
