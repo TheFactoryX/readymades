@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #454 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_0454_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0454_argilla-databricks-dolly-15k-curated-en-readymade) | 2025-11-16 |
+| #455 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_0455_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0455_shi-labs-oneformer_demo-readymade) | 2025-11-16 |
 ---
 
 ## 🎭 The Method
@@ -538,3 +538,4 @@ Or let GitHub Action run it automatically.
 | 452 | 2025-11-16 11:24:20 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0452_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0452_shi-labs-oneformer_demo-readymade) |
 | 453 | 2025-11-16 11:34:32 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0453_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0453_shi-labs-oneformer_demo-readymade) |
 | 454 | 2025-11-16 14:10:53 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0454_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0454_argilla-databricks-dolly-15k-curated-en-readymade) |
+| 455 | 2025-11-16 15:11:19 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0455_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0455_shi-labs-oneformer_demo-readymade) |
