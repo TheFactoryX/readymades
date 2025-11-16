@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #468 | [inductiva/windtunnel-20k](https://huggingface.co/datasets/inductiva/windtunnel-20k) | 15 cols · 500 rows | [edition_0468_inductiva-windtunnel-20k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0468_inductiva-windtunnel-20k-readymade) | 2025-11-16 |
+| #469 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_0469_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0469_shi-labs-oneformer_demo-readymade) | 2025-11-16 |
 ---
 
 ## 🎭 The Method
@@ -552,3 +552,4 @@ Or let GitHub Action run it automatically.
 | 466 | 2025-11-16 22:11:47 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0466_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0466_shi-labs-oneformer_demo-readymade) |
 | 467 | 2025-11-16 22:31:02 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0467_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0467_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 468 | 2025-11-16 22:50:12 | [inductiva/windtunnel-20k](https://huggingface.co/datasets/inductiva/windtunnel-20k) | streamed (500 rows, 15 cols) | [edition_0468_inductiva-windtunnel-20k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0468_inductiva-windtunnel-20k-readymade) |
+| 469 | 2025-11-16 23:11:30 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0469_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0469_shi-labs-oneformer_demo-readymade) |
