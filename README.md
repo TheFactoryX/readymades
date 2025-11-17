@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #484 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_0484_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0484_google-research-datasets-mbpp-readymade) | 2025-11-17 |
+| #485 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | 11 cols · 500 rows | [edition_0485_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0485_SWE-Gym-SWE-Gym-readymade) | 2025-11-17 |
 ---
 
 ## 🎭 The Method
@@ -568,3 +568,4 @@ Or let GitHub Action run it automatically.
 | 482 | 2025-11-17 15:52:11 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0482_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0482_shi-labs-oneformer_demo-readymade) |
 | 483 | 2025-11-17 16:48:39 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | streamed (500 rows, 11 cols) | [edition_0483_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0483_SWE-Gym-SWE-Gym-readymade) |
 | 484 | 2025-11-17 17:13:02 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_0484_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0484_google-research-datasets-mbpp-readymade) |
+| 485 | 2025-11-17 17:33:33 | [SWE-Gym/SWE-Gym](https://huggingface.co/datasets/SWE-Gym/SWE-Gym) | streamed (500 rows, 11 cols) | [edition_0485_SWE-Gym-SWE-Gym-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0485_SWE-Gym-SWE-Gym-readymade) |
