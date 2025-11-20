@@ -1,0 +1,37 @@
+{
+  "edition_number": 549,
+  "exhibited": "2025-11-20 08:47:20 UTC",
+  "original": {
+    "name": "hiyouga/math12k",
+    "url": "https://huggingface.co/datasets/hiyouga/math12k",
+    "downloads": 54339,
+    "likes": 14,
+    "tags": [
+      "task_categories:question-answering",
+      "language:en",
+      "license:mit",
+      "size_categories:10K<n<100K",
+      "format:parquet",
+      "modality:text",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us"
+    ]
+  },
+  "process": {
+    "strategy": "popular",
+    "method": "streamed",
+    "rows": 500,
+    "columns": 2,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 0.73648
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_0549_hiyouga-math12k-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_0549_hiyouga-math12k-readymade"
+  }
+}
