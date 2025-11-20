@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #545 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_0545_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0545_google-research-datasets-mbpp-readymade) | 2025-11-20 |
+| #546 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_0546_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0546_google-research-datasets-mbpp-readymade) | 2025-11-20 |
 ---
 
 ## 🎭 The Method
@@ -629,3 +629,4 @@ Or let GitHub Action run it automatically.
 | 543 | 2025-11-20 02:27:04 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0543_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0543_tatsu-lab-alpaca-readymade) |
 | 544 | 2025-11-20 04:00:26 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_0544_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0544_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 545 | 2025-11-20 04:42:48 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_0545_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0545_google-research-datasets-mbpp-readymade) |
+| 546 | 2025-11-20 04:51:37 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_0546_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0546_google-research-datasets-mbpp-readymade) |
