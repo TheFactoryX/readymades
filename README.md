@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #552 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_0552_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0552_tatsu-lab-alpaca-readymade) | 2025-11-20 |
+| #553 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_0553_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0553_argilla-databricks-dolly-15k-curated-en-readymade) | 2025-11-20 |
 ---
 
 ## 🎭 The Method
@@ -636,3 +636,4 @@ Or let GitHub Action run it automatically.
 | 550 | 2025-11-20 09:33:39 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0550_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0550_open-thoughts-OpenThoughts-114k-readymade) |
 | 551 | 2025-11-20 09:49:43 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_0551_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0551_google-research-datasets-mbpp-readymade) |
 | 552 | 2025-11-20 10:14:13 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0552_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0552_tatsu-lab-alpaca-readymade) |
+| 553 | 2025-11-20 10:37:41 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0553_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0553_argilla-databricks-dolly-15k-curated-en-readymade) |
