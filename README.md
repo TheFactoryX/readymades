@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #541 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_0541_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0541_tatsu-lab-alpaca-readymade) | 2025-11-19 |
+| #542 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_0542_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0542_argilla-databricks-dolly-15k-curated-en-readymade) | 2025-11-20 |
 ---
 
 ## 🎭 The Method
@@ -625,3 +625,4 @@ Or let GitHub Action run it automatically.
 | 539 | 2025-11-19 21:35:04 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0539_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0539_shi-labs-oneformer_demo-readymade) |
 | 540 | 2025-11-19 22:12:34 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_0540_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0540_google-research-datasets-mbpp-readymade) |
 | 541 | 2025-11-19 22:33:05 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0541_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0541_tatsu-lab-alpaca-readymade) |
+| 542 | 2025-11-20 00:56:09 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0542_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0542_argilla-databricks-dolly-15k-curated-en-readymade) |
