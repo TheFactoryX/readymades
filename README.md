@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #595 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_0595_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0595_google-research-datasets-mbpp-readymade) | 2025-11-21 |
+| #596 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_0596_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0596_open-thoughts-OpenThoughts-114k-readymade) | 2025-11-21 |
 ---
 
 ## 🎭 The Method
@@ -679,3 +679,4 @@ Or let GitHub Action run it automatically.
 | 593 | 2025-11-21 16:38:56 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0593_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0593_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 594 | 2025-11-21 17:12:17 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0594_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0594_shi-labs-oneformer_demo-readymade) |
 | 595 | 2025-11-21 17:34:09 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_0595_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0595_google-research-datasets-mbpp-readymade) |
+| 596 | 2025-11-21 17:42:48 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0596_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0596_open-thoughts-OpenThoughts-114k-readymade) |
