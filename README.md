@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #605 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_0605_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0605_tatsu-lab-alpaca-readymade) | 2025-11-21 |
+| #606 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_0606_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0606_google-research-datasets-mbpp-readymade) | 2025-11-21 |
 ---
 
 ## 🎭 The Method
@@ -689,3 +689,4 @@ Or let GitHub Action run it automatically.
 | 603 | 2025-11-21 21:47:15 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_0603_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0603_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 604 | 2025-11-21 22:48:00 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_0604_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0604_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 605 | 2025-11-21 23:28:43 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0605_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0605_tatsu-lab-alpaca-readymade) |
+| 606 | 2025-11-21 23:38:35 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_0606_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0606_google-research-datasets-mbpp-readymade) |
