@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #604 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | 2 cols · 500 rows | [edition_0604_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0604_ryanmarten-OpenThoughts-1k-sample-readymade) | 2025-11-21 |
+| #605 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_0605_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0605_tatsu-lab-alpaca-readymade) | 2025-11-21 |
 ---
 
 ## 🎭 The Method
@@ -688,3 +688,4 @@ Or let GitHub Action run it automatically.
 | 602 | 2025-11-21 21:37:45 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0602_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0602_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 603 | 2025-11-21 21:47:15 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_0603_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0603_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 604 | 2025-11-21 22:48:00 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_0604_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0604_ryanmarten-OpenThoughts-1k-sample-readymade) |
+| 605 | 2025-11-21 23:28:43 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0605_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0605_tatsu-lab-alpaca-readymade) |
