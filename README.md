@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #617 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | 2 cols · 500 rows | [edition_0617_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0617_cornell-movie-review-data-rotten_tomatoes-readymade) | 2025-11-22 |
+| #618 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | 2 cols · 500 rows | [edition_0618_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0618_cornell-movie-review-data-rotten_tomatoes-readymade) | 2025-11-22 |
 ---
 
 ## 🎭 The Method
@@ -701,3 +701,4 @@ Or let GitHub Action run it automatically.
 | 615 | 2025-11-22 07:27:32 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0615_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0615_shi-labs-oneformer_demo-readymade) |
 | 616 | 2025-11-22 07:36:19 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0616_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0616_tatsu-lab-alpaca-readymade) |
 | 617 | 2025-11-22 07:48:27 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_0617_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0617_cornell-movie-review-data-rotten_tomatoes-readymade) |
+| 618 | 2025-11-22 08:15:34 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_0618_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0618_cornell-movie-review-data-rotten_tomatoes-readymade) |
