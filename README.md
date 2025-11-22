@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #625 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_0625_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0625_argilla-databricks-dolly-15k-curated-en-readymade) | 2025-11-22 |
+| #626 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | 2 cols · 500 rows | [edition_0626_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0626_ryanmarten-OpenThoughts-1k-sample-readymade) | 2025-11-22 |
 ---
 
 ## 🎭 The Method
@@ -709,3 +709,4 @@ Or let GitHub Action run it automatically.
 | 623 | 2025-11-22 10:33:03 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0623_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0623_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 624 | 2025-11-22 11:09:50 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0624_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0624_shi-labs-oneformer_demo-readymade) |
 | 625 | 2025-11-22 11:24:40 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0625_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0625_argilla-databricks-dolly-15k-curated-en-readymade) |
+| 626 | 2025-11-22 11:47:40 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_0626_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0626_ryanmarten-OpenThoughts-1k-sample-readymade) |
