@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #632 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | 10 cols · 32 rows | [edition_0632_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0632_lavita-medical-qa-shared-task-v1-toy-readymade) | 2025-11-22 |
+| #633 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | 2 cols · 500 rows | [edition_0633_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0633_ryanmarten-OpenThoughts-1k-sample-readymade) | 2025-11-22 |
 ---
 
 ## 🎭 The Method
@@ -716,3 +716,4 @@ Or let GitHub Action run it automatically.
 | 630 | 2025-11-22 14:47:46 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0630_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0630_tatsu-lab-alpaca-readymade) |
 | 631 | 2025-11-22 15:11:32 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0631_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0631_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 632 | 2025-11-22 16:13:59 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_0632_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0632_lavita-medical-qa-shared-task-v1-toy-readymade) |
+| 633 | 2025-11-22 17:10:48 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_0633_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0633_ryanmarten-OpenThoughts-1k-sample-readymade) |
