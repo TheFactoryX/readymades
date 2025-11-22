@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #622 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | 10 cols · 32 rows | [edition_0622_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0622_lavita-medical-qa-shared-task-v1-toy-readymade) | 2025-11-22 |
+| #623 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_0623_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0623_argilla-databricks-dolly-15k-curated-en-readymade) | 2025-11-22 |
 ---
 
 ## 🎭 The Method
@@ -706,3 +706,4 @@ Or let GitHub Action run it automatically.
 | 620 | 2025-11-22 09:11:48 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0620_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0620_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 621 | 2025-11-22 09:48:10 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0621_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0621_tatsu-lab-alpaca-readymade) |
 | 622 | 2025-11-22 10:12:25 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_0622_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0622_lavita-medical-qa-shared-task-v1-toy-readymade) |
+| 623 | 2025-11-22 10:33:03 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0623_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0623_argilla-databricks-dolly-15k-curated-en-readymade) |
