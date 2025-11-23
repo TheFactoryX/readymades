@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #668 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | 10 cols · 32 rows | [edition_0668_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0668_lavita-medical-qa-shared-task-v1-toy-readymade) | 2025-11-23 |
+| #669 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_0669_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0669_google-research-datasets-mbpp-readymade) | 2025-11-23 |
 ---
 
 ## 🎭 The Method
@@ -752,3 +752,4 @@ Or let GitHub Action run it automatically.
 | 666 | 2025-11-23 17:39:03 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0666_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0666_tatsu-lab-alpaca-readymade) |
 | 667 | 2025-11-23 17:48:12 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0667_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0667_shi-labs-oneformer_demo-readymade) |
 | 668 | 2025-11-23 18:17:03 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_0668_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0668_lavita-medical-qa-shared-task-v1-toy-readymade) |
+| 669 | 2025-11-23 18:45:15 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_0669_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0669_google-research-datasets-mbpp-readymade) |
