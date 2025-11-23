@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #665 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | 2 cols · 500 rows | [edition_0665_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0665_cornell-movie-review-data-rotten_tomatoes-readymade) | 2025-11-23 |
+| #666 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_0666_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0666_tatsu-lab-alpaca-readymade) | 2025-11-23 |
 ---
 
 ## 🎭 The Method
@@ -749,3 +749,4 @@ Or let GitHub Action run it automatically.
 | 663 | 2025-11-23 15:48:23 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0663_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0663_shi-labs-oneformer_demo-readymade) |
 | 664 | 2025-11-23 16:35:50 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0664_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0664_open-thoughts-OpenThoughts-114k-readymade) |
 | 665 | 2025-11-23 16:51:21 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_0665_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0665_cornell-movie-review-data-rotten_tomatoes-readymade) |
+| 666 | 2025-11-23 17:39:03 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0666_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0666_tatsu-lab-alpaca-readymade) |
