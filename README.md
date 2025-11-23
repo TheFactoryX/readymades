@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #660 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_0660_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0660_argilla-databricks-dolly-15k-curated-en-readymade) | 2025-11-23 |
+| #661 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_0661_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0661_google-research-datasets-mbpp-readymade) | 2025-11-23 |
 ---
 
 ## 🎭 The Method
@@ -744,3 +744,4 @@ Or let GitHub Action run it automatically.
 | 658 | 2025-11-23 12:57:55 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0658_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0658_tatsu-lab-alpaca-readymade) |
 | 659 | 2025-11-23 14:10:28 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_0659_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0659_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 660 | 2025-11-23 14:29:44 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0660_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0660_argilla-databricks-dolly-15k-curated-en-readymade) |
+| 661 | 2025-11-23 15:11:18 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_0661_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0661_google-research-datasets-mbpp-readymade) |
