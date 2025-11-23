@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #662 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_0662_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0662_shi-labs-oneformer_demo-readymade) | 2025-11-23 |
+| #663 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_0663_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0663_shi-labs-oneformer_demo-readymade) | 2025-11-23 |
 ---
 
 ## 🎭 The Method
@@ -746,3 +746,4 @@ Or let GitHub Action run it automatically.
 | 660 | 2025-11-23 14:29:44 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0660_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0660_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 661 | 2025-11-23 15:11:18 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_0661_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0661_google-research-datasets-mbpp-readymade) |
 | 662 | 2025-11-23 15:28:29 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0662_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0662_shi-labs-oneformer_demo-readymade) |
+| 663 | 2025-11-23 15:48:23 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0663_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0663_shi-labs-oneformer_demo-readymade) |
