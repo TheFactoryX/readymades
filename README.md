@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #701 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_0701_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0701_tatsu-lab-alpaca-readymade) | 2025-11-24 |
+| #702 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_0702_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0702_argilla-databricks-dolly-15k-curated-en-readymade) | 2025-11-24 |
 ---
 
 ## 🎭 The Method
@@ -785,3 +785,4 @@ Or let GitHub Action run it automatically.
 | 699 | 2025-11-24 15:36:44 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0699_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0699_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 700 | 2025-11-24 15:52:17 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0700_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0700_shi-labs-oneformer_demo-readymade) |
 | 701 | 2025-11-24 16:36:25 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0701_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0701_tatsu-lab-alpaca-readymade) |
+| 702 | 2025-11-24 16:53:29 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0702_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0702_argilla-databricks-dolly-15k-curated-en-readymade) |
