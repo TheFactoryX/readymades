@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #696 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | 2 cols · 500 rows | [edition_0696_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0696_ryanmarten-OpenThoughts-1k-sample-readymade) | 2025-11-24 |
+| #697 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_0697_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0697_google-research-datasets-mbpp-readymade) | 2025-11-24 |
 ---
 
 ## 🎭 The Method
@@ -780,3 +780,4 @@ Or let GitHub Action run it automatically.
 | 694 | 2025-11-24 11:39:13 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0694_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0694_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 695 | 2025-11-24 11:48:17 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_0695_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0695_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 696 | 2025-11-24 12:24:38 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_0696_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0696_ryanmarten-OpenThoughts-1k-sample-readymade) |
+| 697 | 2025-11-24 14:14:40 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_0697_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0697_google-research-datasets-mbpp-readymade) |
