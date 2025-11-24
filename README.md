@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #703 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_0703_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0703_argilla-databricks-dolly-15k-curated-en-readymade) | 2025-11-24 |
+| #704 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_0704_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0704_tatsu-lab-alpaca-readymade) | 2025-11-24 |
 ---
 
 ## 🎭 The Method
@@ -787,3 +787,4 @@ Or let GitHub Action run it automatically.
 | 701 | 2025-11-24 16:36:25 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0701_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0701_tatsu-lab-alpaca-readymade) |
 | 702 | 2025-11-24 16:53:29 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0702_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0702_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 703 | 2025-11-24 17:50:53 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0703_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0703_argilla-databricks-dolly-15k-curated-en-readymade) |
+| 704 | 2025-11-24 18:20:09 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0704_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0704_tatsu-lab-alpaca-readymade) |
