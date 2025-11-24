@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #686 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_0686_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0686_shi-labs-oneformer_demo-readymade) | 2025-11-24 |
+| #687 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_0687_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0687_open-thoughts-OpenThoughts-114k-readymade) | 2025-11-24 |
 ---
 
 ## 🎭 The Method
@@ -770,3 +770,4 @@ Or let GitHub Action run it automatically.
 | 684 | 2025-11-24 05:36:19 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0684_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0684_open-thoughts-OpenThoughts-114k-readymade) |
 | 685 | 2025-11-24 06:20:00 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0685_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0685_open-thoughts-OpenThoughts-114k-readymade) |
 | 686 | 2025-11-24 06:50:56 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0686_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0686_shi-labs-oneformer_demo-readymade) |
+| 687 | 2025-11-24 07:13:32 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0687_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0687_open-thoughts-OpenThoughts-114k-readymade) |
