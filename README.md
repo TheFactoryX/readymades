@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #726 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_0726_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0726_tatsu-lab-alpaca-readymade) | 2025-11-25 |
+| #727 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_0727_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0727_shi-labs-oneformer_demo-readymade) | 2025-11-25 |
 ---
 
 ## 🎭 The Method
@@ -810,3 +810,4 @@ Or let GitHub Action run it automatically.
 | 724 | 2025-11-25 11:48:47 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0724_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0724_shi-labs-oneformer_demo-readymade) |
 | 725 | 2025-11-25 12:25:50 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_0725_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0725_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 726 | 2025-11-25 14:37:43 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0726_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0726_tatsu-lab-alpaca-readymade) |
+| 727 | 2025-11-25 15:15:10 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0727_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0727_shi-labs-oneformer_demo-readymade) |
