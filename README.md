@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #718 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | 10 cols · 32 rows | [edition_0718_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0718_lavita-medical-qa-shared-task-v1-toy-readymade) | 2025-11-25 |
+| #719 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_0719_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0719_google-research-datasets-mbpp-readymade) | 2025-11-25 |
 ---
 
 ## 🎭 The Method
@@ -802,3 +802,4 @@ Or let GitHub Action run it automatically.
 | 716 | 2025-11-25 04:53:54 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_0716_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0716_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 717 | 2025-11-25 05:35:25 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0717_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0717_open-thoughts-OpenThoughts-114k-readymade) |
 | 718 | 2025-11-25 06:52:31 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_0718_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0718_lavita-medical-qa-shared-task-v1-toy-readymade) |
+| 719 | 2025-11-25 07:48:30 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_0719_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0719_google-research-datasets-mbpp-readymade) |
