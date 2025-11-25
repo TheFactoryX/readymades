@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #733 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_0733_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0733_open-thoughts-OpenThoughts-114k-readymade) | 2025-11-25 |
+| #734 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_0734_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0734_shi-labs-oneformer_demo-readymade) | 2025-11-25 |
 ---
 
 ## 🎭 The Method
@@ -817,3 +817,4 @@ Or let GitHub Action run it automatically.
 | 731 | 2025-11-25 20:14:14 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_0731_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0731_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 732 | 2025-11-25 21:29:22 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0732_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0732_tatsu-lab-alpaca-readymade) |
 | 733 | 2025-11-25 21:48:15 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0733_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0733_open-thoughts-OpenThoughts-114k-readymade) |
+| 734 | 2025-11-25 22:50:11 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0734_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0734_shi-labs-oneformer_demo-readymade) |
