@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #777 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_0777_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0777_tatsu-lab-alpaca-readymade) | 2025-11-27 |
+| #778 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_0778_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0778_tatsu-lab-alpaca-readymade) | 2025-11-27 |
 ---
 
 ## 🎭 The Method
@@ -861,3 +861,4 @@ Or let GitHub Action run it automatically.
 | 775 | 2025-11-27 10:38:56 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0775_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0775_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 776 | 2025-11-27 11:49:05 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0776_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0776_open-thoughts-OpenThoughts-114k-readymade) |
 | 777 | 2025-11-27 12:24:38 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0777_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0777_tatsu-lab-alpaca-readymade) |
+| 778 | 2025-11-27 13:07:50 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0778_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0778_tatsu-lab-alpaca-readymade) |
