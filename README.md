@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #779 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_0779_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0779_open-thoughts-OpenThoughts-114k-readymade) | 2025-11-27 |
+| #780 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | 2 cols · 500 rows | [edition_0780_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0780_ryanmarten-OpenThoughts-1k-sample-readymade) | 2025-11-27 |
 ---
 
 ## 🎭 The Method
@@ -863,3 +863,4 @@ Or let GitHub Action run it automatically.
 | 777 | 2025-11-27 12:24:38 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0777_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0777_tatsu-lab-alpaca-readymade) |
 | 778 | 2025-11-27 13:07:50 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0778_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0778_tatsu-lab-alpaca-readymade) |
 | 779 | 2025-11-27 14:52:20 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0779_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0779_open-thoughts-OpenThoughts-114k-readymade) |
+| 780 | 2025-11-27 15:13:08 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_0780_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0780_ryanmarten-OpenThoughts-1k-sample-readymade) |
