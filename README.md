@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #783 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | 2 cols · 500 rows | [edition_0783_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0783_ryanmarten-OpenThoughts-1k-sample-readymade) | 2025-11-27 |
+| #784 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_0784_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0784_tatsu-lab-alpaca-readymade) | 2025-11-27 |
 ---
 
 ## 🎭 The Method
@@ -867,3 +867,4 @@ Or let GitHub Action run it automatically.
 | 781 | 2025-11-27 16:41:59 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_0781_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0781_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 782 | 2025-11-27 17:11:06 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_0782_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0782_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 783 | 2025-11-27 17:30:35 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_0783_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0783_ryanmarten-OpenThoughts-1k-sample-readymade) |
+| 784 | 2025-11-27 18:18:29 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0784_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0784_tatsu-lab-alpaca-readymade) |
