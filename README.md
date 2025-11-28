@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #805 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | 10 cols · 32 rows | [edition_0805_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0805_lavita-medical-qa-shared-task-v1-toy-readymade) | 2025-11-28 |
+| #806 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_0806_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0806_tatsu-lab-alpaca-readymade) | 2025-11-28 |
 ---
 
 ## 🎭 The Method
@@ -889,3 +889,4 @@ Or let GitHub Action run it automatically.
 | 803 | 2025-11-28 15:32:05 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_0803_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0803_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 804 | 2025-11-28 15:48:18 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0804_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0804_tatsu-lab-alpaca-readymade) |
 | 805 | 2025-11-28 16:53:45 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_0805_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0805_lavita-medical-qa-shared-task-v1-toy-readymade) |
+| 806 | 2025-11-28 17:41:55 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0806_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0806_tatsu-lab-alpaca-readymade) |
