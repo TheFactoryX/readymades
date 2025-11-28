@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #790 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_0790_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0790_shi-labs-oneformer_demo-readymade) | 2025-11-27 |
+| #791 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | 2 cols · 500 rows | [edition_0791_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0791_ryanmarten-OpenThoughts-1k-sample-readymade) | 2025-11-28 |
 ---
 
 ## 🎭 The Method
@@ -874,3 +874,4 @@ Or let GitHub Action run it automatically.
 | 788 | 2025-11-27 22:12:03 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_0788_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0788_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 789 | 2025-11-27 22:48:52 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0789_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0789_tatsu-lab-alpaca-readymade) |
 | 790 | 2025-11-27 23:48:11 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0790_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0790_shi-labs-oneformer_demo-readymade) |
+| 791 | 2025-11-28 00:55:36 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_0791_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0791_ryanmarten-OpenThoughts-1k-sample-readymade) |
