@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #835 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_0835_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0835_shi-labs-oneformer_demo-readymade) | 2025-11-29 |
+| #836 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | 2 cols · 500 rows | [edition_0836_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0836_cornell-movie-review-data-rotten_tomatoes-readymade) | 2025-11-29 |
 ---
 
 ## 🎭 The Method
@@ -919,3 +919,4 @@ Or let GitHub Action run it automatically.
 | 833 | 2025-11-29 18:46:02 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_0833_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0833_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 834 | 2025-11-29 19:09:41 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_0834_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0834_google-research-datasets-mbpp-readymade) |
 | 835 | 2025-11-29 19:24:39 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0835_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0835_shi-labs-oneformer_demo-readymade) |
+| 836 | 2025-11-29 19:48:07 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_0836_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0836_cornell-movie-review-data-rotten_tomatoes-readymade) |
