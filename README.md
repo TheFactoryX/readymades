@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #837 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_0837_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0837_argilla-databricks-dolly-15k-curated-en-readymade) | 2025-11-29 |
+| #838 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_0838_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0838_mteb-sts12-sts-readymade) | 2025-11-29 |
 ---
 
 ## 🎭 The Method
@@ -921,3 +921,4 @@ Or let GitHub Action run it automatically.
 | 835 | 2025-11-29 19:24:39 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0835_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0835_shi-labs-oneformer_demo-readymade) |
 | 836 | 2025-11-29 19:48:07 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_0836_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0836_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 837 | 2025-11-29 20:13:58 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0837_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0837_argilla-databricks-dolly-15k-curated-en-readymade) |
+| 838 | 2025-11-29 21:11:14 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_0838_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0838_mteb-sts12-sts-readymade) |
