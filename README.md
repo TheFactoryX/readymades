@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #834 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_0834_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0834_google-research-datasets-mbpp-readymade) | 2025-11-29 |
+| #835 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_0835_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0835_shi-labs-oneformer_demo-readymade) | 2025-11-29 |
 ---
 
 ## 🎭 The Method
@@ -918,3 +918,4 @@ Or let GitHub Action run it automatically.
 | 832 | 2025-11-29 17:48:23 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0832_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0832_tatsu-lab-alpaca-readymade) |
 | 833 | 2025-11-29 18:46:02 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_0833_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0833_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 834 | 2025-11-29 19:09:41 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_0834_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0834_google-research-datasets-mbpp-readymade) |
+| 835 | 2025-11-29 19:24:39 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0835_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0835_shi-labs-oneformer_demo-readymade) |
