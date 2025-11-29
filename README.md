@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #821 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_0821_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0821_open-thoughts-OpenThoughts-114k-readymade) | 2025-11-29 |
+| #822 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_0822_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0822_mteb-sts12-sts-readymade) | 2025-11-29 |
 ---
 
 ## 🎭 The Method
@@ -905,3 +905,4 @@ Or let GitHub Action run it automatically.
 | 819 | 2025-11-29 08:55:14 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0819_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0819_open-thoughts-OpenThoughts-114k-readymade) |
 | 820 | 2025-11-29 10:34:35 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_0820_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0820_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 821 | 2025-11-29 10:49:10 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0821_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0821_open-thoughts-OpenThoughts-114k-readymade) |
+| 822 | 2025-11-29 11:48:02 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_0822_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0822_mteb-sts12-sts-readymade) |
