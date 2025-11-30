@@ -1,0 +1,38 @@
+{
+  "edition_number": 872,
+  "exhibited": "2025-11-30 19:10:00 UTC",
+  "original": {
+    "name": "tatsu-lab/alpaca",
+    "url": "https://huggingface.co/datasets/tatsu-lab/alpaca",
+    "downloads": 48082,
+    "likes": 830,
+    "tags": [
+      "task_categories:text-generation",
+      "language:en",
+      "license:cc-by-nc-4.0",
+      "size_categories:10K<n<100K",
+      "format:parquet",
+      "modality:text",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us",
+      "instruction-finetuning"
+    ]
+  },
+  "process": {
+    "strategy": "popular_backup",
+    "method": "streamed",
+    "rows": 500,
+    "columns": 4,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 0.951297
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_0872_tatsu-lab-alpaca-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_0872_tatsu-lab-alpaca-readymade"
+  }
+}
