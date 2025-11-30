@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #853 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_0853_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0853_shi-labs-oneformer_demo-readymade) | 2025-11-30 |
+| #854 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_0854_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0854_argilla-databricks-dolly-15k-curated-en-readymade) | 2025-11-30 |
 ---
 
 ## 🎭 The Method
@@ -937,3 +937,4 @@ Or let GitHub Action run it automatically.
 | 851 | 2025-11-30 07:14:30 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0851_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0851_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 852 | 2025-11-30 07:48:26 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_0852_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0852_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 853 | 2025-11-30 08:58:26 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0853_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0853_shi-labs-oneformer_demo-readymade) |
+| 854 | 2025-11-30 09:11:58 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0854_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0854_argilla-databricks-dolly-15k-curated-en-readymade) |
