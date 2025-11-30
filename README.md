@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #879 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_0879_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0879_google-research-datasets-mbpp-readymade) | 2025-11-30 |
+| #880 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_0880_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0880_open-thoughts-OpenThoughts-114k-readymade) | 2025-11-30 |
 ---
 
 ## 🎭 The Method
@@ -963,3 +963,4 @@ Or let GitHub Action run it automatically.
 | 877 | 2025-11-30 20:48:52 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0877_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0877_tatsu-lab-alpaca-readymade) |
 | 878 | 2025-11-30 21:11:09 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_0878_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0878_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 879 | 2025-11-30 21:37:24 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_0879_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0879_google-research-datasets-mbpp-readymade) |
+| 880 | 2025-11-30 21:47:56 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0880_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0880_open-thoughts-OpenThoughts-114k-readymade) |
