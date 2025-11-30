@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #874 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_0874_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0874_mteb-sts12-sts-readymade) | 2025-11-30 |
+| #875 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_0875_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0875_tatsu-lab-alpaca-readymade) | 2025-11-30 |
 ---
 
 ## 🎭 The Method
@@ -958,3 +958,4 @@ Or let GitHub Action run it automatically.
 | 872 | 2025-11-30 19:10:00 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0872_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0872_tatsu-lab-alpaca-readymade) |
 | 873 | 2025-11-30 19:25:04 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0873_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0873_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 874 | 2025-11-30 19:48:51 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_0874_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0874_mteb-sts12-sts-readymade) |
+| 875 | 2025-11-30 20:13:35 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0875_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0875_tatsu-lab-alpaca-readymade) |
