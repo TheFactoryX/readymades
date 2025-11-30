@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #856 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | 2 cols · 500 rows | [edition_0856_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0856_cornell-movie-review-data-rotten_tomatoes-readymade) | 2025-11-30 |
+| #857 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_0857_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0857_tatsu-lab-alpaca-readymade) | 2025-11-30 |
 ---
 
 ## 🎭 The Method
@@ -940,3 +940,4 @@ Or let GitHub Action run it automatically.
 | 854 | 2025-11-30 09:11:58 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0854_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0854_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 855 | 2025-11-30 09:30:07 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0855_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0855_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 856 | 2025-11-30 09:39:58 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_0856_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0856_cornell-movie-review-data-rotten_tomatoes-readymade) |
+| 857 | 2025-11-30 10:35:39 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0857_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0857_tatsu-lab-alpaca-readymade) |
