@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #904 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_0904_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0904_shi-labs-oneformer_demo-readymade) | 2025-12-01 |
+| #905 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_0905_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0905_open-thoughts-OpenThoughts-114k-readymade) | 2025-12-01 |
 ---
 
 ## 🎭 The Method
@@ -988,3 +988,4 @@ Or let GitHub Action run it automatically.
 | 902 | 2025-12-01 16:18:01 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_0902_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0902_google-research-datasets-mbpp-readymade) |
 | 903 | 2025-12-01 17:16:03 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_0903_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0903_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 904 | 2025-12-01 17:55:20 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0904_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0904_shi-labs-oneformer_demo-readymade) |
+| 905 | 2025-12-01 20:13:10 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0905_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0905_open-thoughts-OpenThoughts-114k-readymade) |
