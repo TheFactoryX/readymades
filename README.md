@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #895 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_0895_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0895_mteb-sts12-sts-readymade) | 2025-12-01 |
+| #896 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_0896_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0896_mteb-sts12-sts-readymade) | 2025-12-01 |
 ---
 
 ## 🎭 The Method
@@ -979,3 +979,4 @@ Or let GitHub Action run it automatically.
 | 893 | 2025-12-01 08:51:54 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_0893_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0893_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 894 | 2025-12-01 09:20:04 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_0894_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0894_google-research-datasets-mbpp-readymade) |
 | 895 | 2025-12-01 10:44:22 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_0895_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0895_mteb-sts12-sts-readymade) |
+| 896 | 2025-12-01 10:55:54 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_0896_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0896_mteb-sts12-sts-readymade) |
