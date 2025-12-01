@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #900 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | 2 cols · 500 rows | [edition_0900_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0900_cornell-movie-review-data-rotten_tomatoes-readymade) | 2025-12-01 |
+| #901 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_0901_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0901_tatsu-lab-alpaca-readymade) | 2025-12-01 |
 ---
 
 ## 🎭 The Method
@@ -984,3 +984,4 @@ Or let GitHub Action run it automatically.
 | 898 | 2025-12-01 11:41:12 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0898_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0898_shi-labs-oneformer_demo-readymade) |
 | 899 | 2025-12-01 14:40:07 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_0899_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0899_google-research-datasets-mbpp-readymade) |
 | 900 | 2025-12-01 15:14:21 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_0900_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0900_cornell-movie-review-data-rotten_tomatoes-readymade) |
+| 901 | 2025-12-01 15:36:05 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0901_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0901_tatsu-lab-alpaca-readymade) |
