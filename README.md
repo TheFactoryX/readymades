@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #929 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_0929_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0929_tatsu-lab-alpaca-readymade) | 2025-12-02 |
+| #930 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | 2 cols · 500 rows | [edition_0930_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0930_ryanmarten-OpenThoughts-1k-sample-readymade) | 2025-12-02 |
 ---
 
 ## 🎭 The Method
@@ -1013,3 +1013,4 @@ Or let GitHub Action run it automatically.
 | 927 | 2025-12-02 19:13:46 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0927_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0927_open-thoughts-OpenThoughts-114k-readymade) |
 | 928 | 2025-12-02 19:32:09 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_0928_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0928_google-research-datasets-mbpp-readymade) |
 | 929 | 2025-12-02 19:49:19 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0929_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0929_tatsu-lab-alpaca-readymade) |
+| 930 | 2025-12-02 20:52:16 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_0930_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0930_ryanmarten-OpenThoughts-1k-sample-readymade) |
