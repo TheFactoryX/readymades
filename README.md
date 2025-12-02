@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #927 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_0927_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0927_open-thoughts-OpenThoughts-114k-readymade) | 2025-12-02 |
+| #928 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_0928_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0928_google-research-datasets-mbpp-readymade) | 2025-12-02 |
 ---
 
 ## 🎭 The Method
@@ -1011,3 +1011,4 @@ Or let GitHub Action run it automatically.
 | 925 | 2025-12-02 17:55:50 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0925_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0925_shi-labs-oneformer_demo-readymade) |
 | 926 | 2025-12-02 18:54:28 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_0926_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0926_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 927 | 2025-12-02 19:13:46 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0927_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0927_open-thoughts-OpenThoughts-114k-readymade) |
+| 928 | 2025-12-02 19:32:09 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_0928_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0928_google-research-datasets-mbpp-readymade) |
