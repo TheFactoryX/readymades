@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #973 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_0973_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0973_open-thoughts-OpenThoughts-114k-readymade) | 2025-12-03 |
+| #974 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_0974_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0974_tatsu-lab-alpaca-readymade) | 2025-12-03 |
 ---
 
 ## 🎭 The Method
@@ -1057,3 +1057,4 @@ Or let GitHub Action run it automatically.
 | 971 | 2025-12-03 21:28:46 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_0971_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0971_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 972 | 2025-12-03 22:13:52 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_0972_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0972_google-research-datasets-mbpp-readymade) |
 | 973 | 2025-12-03 22:50:55 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0973_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0973_open-thoughts-OpenThoughts-114k-readymade) |
+| 974 | 2025-12-03 23:48:20 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0974_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0974_tatsu-lab-alpaca-readymade) |
