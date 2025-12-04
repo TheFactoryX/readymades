@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #993 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_0993_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0993_google-research-datasets-mbpp-readymade) | 2025-12-04 |
+| #994 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_0994_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0994_shi-labs-oneformer_demo-readymade) | 2025-12-04 |
 ---
 
 ## 🎭 The Method
@@ -1077,3 +1077,4 @@ Or let GitHub Action run it automatically.
 | 991 | 2025-12-04 19:13:11 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_0991_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0991_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 992 | 2025-12-04 20:14:45 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_0992_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0992_mteb-sts12-sts-readymade) |
 | 993 | 2025-12-04 21:13:12 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_0993_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0993_google-research-datasets-mbpp-readymade) |
+| 994 | 2025-12-04 22:11:04 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0994_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0994_shi-labs-oneformer_demo-readymade) |
