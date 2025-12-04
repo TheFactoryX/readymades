@@ -1,0 +1,44 @@
+{
+  "edition_number": 992,
+  "exhibited": "2025-12-04 20:14:45 UTC",
+  "original": {
+    "name": "mteb/sts12-sts",
+    "url": "https://huggingface.co/datasets/mteb/sts12-sts",
+    "downloads": 55457,
+    "likes": 7,
+    "tags": [
+      "task_categories:sentence-similarity",
+      "task_ids:semantic-similarity-scoring",
+      "annotations_creators:human-annotated",
+      "multilinguality:monolingual",
+      "language:eng",
+      "license:unknown",
+      "size_categories:1K<n<10K",
+      "format:json",
+      "modality:text",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "arxiv:2502.13595",
+      "arxiv:2210.07316",
+      "region:us",
+      "mteb",
+      "text"
+    ]
+  },
+  "process": {
+    "strategy": "popular",
+    "method": "streamed",
+    "rows": 500,
+    "columns": 4,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 1.815849
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_0992_mteb-sts12-sts-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_0992_mteb-sts12-sts-readymade"
+  }
+}
