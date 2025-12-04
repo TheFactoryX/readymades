@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #995 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_0995_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0995_mteb-sts12-sts-readymade) | 2025-12-04 |
+| #996 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_0996_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0996_argilla-databricks-dolly-15k-curated-en-readymade) | 2025-12-04 |
 ---
 
 ## 🎭 The Method
@@ -1079,3 +1079,4 @@ Or let GitHub Action run it automatically.
 | 993 | 2025-12-04 21:13:12 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_0993_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0993_google-research-datasets-mbpp-readymade) |
 | 994 | 2025-12-04 22:11:04 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_0994_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0994_shi-labs-oneformer_demo-readymade) |
 | 995 | 2025-12-04 22:49:46 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_0995_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0995_mteb-sts12-sts-readymade) |
+| 996 | 2025-12-04 23:30:33 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0996_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0996_argilla-databricks-dolly-15k-curated-en-readymade) |
