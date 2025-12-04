@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #975 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_0975_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0975_tatsu-lab-alpaca-readymade) | 2025-12-04 |
+| #976 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_0976_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0976_argilla-databricks-dolly-15k-curated-en-readymade) | 2025-12-04 |
 ---
 
 ## 🎭 The Method
@@ -1059,3 +1059,4 @@ Or let GitHub Action run it automatically.
 | 973 | 2025-12-03 22:50:55 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_0973_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0973_open-thoughts-OpenThoughts-114k-readymade) |
 | 974 | 2025-12-03 23:48:20 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0974_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0974_tatsu-lab-alpaca-readymade) |
 | 975 | 2025-12-04 05:35:42 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0975_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0975_tatsu-lab-alpaca-readymade) |
+| 976 | 2025-12-04 06:20:48 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0976_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0976_argilla-databricks-dolly-15k-curated-en-readymade) |
