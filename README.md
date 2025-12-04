@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #977 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_0977_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0977_tatsu-lab-alpaca-readymade) | 2025-12-04 |
+| #978 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | 2 cols · 500 rows | [edition_0978_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0978_ryanmarten-OpenThoughts-1k-sample-readymade) | 2025-12-04 |
 ---
 
 ## 🎭 The Method
@@ -1061,3 +1061,4 @@ Or let GitHub Action run it automatically.
 | 975 | 2025-12-04 05:35:42 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0975_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0975_tatsu-lab-alpaca-readymade) |
 | 976 | 2025-12-04 06:20:48 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_0976_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0976_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 977 | 2025-12-04 06:52:40 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_0977_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0977_tatsu-lab-alpaca-readymade) |
+| 978 | 2025-12-04 07:34:04 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_0978_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_0978_ryanmarten-OpenThoughts-1k-sample-readymade) |
