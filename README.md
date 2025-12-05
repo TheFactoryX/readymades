@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1017 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_1017_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1017_jxcai-scale-hle-public-questions-readymade) | 2025-12-05 |
+| #1018 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_1018_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1018_mteb-sts12-sts-readymade) | 2025-12-05 |
 ---
 
 ## 🎭 The Method
@@ -1101,3 +1101,4 @@ Or let GitHub Action run it automatically.
 | 1015 | 2025-12-05 14:14:10 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_1015_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1015_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 1016 | 2025-12-05 14:51:17 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_1016_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1016_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 1017 | 2025-12-05 15:35:51 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_1017_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1017_jxcai-scale-hle-public-questions-readymade) |
+| 1018 | 2025-12-05 15:52:21 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1018_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1018_mteb-sts12-sts-readymade) |
