@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1052 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_1052_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1052_open-thoughts-OpenThoughts-114k-readymade) | 2025-12-06 |
+| #1053 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_1053_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1053_tatsu-lab-alpaca-readymade) | 2025-12-06 |
 ---
 
 ## 🎭 The Method
@@ -1136,3 +1136,4 @@ Or let GitHub Action run it automatically.
 | 1050 | 2025-12-06 17:10:52 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_1050_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1050_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 1051 | 2025-12-06 17:29:53 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_1051_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1051_jxcai-scale-hle-public-questions-readymade) |
 | 1052 | 2025-12-06 17:39:24 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_1052_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1052_open-thoughts-OpenThoughts-114k-readymade) |
+| 1053 | 2025-12-06 18:16:22 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1053_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1053_tatsu-lab-alpaca-readymade) |
