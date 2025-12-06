@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1045 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_1045_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1045_open-thoughts-OpenThoughts-114k-readymade) | 2025-12-06 |
+| #1046 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_1046_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1046_mteb-sts12-sts-readymade) | 2025-12-06 |
 ---
 
 ## 🎭 The Method
@@ -1129,3 +1129,4 @@ Or let GitHub Action run it automatically.
 | 1043 | 2025-12-06 11:34:07 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_1043_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1043_jxcai-scale-hle-public-questions-readymade) |
 | 1044 | 2025-12-06 11:48:47 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_1044_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1044_google-research-datasets-mbpp-readymade) |
 | 1045 | 2025-12-06 13:48:17 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_1045_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1045_open-thoughts-OpenThoughts-114k-readymade) |
+| 1046 | 2025-12-06 15:11:34 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1046_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1046_mteb-sts12-sts-readymade) |
