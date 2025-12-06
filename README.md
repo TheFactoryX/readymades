@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1053 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_1053_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1053_tatsu-lab-alpaca-readymade) | 2025-12-06 |
+| #1054 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_1054_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1054_jxcai-scale-hle-public-questions-readymade) | 2025-12-06 |
 ---
 
 ## 🎭 The Method
@@ -1137,3 +1137,4 @@ Or let GitHub Action run it automatically.
 | 1051 | 2025-12-06 17:29:53 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_1051_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1051_jxcai-scale-hle-public-questions-readymade) |
 | 1052 | 2025-12-06 17:39:24 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_1052_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1052_open-thoughts-OpenThoughts-114k-readymade) |
 | 1053 | 2025-12-06 18:16:22 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1053_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1053_tatsu-lab-alpaca-readymade) |
+| 1054 | 2025-12-06 18:46:31 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_1054_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1054_jxcai-scale-hle-public-questions-readymade) |
