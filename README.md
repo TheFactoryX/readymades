@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1079 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_1079_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1079_mteb-sts12-sts-readymade) | 2025-12-07 |
+| #1080 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | 2 cols · 500 rows | [edition_1080_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1080_ryanmarten-OpenThoughts-1k-sample-readymade) | 2025-12-07 |
 ---
 
 ## 🎭 The Method
@@ -1163,3 +1163,4 @@ Or let GitHub Action run it automatically.
 | 1077 | 2025-12-07 10:48:15 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_1077_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1077_google-research-datasets-mbpp-readymade) |
 | 1078 | 2025-12-07 11:10:54 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_1078_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1078_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 1079 | 2025-12-07 12:22:23 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1079_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1079_mteb-sts12-sts-readymade) |
+| 1080 | 2025-12-07 13:28:40 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_1080_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1080_ryanmarten-OpenThoughts-1k-sample-readymade) |

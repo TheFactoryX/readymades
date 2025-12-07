@@ -1,0 +1,35 @@
+{
+  "edition_number": 1080,
+  "exhibited": "2025-12-07 13:28:40 UTC",
+  "original": {
+    "name": "ryanmarten/OpenThoughts-1k-sample",
+    "url": "https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample",
+    "downloads": 93785,
+    "likes": 0,
+    "tags": [
+      "size_categories:1K<n<10K",
+      "format:parquet",
+      "modality:text",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "arxiv:2506.04178",
+      "region:us"
+    ]
+  },
+  "process": {
+    "strategy": "popular_backup",
+    "method": "streamed",
+    "rows": 500,
+    "columns": 2,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 1.372659
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_1080_ryanmarten-OpenThoughts-1k-sample-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_1080_ryanmarten-OpenThoughts-1k-sample-readymade"
+  }
+}
