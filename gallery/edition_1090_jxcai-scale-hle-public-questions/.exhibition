@@ -1,0 +1,34 @@
+{
+  "edition_number": 1090,
+  "exhibited": "2025-12-07 17:29:21 UTC",
+  "original": {
+    "name": "jxcai-scale/hle-public-questions",
+    "url": "https://huggingface.co/datasets/jxcai-scale/hle-public-questions",
+    "downloads": 50459,
+    "likes": 0,
+    "tags": [
+      "size_categories:1K<n<10K",
+      "format:csv",
+      "modality:text",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us"
+    ]
+  },
+  "process": {
+    "strategy": "random",
+    "method": "streamed",
+    "rows": 500,
+    "columns": 1,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 1.196487
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_1090_jxcai-scale-hle-public-questions-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_1090_jxcai-scale-hle-public-questions-readymade"
+  }
+}
