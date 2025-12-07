@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1091 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_1091_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1091_argilla-databricks-dolly-15k-curated-en-readymade) | 2025-12-07 |
+| #1092 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_1092_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1092_shi-labs-oneformer_demo-readymade) | 2025-12-07 |
 ---
 
 ## 🎭 The Method
@@ -1175,3 +1175,4 @@ Or let GitHub Action run it automatically.
 | 1089 | 2025-12-07 16:13:36 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1089_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1089_mteb-sts12-sts-readymade) |
 | 1090 | 2025-12-07 17:29:21 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_1090_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1090_jxcai-scale-hle-public-questions-readymade) |
 | 1091 | 2025-12-07 17:39:32 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_1091_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1091_argilla-databricks-dolly-15k-curated-en-readymade) |
+| 1092 | 2025-12-07 17:48:47 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_1092_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1092_shi-labs-oneformer_demo-readymade) |
