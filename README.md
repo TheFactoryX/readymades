@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1105 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_1105_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1105_mteb-sts12-sts-readymade) | 2025-12-08 |
+| #1106 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_1106_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1106_argilla-databricks-dolly-15k-curated-en-readymade) | 2025-12-08 |
 ---
 
 ## 🎭 The Method
@@ -1189,3 +1189,4 @@ Or let GitHub Action run it automatically.
 | 1103 | 2025-12-07 23:47:29 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_1103_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1103_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 1104 | 2025-12-08 01:00:02 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_1104_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1104_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 1105 | 2025-12-08 05:40:31 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1105_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1105_mteb-sts12-sts-readymade) |
+| 1106 | 2025-12-08 05:52:23 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_1106_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1106_argilla-databricks-dolly-15k-curated-en-readymade) |
