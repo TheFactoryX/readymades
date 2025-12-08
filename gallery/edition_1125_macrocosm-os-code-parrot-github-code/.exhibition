@@ -1,0 +1,41 @@
+{
+  "edition_number": 1125,
+  "exhibited": "2025-12-08 20:16:30 UTC",
+  "original": {
+    "name": "macrocosm-os/code-parrot-github-code",
+    "url": "https://huggingface.co/datasets/macrocosm-os/code-parrot-github-code",
+    "downloads": 93814,
+    "likes": 13,
+    "tags": [
+      "task_categories:text-generation",
+      "task_ids:language-modeling",
+      "language_creators:crowdsourced",
+      "language_creators:expert-generated",
+      "multilinguality:multilingual",
+      "language:code",
+      "license:other",
+      "size_categories:100M<n<1B",
+      "format:parquet",
+      "modality:text",
+      "library:datasets",
+      "library:dask",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us"
+    ]
+  },
+  "process": {
+    "strategy": "popular_backup",
+    "method": "streamed",
+    "rows": 500,
+    "columns": 5,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 52.30233
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_1125_macrocosm-os-code-parrot-github-code-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_1125_macrocosm-os-code-parrot-github-code-readymade"
+  }
+}
