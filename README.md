@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1118 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_1118_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1118_google-research-datasets-mbpp-readymade) | 2025-12-08 |
+| #1119 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_1119_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1119_mteb-sts12-sts-readymade) | 2025-12-08 |
 ---
 
 ## 🎭 The Method
@@ -1202,3 +1202,4 @@ Or let GitHub Action run it automatically.
 | 1116 | 2025-12-08 13:46:52 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_1116_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1116_google-research-datasets-mbpp-readymade) |
 | 1117 | 2025-12-08 14:40:42 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_1117_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1117_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 1118 | 2025-12-08 14:54:28 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_1118_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1118_google-research-datasets-mbpp-readymade) |
+| 1119 | 2025-12-08 15:15:18 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1119_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1119_mteb-sts12-sts-readymade) |
