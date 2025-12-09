@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1139 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | 2 cols · 500 rows | [edition_1139_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1139_cornell-movie-review-data-rotten_tomatoes-readymade) | 2025-12-09 |
+| #1140 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_1140_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1140_mteb-sts12-sts-readymade) | 2025-12-09 |
 ---
 
 ## 🎭 The Method
@@ -1223,3 +1223,4 @@ Or let GitHub Action run it automatically.
 | 1137 | 2025-12-09 06:21:56 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_1137_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1137_shi-labs-oneformer_demo-readymade) |
 | 1138 | 2025-12-09 06:54:03 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_1138_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1138_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 1139 | 2025-12-09 07:17:05 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_1139_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1139_cornell-movie-review-data-rotten_tomatoes-readymade) |
+| 1140 | 2025-12-09 09:16:43 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1140_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1140_mteb-sts12-sts-readymade) |
