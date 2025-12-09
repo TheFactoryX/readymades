@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1140 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_1140_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1140_mteb-sts12-sts-readymade) | 2025-12-09 |
+| #1141 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_1141_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1141_google-research-datasets-mbpp-readymade) | 2025-12-09 |
 ---
 
 ## 🎭 The Method
@@ -1224,3 +1224,4 @@ Or let GitHub Action run it automatically.
 | 1138 | 2025-12-09 06:54:03 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_1138_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1138_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 1139 | 2025-12-09 07:17:05 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_1139_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1139_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 1140 | 2025-12-09 09:16:43 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1140_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1140_mteb-sts12-sts-readymade) |
+| 1141 | 2025-12-09 10:44:13 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_1141_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1141_google-research-datasets-mbpp-readymade) |
