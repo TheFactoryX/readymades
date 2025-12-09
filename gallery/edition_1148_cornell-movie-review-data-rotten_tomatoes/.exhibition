@@ -1,0 +1,42 @@
+{
+  "edition_number": 1148,
+  "exhibited": "2025-12-09 16:17:54 UTC",
+  "original": {
+    "name": "cornell-movie-review-data/rotten_tomatoes",
+    "url": "https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes",
+    "downloads": 73653,
+    "likes": 93,
+    "tags": [
+      "task_categories:text-classification",
+      "task_ids:sentiment-classification",
+      "annotations_creators:crowdsourced",
+      "language_creators:crowdsourced",
+      "multilinguality:monolingual",
+      "source_datasets:original",
+      "language:en",
+      "license:unknown",
+      "size_categories:10K<n<100K",
+      "format:parquet",
+      "modality:text",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us"
+    ]
+  },
+  "process": {
+    "strategy": "popular_backup",
+    "method": "streamed",
+    "rows": 500,
+    "columns": 2,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 1.066758
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_1148_cornell-movie-review-data-rotten_tomatoes-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_1148_cornell-movie-review-data-rotten_tomatoes-readymade"
+  }
+}
