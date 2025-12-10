@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1193 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_1193_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1193_tatsu-lab-alpaca-readymade) | 2025-12-10 |
+| #1194 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | 2 cols · 500 rows | [edition_1194_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1194_cornell-movie-review-data-rotten_tomatoes-readymade) | 2025-12-10 |
 ---
 
 ## 🎭 The Method
@@ -1277,3 +1277,4 @@ Or let GitHub Action run it automatically.
 | 1191 | 2025-12-10 19:40:21 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_1191_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1191_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 1192 | 2025-12-10 19:48:45 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_1192_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1192_jxcai-scale-hle-public-questions-readymade) |
 | 1193 | 2025-12-10 20:15:39 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1193_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1193_tatsu-lab-alpaca-readymade) |
+| 1194 | 2025-12-10 20:40:46 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_1194_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1194_cornell-movie-review-data-rotten_tomatoes-readymade) |
