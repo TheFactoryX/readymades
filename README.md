@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1196 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_1196_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1196_shi-labs-oneformer_demo-readymade) | 2025-12-10 |
+| #1197 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | 10 cols · 32 rows | [edition_1197_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1197_lavita-medical-qa-shared-task-v1-toy-readymade) | 2025-12-10 |
 ---
 
 ## 🎭 The Method
@@ -1280,3 +1280,4 @@ Or let GitHub Action run it automatically.
 | 1194 | 2025-12-10 20:40:46 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_1194_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1194_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 1195 | 2025-12-10 21:14:05 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_1195_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1195_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 1196 | 2025-12-10 23:11:25 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_1196_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1196_shi-labs-oneformer_demo-readymade) |
+| 1197 | 2025-12-10 23:40:53 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_1197_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1197_lavita-medical-qa-shared-task-v1-toy-readymade) |
