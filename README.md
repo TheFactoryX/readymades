@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1168 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_1168_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1168_mteb-sts12-sts-readymade) | 2025-12-10 |
+| #1169 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | 2 cols · 500 rows | [edition_1169_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1169_ryanmarten-OpenThoughts-1k-sample-readymade) | 2025-12-10 |
 ---
 
 ## 🎭 The Method
@@ -1252,3 +1252,4 @@ Or let GitHub Action run it automatically.
 | 1166 | 2025-12-10 03:52:46 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_1166_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1166_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 1167 | 2025-12-10 04:26:53 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_1167_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1167_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 1168 | 2025-12-10 04:51:56 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1168_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1168_mteb-sts12-sts-readymade) |
+| 1169 | 2025-12-10 05:15:20 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_1169_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1169_ryanmarten-OpenThoughts-1k-sample-readymade) |
