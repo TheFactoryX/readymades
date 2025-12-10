@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1188 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_1188_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1188_tatsu-lab-alpaca-readymade) | 2025-12-10 |
+| #1189 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_1189_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1189_jxcai-scale-hle-public-questions-readymade) | 2025-12-10 |
 ---
 
 ## 🎭 The Method
@@ -1272,3 +1272,4 @@ Or let GitHub Action run it automatically.
 | 1186 | 2025-12-10 15:16:18 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_1186_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1186_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 1187 | 2025-12-10 15:55:19 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_1187_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1187_google-research-datasets-mbpp-readymade) |
 | 1188 | 2025-12-10 16:20:44 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1188_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1188_tatsu-lab-alpaca-readymade) |
+| 1189 | 2025-12-10 18:51:36 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_1189_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1189_jxcai-scale-hle-public-questions-readymade) |
