@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1206 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_1206_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1206_argilla-databricks-dolly-15k-curated-en-readymade) | 2025-12-11 |
+| #1207 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_1207_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1207_google-research-datasets-mbpp-readymade) | 2025-12-11 |
 ---
 
 ## 🎭 The Method
@@ -1290,3 +1290,4 @@ Or let GitHub Action run it automatically.
 | 1204 | 2025-12-11 08:50:38 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_1204_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1204_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 1205 | 2025-12-11 09:18:49 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1205_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1205_tatsu-lab-alpaca-readymade) |
 | 1206 | 2025-12-11 09:45:53 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_1206_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1206_argilla-databricks-dolly-15k-curated-en-readymade) |
+| 1207 | 2025-12-11 10:54:52 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_1207_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1207_google-research-datasets-mbpp-readymade) |
