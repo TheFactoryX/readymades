@@ -1,0 +1,28 @@
+{
+  "edition_number": 1198,
+  "exhibited": "2025-12-11 01:02:02 UTC",
+  "original": {
+    "name": "Graphite-AI/Graphite_Past_Problems",
+    "url": "https://huggingface.co/datasets/Graphite-AI/Graphite_Past_Problems",
+    "downloads": 237890,
+    "likes": 1,
+    "tags": [
+      "license:mit",
+      "region:us"
+    ]
+  },
+  "process": {
+    "strategy": "popular_backup",
+    "method": "streamed",
+    "rows": 500,
+    "columns": 9,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 17.412665
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_1198_Graphite-AI-Graphite_Past_Problems-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_1198_Graphite-AI-Graphite_Past_Problems-readymade"
+  }
+}
