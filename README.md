@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1253 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_1253_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1253_open-thoughts-OpenThoughts-114k-readymade) | 2025-12-12 |
+| #1254 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_1254_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1254_mteb-sts12-sts-readymade) | 2025-12-12 |
 ---
 
 ## 🎭 The Method
@@ -1337,3 +1337,4 @@ Or let GitHub Action run it automatically.
 | 1251 | 2025-12-12 19:48:11 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_1251_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1251_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 1252 | 2025-12-12 20:37:54 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_1252_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1252_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 1253 | 2025-12-12 20:52:35 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_1253_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1253_open-thoughts-OpenThoughts-114k-readymade) |
+| 1254 | 2025-12-12 21:41:03 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1254_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1254_mteb-sts12-sts-readymade) |
