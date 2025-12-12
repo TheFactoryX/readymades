@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1226 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_1226_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1226_mteb-sts12-sts-readymade) | 2025-12-12 |
+| #1227 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_1227_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1227_open-thoughts-OpenThoughts-114k-readymade) | 2025-12-12 |
 ---
 
 ## 🎭 The Method
@@ -1310,3 +1310,4 @@ Or let GitHub Action run it automatically.
 | 1224 | 2025-12-11 23:12:52 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_1224_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1224_google-research-datasets-mbpp-readymade) |
 | 1225 | 2025-12-12 01:23:17 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_1225_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1225_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 1226 | 2025-12-12 02:54:00 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1226_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1226_mteb-sts12-sts-readymade) |
+| 1227 | 2025-12-12 04:28:02 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_1227_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1227_open-thoughts-OpenThoughts-114k-readymade) |
