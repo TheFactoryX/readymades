@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1256 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_1256_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1256_tatsu-lab-alpaca-readymade) | 2025-12-12 |
+| #1257 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | 2 cols · 500 rows | [edition_1257_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1257_cornell-movie-review-data-rotten_tomatoes-readymade) | 2025-12-12 |
 ---
 
 ## 🎭 The Method
@@ -1340,3 +1340,4 @@ Or let GitHub Action run it automatically.
 | 1254 | 2025-12-12 21:41:03 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1254_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1254_mteb-sts12-sts-readymade) |
 | 1255 | 2025-12-12 21:48:15 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_1255_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1255_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 1256 | 2025-12-12 22:12:58 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1256_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1256_tatsu-lab-alpaca-readymade) |
+| 1257 | 2025-12-12 23:13:26 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_1257_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1257_cornell-movie-review-data-rotten_tomatoes-readymade) |
