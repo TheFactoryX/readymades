@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1295 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_1295_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1295_jxcai-scale-hle-public-questions-readymade) | 2025-12-13 |
+| #1296 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_1296_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1296_google-research-datasets-mbpp-readymade) | 2025-12-13 |
 ---
 
 ## 🎭 The Method
@@ -1379,3 +1379,4 @@ Or let GitHub Action run it automatically.
 | 1293 | 2025-12-13 21:28:41 | [adams-story/datacomp200m](https://huggingface.co/datasets/adams-story/datacomp200m) | streamed (500 rows, 10 cols) | [edition_1293_adams-story-datacomp200m-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1293_adams-story-datacomp200m-readymade) |
 | 1294 | 2025-12-13 21:37:25 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1294_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1294_tatsu-lab-alpaca-readymade) |
 | 1295 | 2025-12-13 22:13:06 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_1295_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1295_jxcai-scale-hle-public-questions-readymade) |
+| 1296 | 2025-12-13 22:49:08 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_1296_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1296_google-research-datasets-mbpp-readymade) |
