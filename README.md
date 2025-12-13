@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1262 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_1262_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1262_google-research-datasets-mbpp-readymade) | 2025-12-13 |
+| #1263 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | 2 cols · 500 rows | [edition_1263_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1263_ryanmarten-OpenThoughts-1k-sample-readymade) | 2025-12-13 |
 ---
 
 ## 🎭 The Method
@@ -1346,3 +1346,4 @@ Or let GitHub Action run it automatically.
 | 1260 | 2025-12-12 23:49:14 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1260_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1260_tatsu-lab-alpaca-readymade) |
 | 1261 | 2025-12-13 00:57:48 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_1261_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1261_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 1262 | 2025-12-13 02:30:44 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_1262_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1262_google-research-datasets-mbpp-readymade) |
+| 1263 | 2025-12-13 03:37:29 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_1263_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1263_ryanmarten-OpenThoughts-1k-sample-readymade) |
