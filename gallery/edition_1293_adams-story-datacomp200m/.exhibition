@@ -1,0 +1,36 @@
+{
+  "edition_number": 1293,
+  "exhibited": "2025-12-13 21:28:41 UTC",
+  "original": {
+    "name": "adams-story/datacomp200m",
+    "url": "https://huggingface.co/datasets/adams-story/datacomp200m",
+    "downloads": 109468,
+    "likes": 2,
+    "tags": [
+      "size_categories:100M<n<1B",
+      "format:parquet",
+      "modality:image",
+      "modality:tabular",
+      "modality:text",
+      "library:datasets",
+      "library:dask",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us"
+    ]
+  },
+  "process": {
+    "strategy": "popular_backup",
+    "method": "streamed",
+    "rows": 500,
+    "columns": 10,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 15.016886
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_1293_adams-story-datacomp200m-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_1293_adams-story-datacomp200m-readymade"
+  }
+}
