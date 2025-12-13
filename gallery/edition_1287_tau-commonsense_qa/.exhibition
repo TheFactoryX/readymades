@@ -1,0 +1,43 @@
+{
+  "edition_number": 1287,
+  "exhibited": "2025-12-13 17:48:38 UTC",
+  "original": {
+    "name": "tau/commonsense_qa",
+    "url": "https://huggingface.co/datasets/tau/commonsense_qa",
+    "downloads": 42345,
+    "likes": 123,
+    "tags": [
+      "task_categories:question-answering",
+      "task_ids:open-domain-qa",
+      "annotations_creators:crowdsourced",
+      "language_creators:crowdsourced",
+      "multilinguality:monolingual",
+      "source_datasets:original",
+      "language:en",
+      "license:mit",
+      "size_categories:10K<n<100K",
+      "format:parquet",
+      "modality:text",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "arxiv:1811.00937",
+      "region:us"
+    ]
+  },
+  "process": {
+    "strategy": "popular_backup",
+    "method": "streamed",
+    "rows": 500,
+    "columns": 5,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 1.956081
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_1287_tau-commonsense_qa-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_1287_tau-commonsense_qa-readymade"
+  }
+}
