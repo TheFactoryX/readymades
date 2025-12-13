@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1274 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | 2 cols · 500 rows | [edition_1274_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1274_ryanmarten-OpenThoughts-1k-sample-readymade) | 2025-12-13 |
+| #1275 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_1275_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1275_tatsu-lab-alpaca-readymade) | 2025-12-13 |
 ---
 
 ## 🎭 The Method
@@ -1358,3 +1358,4 @@ Or let GitHub Action run it automatically.
 | 1272 | 2025-12-13 08:16:21 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_1272_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1272_shi-labs-oneformer_demo-readymade) |
 | 1273 | 2025-12-13 08:44:37 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_1273_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1273_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 1274 | 2025-12-13 09:12:31 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_1274_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1274_ryanmarten-OpenThoughts-1k-sample-readymade) |
+| 1275 | 2025-12-13 09:31:24 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1275_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1275_tatsu-lab-alpaca-readymade) |
