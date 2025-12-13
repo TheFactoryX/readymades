@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1294 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_1294_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1294_tatsu-lab-alpaca-readymade) | 2025-12-13 |
+| #1295 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_1295_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1295_jxcai-scale-hle-public-questions-readymade) | 2025-12-13 |
 ---
 
 ## 🎭 The Method
@@ -1378,3 +1378,4 @@ Or let GitHub Action run it automatically.
 | 1292 | 2025-12-13 20:48:59 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_1292_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1292_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 1293 | 2025-12-13 21:28:41 | [adams-story/datacomp200m](https://huggingface.co/datasets/adams-story/datacomp200m) | streamed (500 rows, 10 cols) | [edition_1293_adams-story-datacomp200m-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1293_adams-story-datacomp200m-readymade) |
 | 1294 | 2025-12-13 21:37:25 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1294_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1294_tatsu-lab-alpaca-readymade) |
+| 1295 | 2025-12-13 22:13:06 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_1295_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1295_jxcai-scale-hle-public-questions-readymade) |
