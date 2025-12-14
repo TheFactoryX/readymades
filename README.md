@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1304 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_1304_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1304_mteb-sts12-sts-readymade) | 2025-12-14 |
+| #1305 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_1305_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1305_open-thoughts-OpenThoughts-114k-readymade) | 2025-12-14 |
 ---
 
 ## 🎭 The Method
@@ -1388,3 +1388,4 @@ Or let GitHub Action run it automatically.
 | 1302 | 2025-12-14 05:14:43 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1302_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1302_tatsu-lab-alpaca-readymade) |
 | 1303 | 2025-12-14 05:49:57 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1303_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1303_mteb-sts12-sts-readymade) |
 | 1304 | 2025-12-14 06:49:59 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1304_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1304_mteb-sts12-sts-readymade) |
+| 1305 | 2025-12-14 07:13:38 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_1305_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1305_open-thoughts-OpenThoughts-114k-readymade) |
