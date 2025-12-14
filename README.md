@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1303 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_1303_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1303_mteb-sts12-sts-readymade) | 2025-12-14 |
+| #1304 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_1304_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1304_mteb-sts12-sts-readymade) | 2025-12-14 |
 ---
 
 ## 🎭 The Method
@@ -1387,3 +1387,4 @@ Or let GitHub Action run it automatically.
 | 1301 | 2025-12-14 03:05:20 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_1301_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1301_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 1302 | 2025-12-14 05:14:43 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1302_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1302_tatsu-lab-alpaca-readymade) |
 | 1303 | 2025-12-14 05:49:57 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1303_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1303_mteb-sts12-sts-readymade) |
+| 1304 | 2025-12-14 06:49:59 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1304_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1304_mteb-sts12-sts-readymade) |
