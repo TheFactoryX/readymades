@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1329 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_1329_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1329_open-thoughts-OpenThoughts-114k-readymade) | 2025-12-14 |
+| #1330 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | 2 cols · 500 rows | [edition_1330_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1330_ryanmarten-OpenThoughts-1k-sample-readymade) | 2025-12-14 |
 ---
 
 ## 🎭 The Method
@@ -1413,3 +1413,4 @@ Or let GitHub Action run it automatically.
 | 1327 | 2025-12-14 19:10:23 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1327_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1327_mteb-sts12-sts-readymade) |
 | 1328 | 2025-12-14 19:26:42 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_1328_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1328_shi-labs-oneformer_demo-readymade) |
 | 1329 | 2025-12-14 19:48:33 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_1329_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1329_open-thoughts-OpenThoughts-114k-readymade) |
+| 1330 | 2025-12-14 20:13:54 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_1330_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1330_ryanmarten-OpenThoughts-1k-sample-readymade) |
