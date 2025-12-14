@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1306 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | 2 cols · 500 rows | [edition_1306_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1306_ryanmarten-OpenThoughts-1k-sample-readymade) | 2025-12-14 |
+| #1307 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_1307_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1307_google-research-datasets-mbpp-readymade) | 2025-12-14 |
 ---
 
 ## 🎭 The Method
@@ -1390,3 +1390,4 @@ Or let GitHub Action run it automatically.
 | 1304 | 2025-12-14 06:49:59 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1304_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1304_mteb-sts12-sts-readymade) |
 | 1305 | 2025-12-14 07:13:38 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_1305_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1305_open-thoughts-OpenThoughts-114k-readymade) |
 | 1306 | 2025-12-14 07:40:31 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_1306_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1306_ryanmarten-OpenThoughts-1k-sample-readymade) |
+| 1307 | 2025-12-14 07:48:21 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_1307_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1307_google-research-datasets-mbpp-readymade) |
