@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1316 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_1316_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1316_shi-labs-oneformer_demo-readymade) | 2025-12-14 |
+| #1317 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_1317_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1317_mteb-sts12-sts-readymade) | 2025-12-14 |
 ---
 
 ## 🎭 The Method
@@ -1400,3 +1400,4 @@ Or let GitHub Action run it automatically.
 | 1314 | 2025-12-14 13:26:36 | [google/IFEval](https://huggingface.co/datasets/google/IFEval) | streamed (500 rows, 4 cols) | [edition_1314_google-IFEval-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1314_google-IFEval-readymade) |
 | 1315 | 2025-12-14 14:12:49 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_1315_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1315_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 1316 | 2025-12-14 14:33:16 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_1316_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1316_shi-labs-oneformer_demo-readymade) |
+| 1317 | 2025-12-14 14:48:53 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1317_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1317_mteb-sts12-sts-readymade) |
