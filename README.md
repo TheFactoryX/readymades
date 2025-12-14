@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1319 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_1319_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1319_shi-labs-oneformer_demo-readymade) | 2025-12-14 |
+| #1320 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_1320_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1320_shi-labs-oneformer_demo-readymade) | 2025-12-14 |
 ---
 
 ## 🎭 The Method
@@ -1403,3 +1403,4 @@ Or let GitHub Action run it automatically.
 | 1317 | 2025-12-14 14:48:53 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1317_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1317_mteb-sts12-sts-readymade) |
 | 1318 | 2025-12-14 15:12:42 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1318_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1318_tatsu-lab-alpaca-readymade) |
 | 1319 | 2025-12-14 15:32:29 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_1319_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1319_shi-labs-oneformer_demo-readymade) |
+| 1320 | 2025-12-14 15:48:51 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_1320_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1320_shi-labs-oneformer_demo-readymade) |
