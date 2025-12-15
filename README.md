@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1352 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | 2 cols · 500 rows | [edition_1352_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1352_cornell-movie-review-data-rotten_tomatoes-readymade) | 2025-12-15 |
+| #1353 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_1353_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1353_mteb-sts12-sts-readymade) | 2025-12-15 |
 ---
 
 ## 🎭 The Method
@@ -1436,3 +1436,4 @@ Or let GitHub Action run it automatically.
 | 1350 | 2025-12-15 17:21:25 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_1350_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1350_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 1351 | 2025-12-15 17:47:00 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_1351_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1351_google-research-datasets-mbpp-readymade) |
 | 1352 | 2025-12-15 18:38:45 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_1352_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1352_cornell-movie-review-data-rotten_tomatoes-readymade) |
+| 1353 | 2025-12-15 20:15:26 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1353_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1353_mteb-sts12-sts-readymade) |
