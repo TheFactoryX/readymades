@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1344 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | 10 cols · 32 rows | [edition_1344_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1344_lavita-medical-qa-shared-task-v1-toy-readymade) | 2025-12-15 |
+| #1345 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_1345_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1345_open-thoughts-OpenThoughts-114k-readymade) | 2025-12-15 |
 ---
 
 ## 🎭 The Method
@@ -1428,3 +1428,4 @@ Or let GitHub Action run it automatically.
 | 1342 | 2025-12-15 11:13:27 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_1342_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1342_jxcai-scale-hle-public-questions-readymade) |
 | 1343 | 2025-12-15 13:14:19 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_1343_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1343_google-research-datasets-mbpp-readymade) |
 | 1344 | 2025-12-15 14:17:50 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_1344_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1344_lavita-medical-qa-shared-task-v1-toy-readymade) |
+| 1345 | 2025-12-15 14:51:31 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_1345_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1345_open-thoughts-OpenThoughts-114k-readymade) |
