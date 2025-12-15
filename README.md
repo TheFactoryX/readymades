@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1354 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_1354_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1354_mteb-sts12-sts-readymade) | 2025-12-15 |
+| #1355 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_1355_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1355_jxcai-scale-hle-public-questions-readymade) | 2025-12-15 |
 ---
 
 ## 🎭 The Method
@@ -1438,3 +1438,4 @@ Or let GitHub Action run it automatically.
 | 1352 | 2025-12-15 18:38:45 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_1352_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1352_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 1353 | 2025-12-15 20:15:26 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1353_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1353_mteb-sts12-sts-readymade) |
 | 1354 | 2025-12-15 22:13:30 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1354_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1354_mteb-sts12-sts-readymade) |
+| 1355 | 2025-12-15 22:52:25 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_1355_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1355_jxcai-scale-hle-public-questions-readymade) |
