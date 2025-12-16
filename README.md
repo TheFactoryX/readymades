@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1382 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_1382_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1382_argilla-databricks-dolly-15k-curated-en-readymade) | 2025-12-16 |
+| #1383 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_1383_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1383_jxcai-scale-hle-public-questions-readymade) | 2025-12-16 |
 ---
 
 ## 🎭 The Method
@@ -1466,3 +1466,4 @@ Or let GitHub Action run it automatically.
 | 1380 | 2025-12-16 17:56:28 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1380_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1380_tatsu-lab-alpaca-readymade) |
 | 1381 | 2025-12-16 18:53:31 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_1381_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1381_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 1382 | 2025-12-16 19:44:08 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_1382_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1382_argilla-databricks-dolly-15k-curated-en-readymade) |
+| 1383 | 2025-12-16 20:16:33 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_1383_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1383_jxcai-scale-hle-public-questions-readymade) |
