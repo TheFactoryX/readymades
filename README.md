@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1391 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_1391_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1391_tatsu-lab-alpaca-readymade) | 2025-12-17 |
+| #1392 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | 10 cols · 32 rows | [edition_1392_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1392_lavita-medical-qa-shared-task-v1-toy-readymade) | 2025-12-17 |
 ---
 
 ## 🎭 The Method
@@ -1475,3 +1475,4 @@ Or let GitHub Action run it automatically.
 | 1389 | 2025-12-16 23:31:42 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1389_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1389_mteb-sts12-sts-readymade) |
 | 1390 | 2025-12-16 23:48:54 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_1390_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1390_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 1391 | 2025-12-17 02:46:11 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1391_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1391_tatsu-lab-alpaca-readymade) |
+| 1392 | 2025-12-17 03:51:37 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_1392_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1392_lavita-medical-qa-shared-task-v1-toy-readymade) |
