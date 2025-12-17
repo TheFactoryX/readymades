@@ -1,0 +1,35 @@
+{
+  "edition_number": 1406,
+  "exhibited": "2025-12-17 13:15:01 UTC",
+  "original": {
+    "name": "cadene/droid",
+    "url": "https://huggingface.co/datasets/cadene/droid",
+    "downloads": 55612,
+    "likes": 5,
+    "tags": [
+      "task_categories:robotics",
+      "language:en",
+      "license:apache-2.0",
+      "size_categories:10M<n<100M",
+      "modality:video",
+      "arxiv:2403.12945",
+      "region:us",
+      "LeRobot",
+      "openx"
+    ]
+  },
+  "process": {
+    "strategy": "popular",
+    "method": "streamed",
+    "rows": 500,
+    "columns": 7,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 166.498916
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_1406_cadene-droid-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_1406_cadene-droid-readymade"
+  }
+}
