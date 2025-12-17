@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1414 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_1414_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1414_shi-labs-oneformer_demo-readymade) | 2025-12-17 |
+| #1415 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_1415_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1415_jxcai-scale-hle-public-questions-readymade) | 2025-12-17 |
 ---
 
 ## 🎭 The Method
@@ -1498,3 +1498,4 @@ Or let GitHub Action run it automatically.
 | 1412 | 2025-12-17 17:55:12 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1412_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1412_mteb-sts12-sts-readymade) |
 | 1413 | 2025-12-17 18:20:47 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_1413_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1413_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 1414 | 2025-12-17 18:53:39 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_1414_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1414_shi-labs-oneformer_demo-readymade) |
+| 1415 | 2025-12-17 19:31:23 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_1415_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1415_jxcai-scale-hle-public-questions-readymade) |
