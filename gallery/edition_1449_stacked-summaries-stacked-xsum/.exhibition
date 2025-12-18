@@ -1,0 +1,41 @@
+{
+  "edition_number": 1449,
+  "exhibited": "2025-12-18 20:14:36 UTC",
+  "original": {
+    "name": "stacked-summaries/stacked-xsum",
+    "url": "https://huggingface.co/datasets/stacked-summaries/stacked-xsum",
+    "downloads": 39555,
+    "likes": 2,
+    "tags": [
+      "task_categories:summarization",
+      "source_datasets:xsum",
+      "language:en",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:csv",
+      "modality:tabular",
+      "modality:text",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "doi:10.57967/hf/0269",
+      "region:us",
+      "stacked summaries"
+    ]
+  },
+  "process": {
+    "strategy": "popular_backup",
+    "method": "streamed",
+    "rows": 500,
+    "columns": 6,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 14.005801
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_1449_stacked-summaries-stacked-xsum-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_1449_stacked-summaries-stacked-xsum-readymade"
+  }
+}

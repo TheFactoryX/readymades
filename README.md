@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1448 | [stacked-summaries/stacked-xsum](https://huggingface.co/datasets/stacked-summaries/stacked-xsum) | 6 cols · 500 rows | [edition_1448_stacked-summaries-stacked-xsum-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1448_stacked-summaries-stacked-xsum-readymade) | 2025-12-18 |
+| #1449 | [stacked-summaries/stacked-xsum](https://huggingface.co/datasets/stacked-summaries/stacked-xsum) | 6 cols · 500 rows | [edition_1449_stacked-summaries-stacked-xsum-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1449_stacked-summaries-stacked-xsum-readymade) | 2025-12-18 |
 ---
 
 ## 🎭 The Method
@@ -1532,3 +1532,4 @@ Or let GitHub Action run it automatically.
 | 1446 | 2025-12-18 19:27:58 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1446_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1446_tatsu-lab-alpaca-readymade) |
 | 1447 | 2025-12-18 19:35:30 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_1447_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1447_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 1448 | 2025-12-18 19:50:43 | [stacked-summaries/stacked-xsum](https://huggingface.co/datasets/stacked-summaries/stacked-xsum) | streamed (500 rows, 6 cols) | [edition_1448_stacked-summaries-stacked-xsum-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1448_stacked-summaries-stacked-xsum-readymade) |
+| 1449 | 2025-12-18 20:14:36 | [stacked-summaries/stacked-xsum](https://huggingface.co/datasets/stacked-summaries/stacked-xsum) | streamed (500 rows, 6 cols) | [edition_1449_stacked-summaries-stacked-xsum-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1449_stacked-summaries-stacked-xsum-readymade) |
