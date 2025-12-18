@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1433 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | 2 cols · 500 rows | [edition_1433_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1433_ryanmarten-OpenThoughts-1k-sample-readymade) | 2025-12-18 |
+| #1434 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_1434_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1434_jxcai-scale-hle-public-questions-readymade) | 2025-12-18 |
 ---
 
 ## 🎭 The Method
@@ -1517,3 +1517,4 @@ Or let GitHub Action run it automatically.
 | 1431 | 2025-12-18 09:46:49 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_1431_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1431_google-research-datasets-mbpp-readymade) |
 | 1432 | 2025-12-18 10:42:56 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_1432_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1432_open-thoughts-OpenThoughts-114k-readymade) |
 | 1433 | 2025-12-18 10:55:28 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_1433_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1433_ryanmarten-OpenThoughts-1k-sample-readymade) |
+| 1434 | 2025-12-18 11:43:46 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_1434_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1434_jxcai-scale-hle-public-questions-readymade) |
