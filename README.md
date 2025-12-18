@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1437 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_1437_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1437_argilla-databricks-dolly-15k-curated-en-readymade) | 2025-12-18 |
+| #1438 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | 2 cols · 500 rows | [edition_1438_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1438_ryanmarten-OpenThoughts-1k-sample-readymade) | 2025-12-18 |
 ---
 
 ## 🎭 The Method
@@ -1521,3 +1521,4 @@ Or let GitHub Action run it automatically.
 | 1435 | 2025-12-18 12:25:59 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1435_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1435_tatsu-lab-alpaca-readymade) |
 | 1436 | 2025-12-18 14:00:45 | [stacked-summaries/stacked-xsum](https://huggingface.co/datasets/stacked-summaries/stacked-xsum) | streamed (500 rows, 6 cols) | [edition_1436_stacked-summaries-stacked-xsum-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1436_stacked-summaries-stacked-xsum-readymade) |
 | 1437 | 2025-12-18 14:43:09 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_1437_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1437_argilla-databricks-dolly-15k-curated-en-readymade) |
+| 1438 | 2025-12-18 14:57:30 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_1438_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1438_ryanmarten-OpenThoughts-1k-sample-readymade) |
