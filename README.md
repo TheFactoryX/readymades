@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1424 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_1424_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1424_tatsu-lab-alpaca-readymade) | 2025-12-18 |
+| #1425 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_1425_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1425_jxcai-scale-hle-public-questions-readymade) | 2025-12-18 |
 ---
 
 ## 🎭 The Method
@@ -1508,3 +1508,4 @@ Or let GitHub Action run it automatically.
 | 1422 | 2025-12-17 23:32:06 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_1422_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1422_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 1423 | 2025-12-17 23:50:44 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_1423_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1423_shi-labs-oneformer_demo-readymade) |
 | 1424 | 2025-12-18 00:57:17 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1424_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1424_tatsu-lab-alpaca-readymade) |
+| 1425 | 2025-12-18 04:27:55 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_1425_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1425_jxcai-scale-hle-public-questions-readymade) |
