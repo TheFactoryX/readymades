@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1446 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_1446_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1446_tatsu-lab-alpaca-readymade) | 2025-12-18 |
+| #1447 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | 10 cols · 32 rows | [edition_1447_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1447_lavita-medical-qa-shared-task-v1-toy-readymade) | 2025-12-18 |
 ---
 
 ## 🎭 The Method
@@ -1530,3 +1530,4 @@ Or let GitHub Action run it automatically.
 | 1444 | 2025-12-18 18:53:02 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_1444_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1444_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 1445 | 2025-12-18 19:13:38 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_1445_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1445_jxcai-scale-hle-public-questions-readymade) |
 | 1446 | 2025-12-18 19:27:58 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1446_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1446_tatsu-lab-alpaca-readymade) |
+| 1447 | 2025-12-18 19:35:30 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_1447_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1447_lavita-medical-qa-shared-task-v1-toy-readymade) |
