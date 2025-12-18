@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1435 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_1435_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1435_tatsu-lab-alpaca-readymade) | 2025-12-18 |
+| #1436 | [stacked-summaries/stacked-xsum](https://huggingface.co/datasets/stacked-summaries/stacked-xsum) | 6 cols · 500 rows | [edition_1436_stacked-summaries-stacked-xsum-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1436_stacked-summaries-stacked-xsum-readymade) | 2025-12-18 |
 ---
 
 ## 🎭 The Method
@@ -1519,3 +1519,4 @@ Or let GitHub Action run it automatically.
 | 1433 | 2025-12-18 10:55:28 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_1433_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1433_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 1434 | 2025-12-18 11:43:46 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_1434_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1434_jxcai-scale-hle-public-questions-readymade) |
 | 1435 | 2025-12-18 12:25:59 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1435_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1435_tatsu-lab-alpaca-readymade) |
+| 1436 | 2025-12-18 14:00:45 | [stacked-summaries/stacked-xsum](https://huggingface.co/datasets/stacked-summaries/stacked-xsum) | streamed (500 rows, 6 cols) | [edition_1436_stacked-summaries-stacked-xsum-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1436_stacked-summaries-stacked-xsum-readymade) |
