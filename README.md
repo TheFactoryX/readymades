@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1463 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_1463_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1463_mteb-sts12-sts-readymade) | 2025-12-19 |
+| #1464 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | 2 cols · 500 rows | [edition_1464_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1464_ryanmarten-OpenThoughts-1k-sample-readymade) | 2025-12-19 |
 ---
 
 ## 🎭 The Method
@@ -1547,3 +1547,4 @@ Or let GitHub Action run it automatically.
 | 1461 | 2025-12-19 04:53:43 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_1461_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1461_google-research-datasets-mbpp-readymade) |
 | 1462 | 2025-12-19 05:39:02 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_1462_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1462_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 1463 | 2025-12-19 05:53:05 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1463_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1463_mteb-sts12-sts-readymade) |
+| 1464 | 2025-12-19 07:16:19 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_1464_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1464_ryanmarten-OpenThoughts-1k-sample-readymade) |
