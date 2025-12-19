@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1485 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_1485_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1485_tatsu-lab-alpaca-readymade) | 2025-12-19 |
+| #1486 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_1486_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1486_tatsu-lab-alpaca-readymade) | 2025-12-19 |
 ---
 
 ## 🎭 The Method
@@ -1569,3 +1569,4 @@ Or let GitHub Action run it automatically.
 | 1483 | 2025-12-19 18:19:17 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_1483_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1483_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 1484 | 2025-12-19 19:48:17 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_1484_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1484_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 1485 | 2025-12-19 20:14:48 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1485_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1485_tatsu-lab-alpaca-readymade) |
+| 1486 | 2025-12-19 20:36:51 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1486_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1486_tatsu-lab-alpaca-readymade) |
