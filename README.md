@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1497 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | 2 cols · 500 rows | [edition_1497_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1497_cornell-movie-review-data-rotten_tomatoes-readymade) | 2025-12-20 |
+| #1498 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_1498_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1498_argilla-databricks-dolly-15k-curated-en-readymade) | 2025-12-20 |
 ---
 
 ## 🎭 The Method
@@ -1581,3 +1581,4 @@ Or let GitHub Action run it automatically.
 | 1495 | 2025-12-20 05:53:30 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_1495_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1495_google-research-datasets-mbpp-readymade) |
 | 1496 | 2025-12-20 06:20:45 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_1496_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1496_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 1497 | 2025-12-20 07:13:09 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_1497_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1497_cornell-movie-review-data-rotten_tomatoes-readymade) |
+| 1498 | 2025-12-20 07:29:34 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_1498_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1498_argilla-databricks-dolly-15k-curated-en-readymade) |
