@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1527 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_1527_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1527_mteb-sts12-sts-readymade) | 2025-12-20 |
+| #1528 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | 2 cols · 500 rows | [edition_1528_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1528_ryanmarten-OpenThoughts-1k-sample-readymade) | 2025-12-20 |
 ---
 
 ## 🎭 The Method
@@ -1611,3 +1611,4 @@ Or let GitHub Action run it automatically.
 | 1525 | 2025-12-20 22:48:31 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_1525_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1525_jxcai-scale-hle-public-questions-readymade) |
 | 1526 | 2025-12-20 23:13:12 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_1526_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1526_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 1527 | 2025-12-20 23:30:08 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1527_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1527_mteb-sts12-sts-readymade) |
+| 1528 | 2025-12-20 23:40:24 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_1528_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1528_ryanmarten-OpenThoughts-1k-sample-readymade) |
