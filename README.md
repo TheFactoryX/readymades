@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1517 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_1517_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1517_mteb-sts12-sts-readymade) | 2025-12-20 |
+| #1518 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_1518_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1518_shi-labs-oneformer_demo-readymade) | 2025-12-20 |
 ---
 
 ## 🎭 The Method
@@ -1601,3 +1601,4 @@ Or let GitHub Action run it automatically.
 | 1515 | 2025-12-20 17:30:15 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (179 rows, 9 cols) | [edition_1515_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1515_gradio-custom-component-gallery-backups-readymade) |
 | 1516 | 2025-12-20 18:16:55 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_1516_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1516_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 1517 | 2025-12-20 18:55:31 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1517_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1517_mteb-sts12-sts-readymade) |
+| 1518 | 2025-12-20 19:48:23 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_1518_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1518_shi-labs-oneformer_demo-readymade) |
