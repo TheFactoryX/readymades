@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1498 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_1498_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1498_argilla-databricks-dolly-15k-curated-en-readymade) | 2025-12-20 |
+| #1499 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | 9 cols · 178 rows | [edition_1499_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1499_gradio-custom-component-gallery-backups-readymade) | 2025-12-20 |
 ---
 
 ## 🎭 The Method
@@ -1582,3 +1582,4 @@ Or let GitHub Action run it automatically.
 | 1496 | 2025-12-20 06:20:45 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_1496_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1496_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 1497 | 2025-12-20 07:13:09 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_1497_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1497_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 1498 | 2025-12-20 07:29:34 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_1498_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1498_argilla-databricks-dolly-15k-curated-en-readymade) |
+| 1499 | 2025-12-20 07:48:10 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (178 rows, 9 cols) | [edition_1499_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1499_gradio-custom-component-gallery-backups-readymade) |
