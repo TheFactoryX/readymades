@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1562 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_1562_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1562_google-research-datasets-mbpp-readymade) | 2025-12-21 |
+| #1563 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_1563_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1563_mteb-sts12-sts-readymade) | 2025-12-21 |
 ---
 
 ## 🎭 The Method
@@ -1646,3 +1646,4 @@ Or let GitHub Action run it automatically.
 | 1560 | 2025-12-21 22:12:40 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_1560_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1560_open-thoughts-OpenThoughts-114k-readymade) |
 | 1561 | 2025-12-21 22:34:11 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_1561_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1561_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 1562 | 2025-12-21 22:51:26 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_1562_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1562_google-research-datasets-mbpp-readymade) |
+| 1563 | 2025-12-21 23:30:41 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1563_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1563_mteb-sts12-sts-readymade) |
