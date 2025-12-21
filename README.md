@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1531 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | 2 cols · 500 rows | [edition_1531_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1531_cornell-movie-review-data-rotten_tomatoes-readymade) | 2025-12-21 |
+| #1532 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_1532_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1532_tatsu-lab-alpaca-readymade) | 2025-12-21 |
 ---
 
 ## 🎭 The Method
@@ -1615,3 +1615,4 @@ Or let GitHub Action run it automatically.
 | 1529 | 2025-12-20 23:48:06 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_1529_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1529_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 1530 | 2025-12-21 01:04:52 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (179 rows, 9 cols) | [edition_1530_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1530_gradio-custom-component-gallery-backups-readymade) |
 | 1531 | 2025-12-21 04:08:27 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_1531_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1531_cornell-movie-review-data-rotten_tomatoes-readymade) |
+| 1532 | 2025-12-21 05:14:52 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1532_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1532_tatsu-lab-alpaca-readymade) |
