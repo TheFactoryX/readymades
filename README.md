@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1552 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_1552_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1552_open-thoughts-OpenThoughts-114k-readymade) | 2025-12-21 |
+| #1553 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_1553_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1553_mteb-sts12-sts-readymade) | 2025-12-21 |
 ---
 
 ## 🎭 The Method
@@ -1636,3 +1636,4 @@ Or let GitHub Action run it automatically.
 | 1550 | 2025-12-21 16:53:32 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_1550_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1550_open-thoughts-OpenThoughts-114k-readymade) |
 | 1551 | 2025-12-21 17:11:08 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_1551_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1551_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 1552 | 2025-12-21 17:30:36 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_1552_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1552_open-thoughts-OpenThoughts-114k-readymade) |
+| 1553 | 2025-12-21 17:49:41 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1553_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1553_mteb-sts12-sts-readymade) |
