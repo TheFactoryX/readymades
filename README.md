@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1581 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_1581_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1581_shi-labs-oneformer_demo-readymade) | 2025-12-22 |
+| #1582 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | 10 cols · 32 rows | [edition_1582_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1582_lavita-medical-qa-shared-task-v1-toy-readymade) | 2025-12-22 |
 ---
 
 ## 🎭 The Method
@@ -1665,3 +1665,4 @@ Or let GitHub Action run it automatically.
 | 1579 | 2025-12-22 13:09:32 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_1579_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1579_open-thoughts-OpenThoughts-114k-readymade) |
 | 1580 | 2025-12-22 13:46:47 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_1580_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1580_google-research-datasets-mbpp-readymade) |
 | 1581 | 2025-12-22 14:14:13 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_1581_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1581_shi-labs-oneformer_demo-readymade) |
+| 1582 | 2025-12-22 14:52:55 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_1582_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1582_lavita-medical-qa-shared-task-v1-toy-readymade) |
