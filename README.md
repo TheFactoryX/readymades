@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1594 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_1594_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1594_mteb-sts12-sts-readymade) | 2025-12-22 |
+| #1595 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_1595_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1595_argilla-databricks-dolly-15k-curated-en-readymade) | 2025-12-22 |
 ---
 
 ## 🎭 The Method
@@ -1678,3 +1678,4 @@ Or let GitHub Action run it automatically.
 | 1592 | 2025-12-22 21:30:58 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1592_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1592_mteb-sts12-sts-readymade) |
 | 1593 | 2025-12-22 21:42:23 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_1593_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1593_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 1594 | 2025-12-22 21:51:37 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1594_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1594_mteb-sts12-sts-readymade) |
+| 1595 | 2025-12-22 22:13:41 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_1595_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1595_argilla-databricks-dolly-15k-curated-en-readymade) |
