@@ -1,0 +1,41 @@
+{
+  "edition_number": 1575,
+  "exhibited": "2025-12-22 11:12:41 UTC",
+  "original": {
+    "name": "SimpleStories/SimpleStories",
+    "url": "https://huggingface.co/datasets/SimpleStories/SimpleStories",
+    "downloads": 40969,
+    "likes": 22,
+    "tags": [
+      "task_categories:text-generation",
+      "language:en",
+      "license:mit",
+      "size_categories:1M<n<10M",
+      "format:parquet",
+      "modality:tabular",
+      "modality:text",
+      "library:datasets",
+      "library:dask",
+      "library:mlcroissant",
+      "library:polars",
+      "arxiv:2504.09184",
+      "region:us",
+      "NLP",
+      "Distillation"
+    ]
+  },
+  "process": {
+    "strategy": "popular_backup",
+    "method": "streamed",
+    "rows": 500,
+    "columns": 21,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 3.135894
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_1575_SimpleStories-SimpleStories-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_1575_SimpleStories-SimpleStories-readymade"
+  }
+}
