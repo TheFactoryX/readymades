@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1569 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_1569_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1569_argilla-databricks-dolly-15k-curated-en-readymade) | 2025-12-22 |
+| #1570 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_1570_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1570_mteb-sts12-sts-readymade) | 2025-12-22 |
 ---
 
 ## 🎭 The Method
@@ -1653,3 +1653,4 @@ Or let GitHub Action run it automatically.
 | 1567 | 2025-12-22 06:24:03 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_1567_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1567_shi-labs-oneformer_demo-readymade) |
 | 1568 | 2025-12-22 07:18:40 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (179 rows, 9 cols) | [edition_1568_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1568_gradio-custom-component-gallery-backups-readymade) |
 | 1569 | 2025-12-22 07:43:14 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_1569_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1569_argilla-databricks-dolly-15k-curated-en-readymade) |
+| 1570 | 2025-12-22 08:20:29 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1570_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1570_mteb-sts12-sts-readymade) |
