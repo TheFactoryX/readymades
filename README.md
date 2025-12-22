@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1591 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | 2 cols · 500 rows | [edition_1591_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1591_cornell-movie-review-data-rotten_tomatoes-readymade) | 2025-12-22 |
+| #1592 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_1592_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1592_mteb-sts12-sts-readymade) | 2025-12-22 |
 ---
 
 ## 🎭 The Method
@@ -1675,3 +1675,4 @@ Or let GitHub Action run it automatically.
 | 1589 | 2025-12-22 19:48:50 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1589_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1589_mteb-sts12-sts-readymade) |
 | 1590 | 2025-12-22 20:15:02 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_1590_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1590_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 1591 | 2025-12-22 20:53:12 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_1591_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1591_cornell-movie-review-data-rotten_tomatoes-readymade) |
+| 1592 | 2025-12-22 21:30:58 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1592_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1592_mteb-sts12-sts-readymade) |
