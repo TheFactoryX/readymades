@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1616 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | 9 cols · 179 rows | [edition_1616_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1616_gradio-custom-component-gallery-backups-readymade) | 2025-12-23 |
+| #1617 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_1617_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1617_google-research-datasets-mbpp-readymade) | 2025-12-23 |
 ---
 
 ## 🎭 The Method
@@ -1700,3 +1700,4 @@ Or let GitHub Action run it automatically.
 | 1614 | 2025-12-23 14:14:01 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_1614_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1614_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 1615 | 2025-12-23 14:38:15 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (179 rows, 9 cols) | [edition_1615_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1615_gradio-custom-component-gallery-backups-readymade) |
 | 1616 | 2025-12-23 14:54:25 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (179 rows, 9 cols) | [edition_1616_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1616_gradio-custom-component-gallery-backups-readymade) |
+| 1617 | 2025-12-23 15:19:31 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_1617_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1617_google-research-datasets-mbpp-readymade) |
