@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1602 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | 10 cols · 32 rows | [edition_1602_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1602_lavita-medical-qa-shared-task-v1-toy-readymade) | 2025-12-23 |
+| #1603 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_1603_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1603_shi-labs-oneformer_demo-readymade) | 2025-12-23 |
 ---
 
 ## 🎭 The Method
@@ -1686,3 +1686,4 @@ Or let GitHub Action run it automatically.
 | 1600 | 2025-12-23 01:00:33 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (179 rows, 9 cols) | [edition_1600_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1600_gradio-custom-component-gallery-backups-readymade) |
 | 1601 | 2025-12-23 03:57:46 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_1601_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1601_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 1602 | 2025-12-23 04:57:34 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_1602_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1602_lavita-medical-qa-shared-task-v1-toy-readymade) |
+| 1603 | 2025-12-23 05:01:59 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_1603_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1603_shi-labs-oneformer_demo-readymade) |
