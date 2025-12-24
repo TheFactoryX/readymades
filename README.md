@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1668 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_1668_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1668_google-research-datasets-mbpp-readymade) | 2025-12-24 |
+| #1669 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_1669_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1669_mteb-sts12-sts-readymade) | 2025-12-24 |
 ---
 
 ## 🎭 The Method
@@ -1752,3 +1752,4 @@ Or let GitHub Action run it automatically.
 | 1666 | 2025-12-24 21:12:19 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_1666_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1666_open-thoughts-OpenThoughts-114k-readymade) |
 | 1667 | 2025-12-24 21:30:43 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (179 rows, 9 cols) | [edition_1667_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1667_gradio-custom-component-gallery-backups-readymade) |
 | 1668 | 2025-12-24 21:48:26 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_1668_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1668_google-research-datasets-mbpp-readymade) |
+| 1669 | 2025-12-24 22:14:41 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1669_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1669_mteb-sts12-sts-readymade) |
