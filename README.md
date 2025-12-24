@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1654 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_1654_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1654_argilla-databricks-dolly-15k-curated-en-readymade) | 2025-12-24 |
+| #1655 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | 9 cols · 179 rows | [edition_1655_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1655_gradio-custom-component-gallery-backups-readymade) | 2025-12-24 |
 ---
 
 ## 🎭 The Method
@@ -1738,3 +1738,4 @@ Or let GitHub Action run it automatically.
 | 1652 | 2025-12-24 11:41:32 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1652_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1652_tatsu-lab-alpaca-readymade) |
 | 1653 | 2025-12-24 11:48:40 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_1653_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1653_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 1654 | 2025-12-24 13:44:01 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_1654_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1654_argilla-databricks-dolly-15k-curated-en-readymade) |
+| 1655 | 2025-12-24 14:35:14 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (179 rows, 9 cols) | [edition_1655_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1655_gradio-custom-component-gallery-backups-readymade) |
