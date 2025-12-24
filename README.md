@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1639 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | 9 cols · 179 rows | [edition_1639_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1639_gradio-custom-component-gallery-backups-readymade) | 2025-12-24 |
+| #1640 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_1640_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1640_mteb-sts12-sts-readymade) | 2025-12-24 |
 ---
 
 ## 🎭 The Method
@@ -1723,3 +1723,4 @@ Or let GitHub Action run it automatically.
 | 1637 | 2025-12-24 03:55:31 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_1637_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1637_google-research-datasets-mbpp-readymade) |
 | 1638 | 2025-12-24 05:46:06 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_1638_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1638_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 1639 | 2025-12-24 05:55:47 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (179 rows, 9 cols) | [edition_1639_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1639_gradio-custom-component-gallery-backups-readymade) |
+| 1640 | 2025-12-24 06:21:55 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1640_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1640_mteb-sts12-sts-readymade) |
