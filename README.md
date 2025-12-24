@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1651 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_1651_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1651_jxcai-scale-hle-public-questions-readymade) | 2025-12-24 |
+| #1652 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_1652_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1652_tatsu-lab-alpaca-readymade) | 2025-12-24 |
 ---
 
 ## 🎭 The Method
@@ -1735,3 +1735,4 @@ Or let GitHub Action run it automatically.
 | 1649 | 2025-12-24 10:53:46 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_1649_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1649_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 1650 | 2025-12-24 11:13:00 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_1650_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1650_google-research-datasets-mbpp-readymade) |
 | 1651 | 2025-12-24 11:30:10 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_1651_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1651_jxcai-scale-hle-public-questions-readymade) |
+| 1652 | 2025-12-24 11:41:32 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1652_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1652_tatsu-lab-alpaca-readymade) |
