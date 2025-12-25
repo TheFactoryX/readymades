@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1675 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_1675_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1675_open-thoughts-OpenThoughts-114k-readymade) | 2025-12-25 |
+| #1676 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_1676_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1676_open-thoughts-OpenThoughts-114k-readymade) | 2025-12-25 |
 ---
 
 ## 🎭 The Method
@@ -1759,3 +1759,4 @@ Or let GitHub Action run it automatically.
 | 1673 | 2025-12-24 23:31:40 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_1673_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1673_shi-labs-oneformer_demo-readymade) |
 | 1674 | 2025-12-25 00:12:09 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_1674_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1674_jxcai-scale-hle-public-questions-readymade) |
 | 1675 | 2025-12-25 01:01:18 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_1675_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1675_open-thoughts-OpenThoughts-114k-readymade) |
+| 1676 | 2025-12-25 03:58:04 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_1676_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1676_open-thoughts-OpenThoughts-114k-readymade) |
