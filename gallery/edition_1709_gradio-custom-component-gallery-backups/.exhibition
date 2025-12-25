@@ -1,0 +1,35 @@
+{
+  "edition_number": 1709,
+  "exhibited": "2025-12-25 22:52:05 UTC",
+  "original": {
+    "name": "gradio/custom-component-gallery-backups",
+    "url": "https://huggingface.co/datasets/gradio/custom-component-gallery-backups",
+    "downloads": 117896,
+    "likes": 3,
+    "tags": [
+      "license:mit",
+      "size_categories:n<1K",
+      "format:json",
+      "modality:text",
+      "library:datasets",
+      "library:pandas",
+      "library:polars",
+      "library:mlcroissant",
+      "region:us"
+    ]
+  },
+  "process": {
+    "strategy": "popular_backup",
+    "method": "streamed",
+    "rows": 179,
+    "columns": 9,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 1.957322
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_1709_gradio-custom-component-gallery-backups-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_1709_gradio-custom-component-gallery-backups-readymade"
+  }
+}
