@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1680 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_1680_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1680_open-thoughts-OpenThoughts-114k-readymade) | 2025-12-25 |
+| #1681 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_1681_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1681_mteb-sts12-sts-readymade) | 2025-12-25 |
 ---
 
 ## 🎭 The Method
@@ -1764,3 +1764,4 @@ Or let GitHub Action run it automatically.
 | 1678 | 2025-12-25 05:53:30 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_1678_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1678_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 1679 | 2025-12-25 06:21:07 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_1679_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1679_open-thoughts-OpenThoughts-114k-readymade) |
 | 1680 | 2025-12-25 07:16:23 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_1680_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1680_open-thoughts-OpenThoughts-114k-readymade) |
+| 1681 | 2025-12-25 07:40:55 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1681_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1681_mteb-sts12-sts-readymade) |
