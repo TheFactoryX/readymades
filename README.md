@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1732 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_1732_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1732_mteb-sts12-sts-readymade) | 2025-12-26 |
+| #1733 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | 9 cols · 179 rows | [edition_1733_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1733_gradio-custom-component-gallery-backups-readymade) | 2025-12-26 |
 ---
 
 ## 🎭 The Method
@@ -1816,3 +1816,4 @@ Or let GitHub Action run it automatically.
 | 1730 | 2025-12-26 13:44:49 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_1730_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1730_shi-labs-oneformer_demo-readymade) |
 | 1731 | 2025-12-26 13:56:25 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_1731_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1731_open-thoughts-OpenThoughts-114k-readymade) |
 | 1732 | 2025-12-26 14:35:45 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1732_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1732_mteb-sts12-sts-readymade) |
+| 1733 | 2025-12-26 14:53:48 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (179 rows, 9 cols) | [edition_1733_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1733_gradio-custom-component-gallery-backups-readymade) |
