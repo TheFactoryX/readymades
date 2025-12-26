@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1738 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_1738_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1738_shi-labs-oneformer_demo-readymade) | 2025-12-26 |
+| #1739 | [Skylion007/openwebtext](https://huggingface.co/datasets/Skylion007/openwebtext) | 1 cols · 500 rows | [edition_1739_Skylion007-openwebtext-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1739_Skylion007-openwebtext-readymade) | 2025-12-26 |
 ---
 
 ## 🎭 The Method
@@ -1822,3 +1822,4 @@ Or let GitHub Action run it automatically.
 | 1736 | 2025-12-26 16:55:08 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_1736_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1736_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 1737 | 2025-12-26 17:12:46 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_1737_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1737_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 1738 | 2025-12-26 17:31:57 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_1738_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1738_shi-labs-oneformer_demo-readymade) |
+| 1739 | 2025-12-26 17:48:31 | [Skylion007/openwebtext](https://huggingface.co/datasets/Skylion007/openwebtext) | streamed (500 rows, 1 cols) | [edition_1739_Skylion007-openwebtext-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1739_Skylion007-openwebtext-readymade) |
