@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1742 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_1742_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1742_jxcai-scale-hle-public-questions-readymade) | 2025-12-26 |
+| #1743 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_1743_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1743_tatsu-lab-alpaca-readymade) | 2025-12-26 |
 ---
 
 ## 🎭 The Method
@@ -1826,3 +1826,4 @@ Or let GitHub Action run it automatically.
 | 1740 | 2025-12-26 18:18:56 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_1740_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1740_jxcai-scale-hle-public-questions-readymade) |
 | 1741 | 2025-12-26 19:26:59 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_1741_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1741_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 1742 | 2025-12-26 19:35:54 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_1742_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1742_jxcai-scale-hle-public-questions-readymade) |
+| 1743 | 2025-12-26 19:48:23 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1743_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1743_tatsu-lab-alpaca-readymade) |
