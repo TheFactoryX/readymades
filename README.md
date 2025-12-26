@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1751 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | 2 cols · 500 rows | [edition_1751_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1751_ryanmarten-OpenThoughts-1k-sample-readymade) | 2025-12-26 |
+| #1752 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_1752_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1752_mteb-sts12-sts-readymade) | 2025-12-26 |
 ---
 
 ## 🎭 The Method
@@ -1835,3 +1835,4 @@ Or let GitHub Action run it automatically.
 | 1749 | 2025-12-26 21:49:05 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_1749_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1749_shi-labs-oneformer_demo-readymade) |
 | 1750 | 2025-12-26 22:13:52 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1750_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1750_tatsu-lab-alpaca-readymade) |
 | 1751 | 2025-12-26 23:15:10 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_1751_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1751_ryanmarten-OpenThoughts-1k-sample-readymade) |
+| 1752 | 2025-12-26 23:49:49 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1752_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1752_mteb-sts12-sts-readymade) |
