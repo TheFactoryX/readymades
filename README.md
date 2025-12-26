@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1729 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_1729_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1729_argilla-databricks-dolly-15k-curated-en-readymade) | 2025-12-26 |
+| #1730 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_1730_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1730_shi-labs-oneformer_demo-readymade) | 2025-12-26 |
 ---
 
 ## 🎭 The Method
@@ -1813,3 +1813,4 @@ Or let GitHub Action run it automatically.
 | 1727 | 2025-12-26 11:50:07 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1727_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1727_tatsu-lab-alpaca-readymade) |
 | 1728 | 2025-12-26 12:24:56 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1728_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1728_mteb-sts12-sts-readymade) |
 | 1729 | 2025-12-26 13:08:04 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_1729_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1729_argilla-databricks-dolly-15k-curated-en-readymade) |
+| 1730 | 2025-12-26 13:44:49 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_1730_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1730_shi-labs-oneformer_demo-readymade) |
