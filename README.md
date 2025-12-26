@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1736 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | 2 cols · 500 rows | [edition_1736_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1736_cornell-movie-review-data-rotten_tomatoes-readymade) | 2025-12-26 |
+| #1737 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | 10 cols · 32 rows | [edition_1737_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1737_lavita-medical-qa-shared-task-v1-toy-readymade) | 2025-12-26 |
 ---
 
 ## 🎭 The Method
@@ -1820,3 +1820,4 @@ Or let GitHub Action run it automatically.
 | 1734 | 2025-12-26 15:35:02 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_1734_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1734_shi-labs-oneformer_demo-readymade) |
 | 1735 | 2025-12-26 16:15:25 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_1735_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1735_jxcai-scale-hle-public-questions-readymade) |
 | 1736 | 2025-12-26 16:55:08 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_1736_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1736_cornell-movie-review-data-rotten_tomatoes-readymade) |
+| 1737 | 2025-12-26 17:12:46 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_1737_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1737_lavita-medical-qa-shared-task-v1-toy-readymade) |
