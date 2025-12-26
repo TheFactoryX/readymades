@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1744 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_1744_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1744_mteb-sts12-sts-readymade) | 2025-12-26 |
+| #1745 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_1745_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1745_google-research-datasets-mbpp-readymade) | 2025-12-26 |
 ---
 
 ## 🎭 The Method
@@ -1828,3 +1828,4 @@ Or let GitHub Action run it automatically.
 | 1742 | 2025-12-26 19:35:54 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_1742_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1742_jxcai-scale-hle-public-questions-readymade) |
 | 1743 | 2025-12-26 19:48:23 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1743_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1743_tatsu-lab-alpaca-readymade) |
 | 1744 | 2025-12-26 20:14:09 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1744_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1744_mteb-sts12-sts-readymade) |
+| 1745 | 2025-12-26 20:51:33 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_1745_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1745_google-research-datasets-mbpp-readymade) |
