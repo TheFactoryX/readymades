@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1781 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | 2 cols · 500 rows | [edition_1781_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1781_ryanmarten-OpenThoughts-1k-sample-readymade) | 2025-12-27 |
+| #1782 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | 2 cols · 500 rows | [edition_1782_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1782_ryanmarten-OpenThoughts-1k-sample-readymade) | 2025-12-27 |
 ---
 
 ## 🎭 The Method
@@ -1865,3 +1865,4 @@ Or let GitHub Action run it automatically.
 | 1779 | 2025-12-27 20:35:57 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (179 rows, 9 cols) | [edition_1779_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1779_gradio-custom-component-gallery-backups-readymade) |
 | 1780 | 2025-12-27 21:05:43 | [InternRobotics/InternData-BridgeV2](https://huggingface.co/datasets/InternRobotics/InternData-BridgeV2) | streamed (500 rows, 11 cols) | [edition_1780_InternRobotics-InternData-BridgeV2-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1780_InternRobotics-InternData-BridgeV2-readymade) |
 | 1781 | 2025-12-27 21:11:13 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_1781_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1781_ryanmarten-OpenThoughts-1k-sample-readymade) |
+| 1782 | 2025-12-27 21:39:51 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_1782_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1782_ryanmarten-OpenThoughts-1k-sample-readymade) |
