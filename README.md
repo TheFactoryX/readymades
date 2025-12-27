@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1774 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_1774_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1774_tatsu-lab-alpaca-readymade) | 2025-12-27 |
+| #1775 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | 2 cols · 500 rows | [edition_1775_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1775_ryanmarten-OpenThoughts-1k-sample-readymade) | 2025-12-27 |
 ---
 
 ## 🎭 The Method
@@ -1858,3 +1858,4 @@ Or let GitHub Action run it automatically.
 | 1772 | 2025-12-27 15:31:37 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_1772_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1772_jxcai-scale-hle-public-questions-readymade) |
 | 1773 | 2025-12-27 16:15:09 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_1773_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1773_open-thoughts-OpenThoughts-114k-readymade) |
 | 1774 | 2025-12-27 16:40:05 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1774_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1774_tatsu-lab-alpaca-readymade) |
+| 1775 | 2025-12-27 17:11:55 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_1775_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1775_ryanmarten-OpenThoughts-1k-sample-readymade) |
