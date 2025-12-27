@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1763 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_1763_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1763_mteb-sts12-sts-readymade) | 2025-12-27 |
+| #1764 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | 10 cols · 32 rows | [edition_1764_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1764_lavita-medical-qa-shared-task-v1-toy-readymade) | 2025-12-27 |
 ---
 
 ## 🎭 The Method
@@ -1847,3 +1847,4 @@ Or let GitHub Action run it automatically.
 | 1761 | 2025-12-27 10:52:28 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_1761_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1761_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 1762 | 2025-12-27 11:11:34 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_1762_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1762_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 1763 | 2025-12-27 11:37:50 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1763_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1763_mteb-sts12-sts-readymade) |
+| 1764 | 2025-12-27 11:48:05 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_1764_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1764_lavita-medical-qa-shared-task-v1-toy-readymade) |
