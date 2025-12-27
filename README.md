@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1779 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | 9 cols · 179 rows | [edition_1779_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1779_gradio-custom-component-gallery-backups-readymade) | 2025-12-27 |
+| #1780 | [InternRobotics/InternData-BridgeV2](https://huggingface.co/datasets/InternRobotics/InternData-BridgeV2) | 11 cols · 500 rows | [edition_1780_InternRobotics-InternData-BridgeV2-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1780_InternRobotics-InternData-BridgeV2-readymade) | 2025-12-27 |
 ---
 
 ## 🎭 The Method
@@ -1863,3 +1863,4 @@ Or let GitHub Action run it automatically.
 | 1777 | 2025-12-27 17:50:18 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_1777_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1777_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 1778 | 2025-12-27 20:14:49 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1778_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1778_mteb-sts12-sts-readymade) |
 | 1779 | 2025-12-27 20:35:57 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (179 rows, 9 cols) | [edition_1779_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1779_gradio-custom-component-gallery-backups-readymade) |
+| 1780 | 2025-12-27 21:05:43 | [InternRobotics/InternData-BridgeV2](https://huggingface.co/datasets/InternRobotics/InternData-BridgeV2) | streamed (500 rows, 11 cols) | [edition_1780_InternRobotics-InternData-BridgeV2-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1780_InternRobotics-InternData-BridgeV2-readymade) |
