@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1758 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_1758_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1758_mteb-sts12-sts-readymade) | 2025-12-27 |
+| #1759 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_1759_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1759_tatsu-lab-alpaca-readymade) | 2025-12-27 |
 ---
 
 ## 🎭 The Method
@@ -1842,3 +1842,4 @@ Or let GitHub Action run it automatically.
 | 1756 | 2025-12-27 06:51:47 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_1756_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1756_jxcai-scale-hle-public-questions-readymade) |
 | 1757 | 2025-12-27 07:31:29 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (179 rows, 9 cols) | [edition_1757_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1757_gradio-custom-component-gallery-backups-readymade) |
 | 1758 | 2025-12-27 07:41:49 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1758_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1758_mteb-sts12-sts-readymade) |
+| 1759 | 2025-12-27 07:49:09 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1759_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1759_tatsu-lab-alpaca-readymade) |
