@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1790 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_1790_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1790_google-research-datasets-mbpp-readymade) | 2025-12-28 |
+| #1791 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_1791_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1791_jxcai-scale-hle-public-questions-readymade) | 2025-12-28 |
 ---
 
 ## 🎭 The Method
@@ -1874,3 +1874,4 @@ Or let GitHub Action run it automatically.
 | 1788 | 2025-12-28 05:00:14 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (179 rows, 9 cols) | [edition_1788_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1788_gradio-custom-component-gallery-backups-readymade) |
 | 1789 | 2025-12-28 05:27:16 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_1789_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1789_shi-labs-oneformer_demo-readymade) |
 | 1790 | 2025-12-28 05:47:05 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_1790_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1790_google-research-datasets-mbpp-readymade) |
+| 1791 | 2025-12-28 05:56:02 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_1791_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1791_jxcai-scale-hle-public-questions-readymade) |
