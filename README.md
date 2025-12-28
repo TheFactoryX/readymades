@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1816 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | 9 cols · 179 rows | [edition_1816_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1816_gradio-custom-component-gallery-backups-readymade) | 2025-12-28 |
+| #1817 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | 10 cols · 32 rows | [edition_1817_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1817_lavita-medical-qa-shared-task-v1-toy-readymade) | 2025-12-28 |
 ---
 
 ## 🎭 The Method
@@ -1900,3 +1900,4 @@ Or let GitHub Action run it automatically.
 | 1814 | 2025-12-28 21:48:39 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1814_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1814_tatsu-lab-alpaca-readymade) |
 | 1815 | 2025-12-28 22:35:17 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_1815_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1815_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 1816 | 2025-12-28 23:13:26 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (179 rows, 9 cols) | [edition_1816_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1816_gradio-custom-component-gallery-backups-readymade) |
+| 1817 | 2025-12-28 23:31:32 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_1817_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1817_lavita-medical-qa-shared-task-v1-toy-readymade) |
