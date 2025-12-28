@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1812 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_1812_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1812_mteb-sts12-sts-readymade) | 2025-12-28 |
+| #1813 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | 2 cols · 500 rows | [edition_1813_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1813_cornell-movie-review-data-rotten_tomatoes-readymade) | 2025-12-28 |
 ---
 
 ## 🎭 The Method
@@ -1896,3 +1896,4 @@ Or let GitHub Action run it automatically.
 | 1810 | 2025-12-28 20:36:01 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_1810_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1810_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 1811 | 2025-12-28 20:52:44 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_1811_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1811_shi-labs-oneformer_demo-readymade) |
 | 1812 | 2025-12-28 21:12:25 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1812_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1812_mteb-sts12-sts-readymade) |
+| 1813 | 2025-12-28 21:30:25 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_1813_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1813_cornell-movie-review-data-rotten_tomatoes-readymade) |
