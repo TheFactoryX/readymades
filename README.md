@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1807 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_1807_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1807_google-research-datasets-mbpp-readymade) | 2025-12-28 |
+| #1808 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | 10 cols · 32 rows | [edition_1808_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1808_lavita-medical-qa-shared-task-v1-toy-readymade) | 2025-12-28 |
 ---
 
 ## 🎭 The Method
@@ -1891,3 +1891,4 @@ Or let GitHub Action run it automatically.
 | 1805 | 2025-12-28 14:51:13 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1805_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1805_tatsu-lab-alpaca-readymade) |
 | 1806 | 2025-12-28 15:32:54 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1806_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1806_tatsu-lab-alpaca-readymade) |
 | 1807 | 2025-12-28 16:15:16 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_1807_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1807_google-research-datasets-mbpp-readymade) |
+| 1808 | 2025-12-28 18:49:49 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_1808_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1808_lavita-medical-qa-shared-task-v1-toy-readymade) |
