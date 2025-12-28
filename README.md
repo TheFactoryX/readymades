@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1810 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | 2 cols · 500 rows | [edition_1810_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1810_ryanmarten-OpenThoughts-1k-sample-readymade) | 2025-12-28 |
+| #1811 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_1811_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1811_shi-labs-oneformer_demo-readymade) | 2025-12-28 |
 ---
 
 ## 🎭 The Method
@@ -1894,3 +1894,4 @@ Or let GitHub Action run it automatically.
 | 1808 | 2025-12-28 18:49:49 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_1808_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1808_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 1809 | 2025-12-28 20:15:42 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1809_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1809_tatsu-lab-alpaca-readymade) |
 | 1810 | 2025-12-28 20:36:01 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_1810_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1810_ryanmarten-OpenThoughts-1k-sample-readymade) |
+| 1811 | 2025-12-28 20:52:44 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_1811_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1811_shi-labs-oneformer_demo-readymade) |
