@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1826 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_1826_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1826_mteb-sts12-sts-readymade) | 2025-12-29 |
+| #1827 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_1827_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1827_tatsu-lab-alpaca-readymade) | 2025-12-29 |
 ---
 
 ## 🎭 The Method
@@ -1910,3 +1910,4 @@ Or let GitHub Action run it automatically.
 | 1824 | 2025-12-29 08:21:47 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_1824_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1824_shi-labs-oneformer_demo-readymade) |
 | 1825 | 2025-12-29 09:22:35 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_1825_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1825_jxcai-scale-hle-public-questions-readymade) |
 | 1826 | 2025-12-29 09:51:43 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1826_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1826_mteb-sts12-sts-readymade) |
+| 1827 | 2025-12-29 10:16:13 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1827_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1827_tatsu-lab-alpaca-readymade) |
