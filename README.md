@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1830 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_1830_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1830_argilla-databricks-dolly-15k-curated-en-readymade) | 2025-12-29 |
+| #1831 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_1831_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1831_jxcai-scale-hle-public-questions-readymade) | 2025-12-29 |
 ---
 
 ## 🎭 The Method
@@ -1914,3 +1914,4 @@ Or let GitHub Action run it automatically.
 | 1828 | 2025-12-29 10:44:02 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1828_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1828_tatsu-lab-alpaca-readymade) |
 | 1829 | 2025-12-29 10:56:26 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1829_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1829_tatsu-lab-alpaca-readymade) |
 | 1830 | 2025-12-29 11:13:08 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_1830_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1830_argilla-databricks-dolly-15k-curated-en-readymade) |
+| 1831 | 2025-12-29 11:49:45 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_1831_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1831_jxcai-scale-hle-public-questions-readymade) |
