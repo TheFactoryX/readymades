@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1865 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | 2 cols · 500 rows | [edition_1865_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1865_cornell-movie-review-data-rotten_tomatoes-readymade) | 2025-12-30 |
+| #1866 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_1866_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1866_tatsu-lab-alpaca-readymade) | 2025-12-30 |
 ---
 
 ## 🎭 The Method
@@ -1949,3 +1949,4 @@ Or let GitHub Action run it automatically.
 | 1863 | 2025-12-30 11:44:39 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_1863_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1863_google-research-datasets-mbpp-readymade) |
 | 1864 | 2025-12-30 11:51:32 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1864_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1864_mteb-sts12-sts-readymade) |
 | 1865 | 2025-12-30 13:11:33 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_1865_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1865_cornell-movie-review-data-rotten_tomatoes-readymade) |
+| 1866 | 2025-12-30 13:48:27 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1866_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1866_tatsu-lab-alpaca-readymade) |
