@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1861 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_1861_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1861_google-research-datasets-mbpp-readymade) | 2025-12-30 |
+| #1862 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_1862_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1862_open-thoughts-OpenThoughts-114k-readymade) | 2025-12-30 |
 ---
 
 ## 🎭 The Method
@@ -1945,3 +1945,4 @@ Or let GitHub Action run it automatically.
 | 1859 | 2025-12-30 09:45:11 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1859_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1859_mteb-sts12-sts-readymade) |
 | 1860 | 2025-12-30 10:15:22 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_1860_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1860_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 1861 | 2025-12-30 10:42:23 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_1861_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1861_google-research-datasets-mbpp-readymade) |
+| 1862 | 2025-12-30 10:55:44 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_1862_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1862_open-thoughts-OpenThoughts-114k-readymade) |
