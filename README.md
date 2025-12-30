@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1857 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | 9 cols · 179 rows | [edition_1857_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1857_gradio-custom-component-gallery-backups-readymade) | 2025-12-30 |
+| #1858 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | 9 cols · 179 rows | [edition_1858_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1858_gradio-custom-component-gallery-backups-readymade) | 2025-12-30 |
 ---
 
 ## 🎭 The Method
@@ -1941,3 +1941,4 @@ Or let GitHub Action run it automatically.
 | 1855 | 2025-12-30 07:41:45 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_1855_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1855_shi-labs-oneformer_demo-readymade) |
 | 1856 | 2025-12-30 07:55:57 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (179 rows, 9 cols) | [edition_1856_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1856_gradio-custom-component-gallery-backups-readymade) |
 | 1857 | 2025-12-30 08:19:42 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (179 rows, 9 cols) | [edition_1857_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1857_gradio-custom-component-gallery-backups-readymade) |
+| 1858 | 2025-12-30 08:52:02 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (179 rows, 9 cols) | [edition_1858_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1858_gradio-custom-component-gallery-backups-readymade) |
