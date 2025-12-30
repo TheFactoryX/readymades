@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1877 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | 9 cols · 179 rows | [edition_1877_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1877_gradio-custom-component-gallery-backups-readymade) | 2025-12-30 |
+| #1878 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_1878_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1878_jxcai-scale-hle-public-questions-readymade) | 2025-12-30 |
 ---
 
 ## 🎭 The Method
@@ -1961,3 +1961,4 @@ Or let GitHub Action run it automatically.
 | 1875 | 2025-12-30 19:13:14 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_1875_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1875_jxcai-scale-hle-public-questions-readymade) |
 | 1876 | 2025-12-30 19:29:20 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_1876_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1876_shi-labs-oneformer_demo-readymade) |
 | 1877 | 2025-12-30 19:38:18 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (179 rows, 9 cols) | [edition_1877_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1877_gradio-custom-component-gallery-backups-readymade) |
+| 1878 | 2025-12-30 19:48:29 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_1878_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1878_jxcai-scale-hle-public-questions-readymade) |
