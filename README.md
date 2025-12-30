@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1850 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_1850_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1850_jxcai-scale-hle-public-questions-readymade) | 2025-12-30 |
+| #1851 | [open-llm-leaderboard/requests](https://huggingface.co/datasets/open-llm-leaderboard/requests) | 14 cols · 500 rows | [edition_1851_open-llm-leaderboard-requests-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1851_open-llm-leaderboard-requests-readymade) | 2025-12-30 |
 ---
 
 ## 🎭 The Method
@@ -1934,3 +1934,4 @@ Or let GitHub Action run it automatically.
 | 1848 | 2025-12-29 23:50:06 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_1848_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1848_google-research-datasets-mbpp-readymade) |
 | 1849 | 2025-12-30 04:00:57 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (179 rows, 9 cols) | [edition_1849_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1849_gradio-custom-component-gallery-backups-readymade) |
 | 1850 | 2025-12-30 04:41:07 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_1850_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1850_jxcai-scale-hle-public-questions-readymade) |
+| 1851 | 2025-12-30 05:04:32 | [open-llm-leaderboard/requests](https://huggingface.co/datasets/open-llm-leaderboard/requests) | streamed (500 rows, 14 cols) | [edition_1851_open-llm-leaderboard-requests-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1851_open-llm-leaderboard-requests-readymade) |

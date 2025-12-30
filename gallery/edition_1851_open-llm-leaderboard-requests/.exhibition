@@ -1,0 +1,28 @@
+{
+  "edition_number": 1851,
+  "exhibited": "2025-12-30 05:04:32 UTC",
+  "original": {
+    "name": "open-llm-leaderboard/requests",
+    "url": "https://huggingface.co/datasets/open-llm-leaderboard/requests",
+    "downloads": 106849,
+    "likes": 12,
+    "tags": [
+      "license:apache-2.0",
+      "region:us"
+    ]
+  },
+  "process": {
+    "strategy": "popular_backup",
+    "method": "streamed",
+    "rows": 500,
+    "columns": 14,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 106.814999
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_1851_open-llm-leaderboard-requests-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_1851_open-llm-leaderboard-requests-readymade"
+  }
+}
