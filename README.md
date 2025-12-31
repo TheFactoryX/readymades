@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1886 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_1886_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1886_mteb-sts12-sts-readymade) | 2025-12-31 |
+| #1887 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_1887_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1887_argilla-databricks-dolly-15k-curated-en-readymade) | 2025-12-31 |
 ---
 
 ## 🎭 The Method
@@ -1970,3 +1970,4 @@ Or let GitHub Action run it automatically.
 | 1884 | 2025-12-30 23:43:18 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1884_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1884_tatsu-lab-alpaca-readymade) |
 | 1885 | 2025-12-31 01:02:08 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_1885_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1885_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 1886 | 2025-12-31 03:03:51 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1886_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1886_mteb-sts12-sts-readymade) |
+| 1887 | 2025-12-31 04:08:06 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_1887_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1887_argilla-databricks-dolly-15k-curated-en-readymade) |
