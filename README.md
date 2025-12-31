@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1908 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_1908_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1908_tatsu-lab-alpaca-readymade) | 2025-12-31 |
+| #1909 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_1909_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1909_jxcai-scale-hle-public-questions-readymade) | 2025-12-31 |
 ---
 
 ## 🎭 The Method
@@ -1992,3 +1992,4 @@ Or let GitHub Action run it automatically.
 | 1906 | 2025-12-31 19:11:56 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_1906_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1906_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 1907 | 2025-12-31 19:27:39 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_1907_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1907_jxcai-scale-hle-public-questions-readymade) |
 | 1908 | 2025-12-31 19:37:10 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1908_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1908_tatsu-lab-alpaca-readymade) |
+| 1909 | 2025-12-31 19:48:32 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_1909_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1909_jxcai-scale-hle-public-questions-readymade) |
