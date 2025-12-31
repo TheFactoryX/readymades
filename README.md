@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1906 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | 2 cols · 500 rows | [edition_1906_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1906_cornell-movie-review-data-rotten_tomatoes-readymade) | 2025-12-31 |
+| #1907 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_1907_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1907_jxcai-scale-hle-public-questions-readymade) | 2025-12-31 |
 ---
 
 ## 🎭 The Method
@@ -1990,3 +1990,4 @@ Or let GitHub Action run it automatically.
 | 1904 | 2025-12-31 17:33:34 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1904_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1904_mteb-sts12-sts-readymade) |
 | 1905 | 2025-12-31 18:50:14 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_1905_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1905_open-thoughts-OpenThoughts-114k-readymade) |
 | 1906 | 2025-12-31 19:11:56 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_1906_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1906_cornell-movie-review-data-rotten_tomatoes-readymade) |
+| 1907 | 2025-12-31 19:27:39 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_1907_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1907_jxcai-scale-hle-public-questions-readymade) |
