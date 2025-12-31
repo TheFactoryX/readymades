@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1909 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_1909_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1909_jxcai-scale-hle-public-questions-readymade) | 2025-12-31 |
+| #1910 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_1910_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1910_argilla-databricks-dolly-15k-curated-en-readymade) | 2025-12-31 |
 ---
 
 ## 🎭 The Method
@@ -1993,3 +1993,4 @@ Or let GitHub Action run it automatically.
 | 1907 | 2025-12-31 19:27:39 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_1907_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1907_jxcai-scale-hle-public-questions-readymade) |
 | 1908 | 2025-12-31 19:37:10 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1908_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1908_tatsu-lab-alpaca-readymade) |
 | 1909 | 2025-12-31 19:48:32 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_1909_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1909_jxcai-scale-hle-public-questions-readymade) |
+| 1910 | 2025-12-31 20:15:18 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_1910_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1910_argilla-databricks-dolly-15k-curated-en-readymade) |
