@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1903 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_1903_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1903_argilla-databricks-dolly-15k-curated-en-readymade) | 2025-12-31 |
+| #1904 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_1904_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1904_mteb-sts12-sts-readymade) | 2025-12-31 |
 ---
 
 ## 🎭 The Method
@@ -1987,3 +1987,4 @@ Or let GitHub Action run it automatically.
 | 1901 | 2025-12-31 14:52:59 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_1901_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1901_jxcai-scale-hle-public-questions-readymade) |
 | 1902 | 2025-12-31 15:14:23 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_1902_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1902_google-research-datasets-mbpp-readymade) |
 | 1903 | 2025-12-31 15:53:30 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_1903_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1903_argilla-databricks-dolly-15k-curated-en-readymade) |
+| 1904 | 2025-12-31 17:33:34 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1904_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1904_mteb-sts12-sts-readymade) |
