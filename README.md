@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1891 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | 9 cols · 179 rows | [edition_1891_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1891_gradio-custom-component-gallery-backups-readymade) | 2025-12-31 |
+| #1892 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | 9 cols · 179 rows | [edition_1892_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1892_gradio-custom-component-gallery-backups-readymade) | 2025-12-31 |
 ---
 
 ## 🎭 The Method
@@ -1975,3 +1975,4 @@ Or let GitHub Action run it automatically.
 | 1889 | 2025-12-31 06:21:45 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_1889_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1889_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 1890 | 2025-12-31 07:42:44 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1890_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1890_mteb-sts12-sts-readymade) |
 | 1891 | 2025-12-31 08:50:41 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (179 rows, 9 cols) | [edition_1891_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1891_gradio-custom-component-gallery-backups-readymade) |
+| 1892 | 2025-12-31 09:54:59 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (179 rows, 9 cols) | [edition_1892_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1892_gradio-custom-component-gallery-backups-readymade) |
