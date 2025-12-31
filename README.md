@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1904 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_1904_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1904_mteb-sts12-sts-readymade) | 2025-12-31 |
+| #1905 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_1905_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1905_open-thoughts-OpenThoughts-114k-readymade) | 2025-12-31 |
 ---
 
 ## 🎭 The Method
@@ -1988,3 +1988,4 @@ Or let GitHub Action run it automatically.
 | 1902 | 2025-12-31 15:14:23 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_1902_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1902_google-research-datasets-mbpp-readymade) |
 | 1903 | 2025-12-31 15:53:30 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_1903_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1903_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 1904 | 2025-12-31 17:33:34 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1904_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1904_mteb-sts12-sts-readymade) |
+| 1905 | 2025-12-31 18:50:14 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_1905_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1905_open-thoughts-OpenThoughts-114k-readymade) |
