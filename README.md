@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1889 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | 2 cols · 500 rows | [edition_1889_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1889_cornell-movie-review-data-rotten_tomatoes-readymade) | 2025-12-31 |
+| #1890 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_1890_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1890_mteb-sts12-sts-readymade) | 2025-12-31 |
 ---
 
 ## 🎭 The Method
@@ -1973,3 +1973,4 @@ Or let GitHub Action run it automatically.
 | 1887 | 2025-12-31 04:08:06 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_1887_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1887_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 1888 | 2025-12-31 05:24:27 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_1888_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1888_shi-labs-oneformer_demo-readymade) |
 | 1889 | 2025-12-31 06:21:45 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_1889_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1889_cornell-movie-review-data-rotten_tomatoes-readymade) |
+| 1890 | 2025-12-31 07:42:44 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1890_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1890_mteb-sts12-sts-readymade) |
