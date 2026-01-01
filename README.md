@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1950 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | 2 cols · 500 rows | [edition_1950_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1950_ryanmarten-OpenThoughts-1k-sample-readymade) | 2026-01-01 |
+| #1951 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_1951_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1951_tatsu-lab-alpaca-readymade) | 2026-01-01 |
 ---
 
 ## 🎭 The Method
@@ -2034,3 +2034,4 @@ Or let GitHub Action run it automatically.
 | 1948 | 2026-01-01 21:49:28 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_1948_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1948_google-research-datasets-mbpp-readymade) |
 | 1949 | 2026-01-01 22:13:06 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_1949_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1949_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 1950 | 2026-01-01 22:38:30 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_1950_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1950_ryanmarten-OpenThoughts-1k-sample-readymade) |
+| 1951 | 2026-01-01 23:32:26 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1951_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1951_tatsu-lab-alpaca-readymade) |
