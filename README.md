@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1939 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | 2 cols · 500 rows | [edition_1939_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1939_ryanmarten-OpenThoughts-1k-sample-readymade) | 2026-01-01 |
+| #1940 | [IPEC-COMMUNITY/bridge_orig_lerobot](https://huggingface.co/datasets/IPEC-COMMUNITY/bridge_orig_lerobot) | 7 cols · 500 rows | [edition_1940_IPEC-COMMUNITY-bridge_orig_lerobot-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1940_IPEC-COMMUNITY-bridge_orig_lerobot-readymade) | 2026-01-01 |
 ---
 
 ## 🎭 The Method
@@ -2023,3 +2023,4 @@ Or let GitHub Action run it automatically.
 | 1937 | 2026-01-01 14:53:10 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_1937_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1937_open-thoughts-OpenThoughts-114k-readymade) |
 | 1938 | 2026-01-01 15:14:32 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_1938_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1938_google-research-datasets-mbpp-readymade) |
 | 1939 | 2026-01-01 15:51:43 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_1939_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1939_ryanmarten-OpenThoughts-1k-sample-readymade) |
+| 1940 | 2026-01-01 16:49:37 | [IPEC-COMMUNITY/bridge_orig_lerobot](https://huggingface.co/datasets/IPEC-COMMUNITY/bridge_orig_lerobot) | streamed (500 rows, 7 cols) | [edition_1940_IPEC-COMMUNITY-bridge_orig_lerobot-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1940_IPEC-COMMUNITY-bridge_orig_lerobot-readymade) |
