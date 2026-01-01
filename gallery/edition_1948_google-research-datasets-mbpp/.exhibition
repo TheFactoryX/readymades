@@ -1,0 +1,44 @@
+{
+  "edition_number": 1948,
+  "exhibited": "2026-01-01 21:49:28 UTC",
+  "original": {
+    "name": "google-research-datasets/mbpp",
+    "url": "https://huggingface.co/datasets/google-research-datasets/mbpp",
+    "downloads": 2554820,
+    "likes": 197,
+    "tags": [
+      "annotations_creators:crowdsourced",
+      "annotations_creators:expert-generated",
+      "language_creators:crowdsourced",
+      "language_creators:expert-generated",
+      "multilinguality:monolingual",
+      "source_datasets:original",
+      "language:en",
+      "license:cc-by-4.0",
+      "size_categories:1K<n<10K",
+      "format:parquet",
+      "modality:text",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "arxiv:2108.07732",
+      "region:us",
+      "code-generation"
+    ]
+  },
+  "process": {
+    "strategy": "popular",
+    "method": "streamed",
+    "rows": 374,
+    "columns": 6,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 1.47813
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_1948_google-research-datasets-mbpp-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_1948_google-research-datasets-mbpp-readymade"
+  }
+}
