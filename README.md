@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1933 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_1933_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1933_mteb-sts12-sts-readymade) | 2026-01-01 |
+| #1934 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | 9 cols · 179 rows | [edition_1934_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1934_gradio-custom-component-gallery-backups-readymade) | 2026-01-01 |
 ---
 
 ## 🎭 The Method
@@ -2017,3 +2017,4 @@ Or let GitHub Action run it automatically.
 | 1931 | 2026-01-01 11:41:45 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_1931_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1931_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 1932 | 2026-01-01 11:49:28 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_1932_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1932_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 1933 | 2026-01-01 13:09:10 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1933_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1933_mteb-sts12-sts-readymade) |
+| 1934 | 2026-01-01 13:45:25 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (179 rows, 9 cols) | [edition_1934_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1934_gradio-custom-component-gallery-backups-readymade) |
