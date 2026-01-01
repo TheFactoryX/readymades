@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1937 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_1937_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1937_open-thoughts-OpenThoughts-114k-readymade) | 2026-01-01 |
+| #1938 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_1938_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1938_google-research-datasets-mbpp-readymade) | 2026-01-01 |
 ---
 
 ## 🎭 The Method
@@ -2021,3 +2021,4 @@ Or let GitHub Action run it automatically.
 | 1935 | 2026-01-01 13:56:31 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_1935_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1935_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 1936 | 2026-01-01 14:13:52 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1936_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1936_mteb-sts12-sts-readymade) |
 | 1937 | 2026-01-01 14:53:10 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_1937_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1937_open-thoughts-OpenThoughts-114k-readymade) |
+| 1938 | 2026-01-01 15:14:32 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_1938_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1938_google-research-datasets-mbpp-readymade) |
