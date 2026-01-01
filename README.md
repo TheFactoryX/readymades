@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1946 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_1946_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1946_argilla-databricks-dolly-15k-curated-en-readymade) | 2026-01-01 |
+| #1947 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_1947_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1947_open-thoughts-OpenThoughts-114k-readymade) | 2026-01-01 |
 ---
 
 ## 🎭 The Method
@@ -2030,3 +2030,4 @@ Or let GitHub Action run it automatically.
 | 1944 | 2026-01-01 19:12:42 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_1944_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1944_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 1945 | 2026-01-01 20:37:20 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1945_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1945_tatsu-lab-alpaca-readymade) |
 | 1946 | 2026-01-01 20:53:31 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_1946_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1946_argilla-databricks-dolly-15k-curated-en-readymade) |
+| 1947 | 2026-01-01 21:12:50 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_1947_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1947_open-thoughts-OpenThoughts-114k-readymade) |
