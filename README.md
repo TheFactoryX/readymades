@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1941 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_1941_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1941_mteb-sts12-sts-readymade) | 2026-01-01 |
+| #1942 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_1942_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1942_tatsu-lab-alpaca-readymade) | 2026-01-01 |
 ---
 
 ## 🎭 The Method
@@ -2025,3 +2025,4 @@ Or let GitHub Action run it automatically.
 | 1939 | 2026-01-01 15:51:43 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_1939_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1939_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 1940 | 2026-01-01 16:49:37 | [IPEC-COMMUNITY/bridge_orig_lerobot](https://huggingface.co/datasets/IPEC-COMMUNITY/bridge_orig_lerobot) | streamed (500 rows, 7 cols) | [edition_1940_IPEC-COMMUNITY-bridge_orig_lerobot-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1940_IPEC-COMMUNITY-bridge_orig_lerobot-readymade) |
 | 1941 | 2026-01-01 17:13:57 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1941_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1941_mteb-sts12-sts-readymade) |
+| 1942 | 2026-01-01 18:19:47 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1942_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1942_tatsu-lab-alpaca-readymade) |
