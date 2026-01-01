@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1944 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_1944_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1944_argilla-databricks-dolly-15k-curated-en-readymade) | 2026-01-01 |
+| #1945 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_1945_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1945_tatsu-lab-alpaca-readymade) | 2026-01-01 |
 ---
 
 ## 🎭 The Method
@@ -2028,3 +2028,4 @@ Or let GitHub Action run it automatically.
 | 1942 | 2026-01-01 18:19:47 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1942_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1942_tatsu-lab-alpaca-readymade) |
 | 1943 | 2026-01-01 18:50:54 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_1943_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1943_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 1944 | 2026-01-01 19:12:42 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_1944_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1944_argilla-databricks-dolly-15k-curated-en-readymade) |
+| 1945 | 2026-01-01 20:37:20 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1945_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1945_tatsu-lab-alpaca-readymade) |
