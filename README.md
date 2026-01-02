@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1959 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_1959_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1959_open-thoughts-OpenThoughts-114k-readymade) | 2026-01-02 |
+| #1960 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_1960_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1960_mteb-sts12-sts-readymade) | 2026-01-02 |
 ---
 
 ## 🎭 The Method
@@ -2043,3 +2043,4 @@ Or let GitHub Action run it automatically.
 | 1957 | 2026-01-02 07:52:39 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1957_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1957_tatsu-lab-alpaca-readymade) |
 | 1958 | 2026-01-02 08:50:53 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_1958_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1958_google-research-datasets-mbpp-readymade) |
 | 1959 | 2026-01-02 10:39:01 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_1959_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1959_open-thoughts-OpenThoughts-114k-readymade) |
+| 1960 | 2026-01-02 10:53:08 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1960_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1960_mteb-sts12-sts-readymade) |
