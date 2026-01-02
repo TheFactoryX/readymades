@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1979 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_1979_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1979_google-research-datasets-mbpp-readymade) | 2026-01-02 |
+| #1980 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_1980_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1980_open-thoughts-OpenThoughts-114k-readymade) | 2026-01-02 |
 ---
 
 ## 🎭 The Method
@@ -2063,3 +2063,4 @@ Or let GitHub Action run it automatically.
 | 1977 | 2026-01-02 19:27:48 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_1977_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1977_google-research-datasets-mbpp-readymade) |
 | 1978 | 2026-01-02 19:39:32 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_1978_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1978_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 1979 | 2026-01-02 19:48:49 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_1979_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1979_google-research-datasets-mbpp-readymade) |
+| 1980 | 2026-01-02 20:14:52 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_1980_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1980_open-thoughts-OpenThoughts-114k-readymade) |
