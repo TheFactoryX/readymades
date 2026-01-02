@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1970 | [m-a-p/PIN-200M](https://huggingface.co/datasets/m-a-p/PIN-200M) | 7 cols · 500 rows | [edition_1970_m-a-p-PIN-200M-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1970_m-a-p-PIN-200M-readymade) | 2026-01-02 |
+| #1971 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_1971_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1971_open-thoughts-OpenThoughts-114k-readymade) | 2026-01-02 |
 ---
 
 ## 🎭 The Method
@@ -2054,3 +2054,4 @@ Or let GitHub Action run it automatically.
 | 1968 | 2026-01-02 14:15:43 | [IPEC-COMMUNITY/fractal20220817_data_lerobot](https://huggingface.co/datasets/IPEC-COMMUNITY/fractal20220817_data_lerobot) | streamed (500 rows, 7 cols) | [edition_1968_IPEC-COMMUNITY-fractal20220817_data_lerobot-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1968_IPEC-COMMUNITY-fractal20220817_data_lerobot-readymade) |
 | 1969 | 2026-01-02 14:37:36 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1969_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1969_tatsu-lab-alpaca-readymade) |
 | 1970 | 2026-01-02 14:54:54 | [m-a-p/PIN-200M](https://huggingface.co/datasets/m-a-p/PIN-200M) | streamed (500 rows, 7 cols) | [edition_1970_m-a-p-PIN-200M-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1970_m-a-p-PIN-200M-readymade) |
+| 1971 | 2026-01-02 15:36:54 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_1971_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1971_open-thoughts-OpenThoughts-114k-readymade) |
