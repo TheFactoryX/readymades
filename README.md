@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1955 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | 9 cols · 179 rows | [edition_1955_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1955_gradio-custom-component-gallery-backups-readymade) | 2026-01-02 |
+| #1956 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_1956_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1956_mteb-sts12-sts-readymade) | 2026-01-02 |
 ---
 
 ## 🎭 The Method
@@ -2039,3 +2039,4 @@ Or let GitHub Action run it automatically.
 | 1953 | 2026-01-02 04:12:03 | [mteb/sts22-crosslingual-sts](https://huggingface.co/datasets/mteb/sts22-crosslingual-sts) | streamed (500 rows, 5 cols) | [edition_1953_mteb-sts22-crosslingual-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1953_mteb-sts22-crosslingual-sts-readymade) |
 | 1954 | 2026-01-02 05:20:45 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1954_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1954_mteb-sts12-sts-readymade) |
 | 1955 | 2026-01-02 05:47:43 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (179 rows, 9 cols) | [edition_1955_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1955_gradio-custom-component-gallery-backups-readymade) |
+| 1956 | 2026-01-02 06:57:02 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1956_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1956_mteb-sts12-sts-readymade) |
