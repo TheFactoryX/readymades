@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1983 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | 2 cols · 500 rows | [edition_1983_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1983_cornell-movie-review-data-rotten_tomatoes-readymade) | 2026-01-02 |
+| #1984 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | 2 cols · 500 rows | [edition_1984_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1984_cornell-movie-review-data-rotten_tomatoes-readymade) | 2026-01-02 |
 ---
 
 ## 🎭 The Method
@@ -2067,3 +2067,4 @@ Or let GitHub Action run it automatically.
 | 1981 | 2026-01-02 20:36:28 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (179 rows, 9 cols) | [edition_1981_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1981_gradio-custom-component-gallery-backups-readymade) |
 | 1982 | 2026-01-02 20:52:50 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1982_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1982_mteb-sts12-sts-readymade) |
 | 1983 | 2026-01-02 21:11:36 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_1983_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1983_cornell-movie-review-data-rotten_tomatoes-readymade) |
+| 1984 | 2026-01-02 22:15:02 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_1984_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1984_cornell-movie-review-data-rotten_tomatoes-readymade) |
