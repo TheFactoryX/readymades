@@ -1,0 +1,37 @@
+{
+  "edition_number": 1966,
+  "exhibited": "2026-01-02 13:46:32 UTC",
+  "original": {
+    "name": "mlfoundations/datacomp_xlarge",
+    "url": "https://huggingface.co/datasets/mlfoundations/datacomp_xlarge",
+    "downloads": 52466,
+    "likes": 18,
+    "tags": [
+      "license:cc-by-4.0",
+      "size_categories:10B<n<100B",
+      "format:parquet",
+      "modality:image",
+      "modality:tabular",
+      "modality:text",
+      "library:datasets",
+      "library:dask",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us"
+    ]
+  },
+  "process": {
+    "strategy": "popular",
+    "method": "streamed",
+    "rows": 500,
+    "columns": 9,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 85.104756
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_1966_mlfoundations-datacomp_xlarge-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_1966_mlfoundations-datacomp_xlarge-readymade"
+  }
+}
