@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1976 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_1976_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1976_tatsu-lab-alpaca-readymade) | 2026-01-02 |
+| #1977 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_1977_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1977_google-research-datasets-mbpp-readymade) | 2026-01-02 |
 ---
 
 ## 🎭 The Method
@@ -2060,3 +2060,4 @@ Or let GitHub Action run it automatically.
 | 1974 | 2026-01-02 18:20:34 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1974_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1974_mteb-sts12-sts-readymade) |
 | 1975 | 2026-01-02 18:51:04 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (179 rows, 9 cols) | [edition_1975_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1975_gradio-custom-component-gallery-backups-readymade) |
 | 1976 | 2026-01-02 19:10:00 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1976_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1976_tatsu-lab-alpaca-readymade) |
+| 1977 | 2026-01-02 19:27:48 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_1977_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1977_google-research-datasets-mbpp-readymade) |
