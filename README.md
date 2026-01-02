@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1978 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_1978_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1978_argilla-databricks-dolly-15k-curated-en-readymade) | 2026-01-02 |
+| #1979 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_1979_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1979_google-research-datasets-mbpp-readymade) | 2026-01-02 |
 ---
 
 ## 🎭 The Method
@@ -2062,3 +2062,4 @@ Or let GitHub Action run it automatically.
 | 1976 | 2026-01-02 19:10:00 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1976_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1976_tatsu-lab-alpaca-readymade) |
 | 1977 | 2026-01-02 19:27:48 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_1977_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1977_google-research-datasets-mbpp-readymade) |
 | 1978 | 2026-01-02 19:39:32 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_1978_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1978_argilla-databricks-dolly-15k-curated-en-readymade) |
+| 1979 | 2026-01-02 19:48:49 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_1979_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1979_google-research-datasets-mbpp-readymade) |
