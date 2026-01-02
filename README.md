@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1975 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | 9 cols · 179 rows | [edition_1975_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1975_gradio-custom-component-gallery-backups-readymade) | 2026-01-02 |
+| #1976 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_1976_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1976_tatsu-lab-alpaca-readymade) | 2026-01-02 |
 ---
 
 ## 🎭 The Method
@@ -2059,3 +2059,4 @@ Or let GitHub Action run it automatically.
 | 1973 | 2026-01-02 17:49:26 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (179 rows, 9 cols) | [edition_1973_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1973_gradio-custom-component-gallery-backups-readymade) |
 | 1974 | 2026-01-02 18:20:34 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1974_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1974_mteb-sts12-sts-readymade) |
 | 1975 | 2026-01-02 18:51:04 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (179 rows, 9 cols) | [edition_1975_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1975_gradio-custom-component-gallery-backups-readymade) |
+| 1976 | 2026-01-02 19:10:00 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1976_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1976_tatsu-lab-alpaca-readymade) |
