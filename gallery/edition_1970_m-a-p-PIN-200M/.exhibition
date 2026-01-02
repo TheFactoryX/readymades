@@ -1,0 +1,40 @@
+{
+  "edition_number": 1970,
+  "exhibited": "2026-01-02 14:54:54 UTC",
+  "original": {
+    "name": "m-a-p/PIN-200M",
+    "url": "https://huggingface.co/datasets/m-a-p/PIN-200M",
+    "downloads": 157532,
+    "likes": 20,
+    "tags": [
+      "language:en",
+      "language:zh",
+      "license:apache-2.0",
+      "size_categories:10K<n<100K",
+      "format:json",
+      "modality:text",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "arxiv:2406.13923",
+      "region:us",
+      "multimodal",
+      "interleaved"
+    ]
+  },
+  "process": {
+    "strategy": "popular_backup",
+    "method": "streamed",
+    "rows": 500,
+    "columns": 7,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 16.326027
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_1970_m-a-p-PIN-200M-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_1970_m-a-p-PIN-200M-readymade"
+  }
+}
