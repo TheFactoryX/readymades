@@ -1,0 +1,54 @@
+{
+  "edition_number": 1953,
+  "exhibited": "2026-01-02 04:12:03 UTC",
+  "original": {
+    "name": "mteb/sts22-crosslingual-sts",
+    "url": "https://huggingface.co/datasets/mteb/sts22-crosslingual-sts",
+    "downloads": 81917,
+    "likes": 8,
+    "tags": [
+      "task_categories:sentence-similarity",
+      "task_ids:semantic-similarity-scoring",
+      "annotations_creators:human-annotated",
+      "multilinguality:multilingual",
+      "source_datasets:mteb/sts22-crosslingual-sts",
+      "language:ara",
+      "language:cmn",
+      "language:deu",
+      "language:eng",
+      "language:fra",
+      "language:ita",
+      "language:pol",
+      "language:rus",
+      "language:spa",
+      "language:tur",
+      "license:unknown",
+      "size_categories:10K<n<100K",
+      "format:json",
+      "modality:text",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "arxiv:2502.13595",
+      "arxiv:2210.07316",
+      "region:us",
+      "mteb",
+      "text"
+    ]
+  },
+  "process": {
+    "strategy": "popular",
+    "method": "streamed",
+    "rows": 500,
+    "columns": 5,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 11.930621
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_1953_mteb-sts22-crosslingual-sts-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_1953_mteb-sts22-crosslingual-sts-readymade"
+  }
+}

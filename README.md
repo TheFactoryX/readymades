@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1952 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | 2 cols · 500 rows | [edition_1952_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1952_cornell-movie-review-data-rotten_tomatoes-readymade) | 2026-01-02 |
+| #1953 | [mteb/sts22-crosslingual-sts](https://huggingface.co/datasets/mteb/sts22-crosslingual-sts) | 5 cols · 500 rows | [edition_1953_mteb-sts22-crosslingual-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1953_mteb-sts22-crosslingual-sts-readymade) | 2026-01-02 |
 ---
 
 ## 🎭 The Method
@@ -2036,3 +2036,4 @@ Or let GitHub Action run it automatically.
 | 1950 | 2026-01-01 22:38:30 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_1950_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1950_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 1951 | 2026-01-01 23:32:26 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_1951_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1951_tatsu-lab-alpaca-readymade) |
 | 1952 | 2026-01-02 03:06:26 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_1952_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1952_cornell-movie-review-data-rotten_tomatoes-readymade) |
+| 1953 | 2026-01-02 04:12:03 | [mteb/sts22-crosslingual-sts](https://huggingface.co/datasets/mteb/sts22-crosslingual-sts) | streamed (500 rows, 5 cols) | [edition_1953_mteb-sts22-crosslingual-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1953_mteb-sts22-crosslingual-sts-readymade) |
