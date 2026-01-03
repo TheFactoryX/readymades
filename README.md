@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1994 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_1994_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1994_shi-labs-oneformer_demo-readymade) | 2026-01-03 |
+| #1995 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_1995_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1995_mteb-sts12-sts-readymade) | 2026-01-03 |
 ---
 
 ## 🎭 The Method
@@ -2078,3 +2078,4 @@ Or let GitHub Action run it automatically.
 | 1992 | 2026-01-03 05:38:27 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_1992_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1992_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 1993 | 2026-01-03 06:21:05 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1993_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1993_mteb-sts12-sts-readymade) |
 | 1994 | 2026-01-03 06:52:11 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_1994_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1994_shi-labs-oneformer_demo-readymade) |
+| 1995 | 2026-01-03 07:14:39 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1995_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1995_mteb-sts12-sts-readymade) |
