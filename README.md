@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2023 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_2023_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2023_tatsu-lab-alpaca-readymade) | 2026-01-03 |
+| #2024 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | 9 cols · 179 rows | [edition_2024_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2024_gradio-custom-component-gallery-backups-readymade) | 2026-01-03 |
 ---
 
 ## 🎭 The Method
@@ -2107,3 +2107,4 @@ Or let GitHub Action run it automatically.
 | 2021 | 2026-01-03 22:51:09 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (179 rows, 9 cols) | [edition_2021_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2021_gradio-custom-component-gallery-backups-readymade) |
 | 2022 | 2026-01-03 23:14:04 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_2022_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2022_mteb-sts12-sts-readymade) |
 | 2023 | 2026-01-03 23:31:34 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_2023_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2023_tatsu-lab-alpaca-readymade) |
+| 2024 | 2026-01-03 23:52:04 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (179 rows, 9 cols) | [edition_2024_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2024_gradio-custom-component-gallery-backups-readymade) |
