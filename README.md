@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1997 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | 2 cols · 500 rows | [edition_1997_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1997_ryanmarten-OpenThoughts-1k-sample-readymade) | 2026-01-03 |
+| #1998 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_1998_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1998_jxcai-scale-hle-public-questions-readymade) | 2026-01-03 |
 ---
 
 ## 🎭 The Method
@@ -2081,3 +2081,4 @@ Or let GitHub Action run it automatically.
 | 1995 | 2026-01-03 07:14:39 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_1995_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1995_mteb-sts12-sts-readymade) |
 | 1996 | 2026-01-03 07:32:31 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_1996_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1996_jxcai-scale-hle-public-questions-readymade) |
 | 1997 | 2026-01-03 07:49:29 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_1997_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1997_ryanmarten-OpenThoughts-1k-sample-readymade) |
+| 1998 | 2026-01-03 09:13:57 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_1998_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1998_jxcai-scale-hle-public-questions-readymade) |
