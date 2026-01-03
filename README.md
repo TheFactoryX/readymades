@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2017 | [Zyphra/Zyda-2](https://huggingface.co/datasets/Zyphra/Zyda-2) | 7 cols · 500 rows | [edition_2017_Zyphra-Zyda-2-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2017_Zyphra-Zyda-2-readymade) | 2026-01-03 |
+| #2018 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_2018_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2018_google-research-datasets-mbpp-readymade) | 2026-01-03 |
 ---
 
 ## 🎭 The Method
@@ -2101,3 +2101,4 @@ Or let GitHub Action run it automatically.
 | 2015 | 2026-01-03 21:12:54 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_2015_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2015_mteb-sts12-sts-readymade) |
 | 2016 | 2026-01-03 21:30:29 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_2016_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2016_open-thoughts-OpenThoughts-114k-readymade) |
 | 2017 | 2026-01-03 21:44:24 | [Zyphra/Zyda-2](https://huggingface.co/datasets/Zyphra/Zyda-2) | streamed (500 rows, 7 cols) | [edition_2017_Zyphra-Zyda-2-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2017_Zyphra-Zyda-2-readymade) |
+| 2018 | 2026-01-03 21:49:34 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_2018_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2018_google-research-datasets-mbpp-readymade) |
