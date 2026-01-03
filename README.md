@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2003 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_2003_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2003_mteb-sts12-sts-readymade) | 2026-01-03 |
+| #2004 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_2004_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2004_argilla-databricks-dolly-15k-curated-en-readymade) | 2026-01-03 |
 ---
 
 ## 🎭 The Method
@@ -2087,3 +2087,4 @@ Or let GitHub Action run it automatically.
 | 2001 | 2026-01-03 11:11:51 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_2001_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2001_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 2002 | 2026-01-03 11:28:19 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_2002_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2002_tatsu-lab-alpaca-readymade) |
 | 2003 | 2026-01-03 11:48:50 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_2003_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2003_mteb-sts12-sts-readymade) |
+| 2004 | 2026-01-03 12:23:28 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_2004_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2004_argilla-databricks-dolly-15k-curated-en-readymade) |
