@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1999 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_1999_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1999_shi-labs-oneformer_demo-readymade) | 2026-01-03 |
+| #2000 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_2000_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2000_shi-labs-oneformer_demo-readymade) | 2026-01-03 |
 ---
 
 ## 🎭 The Method
@@ -2083,3 +2083,4 @@ Or let GitHub Action run it automatically.
 | 1997 | 2026-01-03 07:49:29 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_1997_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1997_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 1998 | 2026-01-03 09:13:57 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_1998_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1998_jxcai-scale-hle-public-questions-readymade) |
 | 1999 | 2026-01-03 09:34:38 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_1999_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1999_shi-labs-oneformer_demo-readymade) |
+| 2000 | 2026-01-03 10:52:07 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2000_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2000_shi-labs-oneformer_demo-readymade) |
