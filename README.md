@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2011 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_2011_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2011_shi-labs-oneformer_demo-readymade) | 2026-01-03 |
+| #2012 | [IPEC-COMMUNITY/droid_lerobot](https://huggingface.co/datasets/IPEC-COMMUNITY/droid_lerobot) | 7 cols · 500 rows | [edition_2012_IPEC-COMMUNITY-droid_lerobot-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2012_IPEC-COMMUNITY-droid_lerobot-readymade) | 2026-01-03 |
 ---
 
 ## 🎭 The Method
@@ -2095,3 +2095,4 @@ Or let GitHub Action run it automatically.
 | 2009 | 2026-01-03 16:16:00 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2009_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2009_shi-labs-oneformer_demo-readymade) |
 | 2010 | 2026-01-03 17:12:38 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_2010_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2010_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 2011 | 2026-01-03 17:31:32 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2011_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2011_shi-labs-oneformer_demo-readymade) |
+| 2012 | 2026-01-03 19:12:45 | [IPEC-COMMUNITY/droid_lerobot](https://huggingface.co/datasets/IPEC-COMMUNITY/droid_lerobot) | streamed (500 rows, 7 cols) | [edition_2012_IPEC-COMMUNITY-droid_lerobot-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2012_IPEC-COMMUNITY-droid_lerobot-readymade) |
