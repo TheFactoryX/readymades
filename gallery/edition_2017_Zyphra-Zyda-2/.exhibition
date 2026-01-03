@@ -1,0 +1,31 @@
+{
+  "edition_number": 2017,
+  "exhibited": "2026-01-03 21:44:24 UTC",
+  "original": {
+    "name": "Zyphra/Zyda-2",
+    "url": "https://huggingface.co/datasets/Zyphra/Zyda-2",
+    "downloads": 176168,
+    "likes": 85,
+    "tags": [
+      "task_categories:text-generation",
+      "language:en",
+      "license:odc-by",
+      "size_categories:n>1T",
+      "region:us"
+    ]
+  },
+  "process": {
+    "strategy": "popular_backup",
+    "method": "streamed",
+    "rows": 500,
+    "columns": 7,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 134.431779
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_2017_Zyphra-Zyda-2-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_2017_Zyphra-Zyda-2-readymade"
+  }
+}
