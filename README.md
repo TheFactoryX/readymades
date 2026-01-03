@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #1987 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_1987_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1987_jxcai-scale-hle-public-questions-readymade) | 2026-01-02 |
+| #1988 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | 2 cols · 500 rows | [edition_1988_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1988_ryanmarten-OpenThoughts-1k-sample-readymade) | 2026-01-03 |
 ---
 
 ## 🎭 The Method
@@ -2071,3 +2071,4 @@ Or let GitHub Action run it automatically.
 | 1985 | 2026-01-02 22:37:31 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_1985_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1985_jxcai-scale-hle-public-questions-readymade) |
 | 1986 | 2026-01-02 23:15:00 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (179 rows, 9 cols) | [edition_1986_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1986_gradio-custom-component-gallery-backups-readymade) |
 | 1987 | 2026-01-02 23:50:29 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_1987_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1987_jxcai-scale-hle-public-questions-readymade) |
+| 1988 | 2026-01-03 02:49:38 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_1988_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_1988_ryanmarten-OpenThoughts-1k-sample-readymade) |
