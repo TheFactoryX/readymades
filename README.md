@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2046 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_2046_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2046_tatsu-lab-alpaca-readymade) | 2026-01-04 |
+| #2047 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | 9 cols · 179 rows | [edition_2047_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2047_gradio-custom-component-gallery-backups-readymade) | 2026-01-04 |
 ---
 
 ## 🎭 The Method
@@ -2130,3 +2130,4 @@ Or let GitHub Action run it automatically.
 | 2044 | 2026-01-04 15:33:39 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_2044_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2044_tatsu-lab-alpaca-readymade) |
 | 2045 | 2026-01-04 16:41:11 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_2045_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2045_google-research-datasets-mbpp-readymade) |
 | 2046 | 2026-01-04 16:55:18 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_2046_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2046_tatsu-lab-alpaca-readymade) |
+| 2047 | 2026-01-04 17:32:27 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (179 rows, 9 cols) | [edition_2047_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2047_gradio-custom-component-gallery-backups-readymade) |
