@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2041 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | 2 cols · 500 rows | [edition_2041_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2041_ryanmarten-OpenThoughts-1k-sample-readymade) | 2026-01-04 |
+| #2042 | [open-llm-leaderboard/requests](https://huggingface.co/datasets/open-llm-leaderboard/requests) | 14 cols · 500 rows | [edition_2042_open-llm-leaderboard-requests-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2042_open-llm-leaderboard-requests-readymade) | 2026-01-04 |
 ---
 
 ## 🎭 The Method
@@ -2125,3 +2125,4 @@ Or let GitHub Action run it automatically.
 | 2039 | 2026-01-04 12:24:24 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_2039_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2039_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 2040 | 2026-01-04 13:51:53 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2040_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2040_shi-labs-oneformer_demo-readymade) |
 | 2041 | 2026-01-04 14:13:22 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_2041_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2041_ryanmarten-OpenThoughts-1k-sample-readymade) |
+| 2042 | 2026-01-04 14:52:24 | [open-llm-leaderboard/requests](https://huggingface.co/datasets/open-llm-leaderboard/requests) | streamed (500 rows, 14 cols) | [edition_2042_open-llm-leaderboard-requests-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2042_open-llm-leaderboard-requests-readymade) |
