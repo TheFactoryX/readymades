@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2028 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_2028_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2028_tatsu-lab-alpaca-readymade) | 2026-01-04 |
+| #2029 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_2029_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2029_jxcai-scale-hle-public-questions-readymade) | 2026-01-04 |
 ---
 
 ## 🎭 The Method
@@ -2112,3 +2112,4 @@ Or let GitHub Action run it automatically.
 | 2026 | 2026-01-04 05:55:31 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_2026_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2026_open-thoughts-OpenThoughts-114k-readymade) |
 | 2027 | 2026-01-04 06:20:59 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (179 rows, 9 cols) | [edition_2027_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2027_gradio-custom-component-gallery-backups-readymade) |
 | 2028 | 2026-01-04 06:54:22 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_2028_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2028_tatsu-lab-alpaca-readymade) |
+| 2029 | 2026-01-04 07:36:42 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_2029_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2029_jxcai-scale-hle-public-questions-readymade) |
