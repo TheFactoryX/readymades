@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2030 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_2030_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2030_google-research-datasets-mbpp-readymade) | 2026-01-04 |
+| #2031 | [IPEC-COMMUNITY/droid_lerobot](https://huggingface.co/datasets/IPEC-COMMUNITY/droid_lerobot) | 7 cols · 500 rows | [edition_2031_IPEC-COMMUNITY-droid_lerobot-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2031_IPEC-COMMUNITY-droid_lerobot-readymade) | 2026-01-04 |
 ---
 
 ## 🎭 The Method
@@ -2114,3 +2114,4 @@ Or let GitHub Action run it automatically.
 | 2028 | 2026-01-04 06:54:22 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_2028_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2028_tatsu-lab-alpaca-readymade) |
 | 2029 | 2026-01-04 07:36:42 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_2029_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2029_jxcai-scale-hle-public-questions-readymade) |
 | 2030 | 2026-01-04 08:17:53 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_2030_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2030_google-research-datasets-mbpp-readymade) |
+| 2031 | 2026-01-04 08:50:57 | [IPEC-COMMUNITY/droid_lerobot](https://huggingface.co/datasets/IPEC-COMMUNITY/droid_lerobot) | streamed (500 rows, 7 cols) | [edition_2031_IPEC-COMMUNITY-droid_lerobot-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2031_IPEC-COMMUNITY-droid_lerobot-readymade) |
