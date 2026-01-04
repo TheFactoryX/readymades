@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2042 | [open-llm-leaderboard/requests](https://huggingface.co/datasets/open-llm-leaderboard/requests) | 14 cols · 500 rows | [edition_2042_open-llm-leaderboard-requests-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2042_open-llm-leaderboard-requests-readymade) | 2026-01-04 |
+| #2043 | [adams-story/datacomp200m](https://huggingface.co/datasets/adams-story/datacomp200m) | 10 cols · 500 rows | [edition_2043_adams-story-datacomp200m-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2043_adams-story-datacomp200m-readymade) | 2026-01-04 |
 ---
 
 ## 🎭 The Method
@@ -2126,3 +2126,4 @@ Or let GitHub Action run it automatically.
 | 2040 | 2026-01-04 13:51:53 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2040_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2040_shi-labs-oneformer_demo-readymade) |
 | 2041 | 2026-01-04 14:13:22 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_2041_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2041_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 2042 | 2026-01-04 14:52:24 | [open-llm-leaderboard/requests](https://huggingface.co/datasets/open-llm-leaderboard/requests) | streamed (500 rows, 14 cols) | [edition_2042_open-llm-leaderboard-requests-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2042_open-llm-leaderboard-requests-readymade) |
+| 2043 | 2026-01-04 15:13:08 | [adams-story/datacomp200m](https://huggingface.co/datasets/adams-story/datacomp200m) | streamed (500 rows, 10 cols) | [edition_2043_adams-story-datacomp200m-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2043_adams-story-datacomp200m-readymade) |
