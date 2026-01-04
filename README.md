@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2040 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_2040_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2040_shi-labs-oneformer_demo-readymade) | 2026-01-04 |
+| #2041 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | 2 cols · 500 rows | [edition_2041_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2041_ryanmarten-OpenThoughts-1k-sample-readymade) | 2026-01-04 |
 ---
 
 ## 🎭 The Method
@@ -2124,3 +2124,4 @@ Or let GitHub Action run it automatically.
 | 2038 | 2026-01-04 11:38:13 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_2038_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2038_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 2039 | 2026-01-04 12:24:24 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_2039_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2039_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 2040 | 2026-01-04 13:51:53 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2040_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2040_shi-labs-oneformer_demo-readymade) |
+| 2041 | 2026-01-04 14:13:22 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_2041_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2041_ryanmarten-OpenThoughts-1k-sample-readymade) |
