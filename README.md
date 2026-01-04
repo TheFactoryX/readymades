@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2032 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_2032_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2032_jxcai-scale-hle-public-questions-readymade) | 2026-01-04 |
+| #2033 | [tiiuae/falcon-refinedweb](https://huggingface.co/datasets/tiiuae/falcon-refinedweb) | 6 cols · 500 rows | [edition_2033_tiiuae-falcon-refinedweb-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2033_tiiuae-falcon-refinedweb-readymade) | 2026-01-04 |
 ---
 
 ## 🎭 The Method
@@ -2116,3 +2116,4 @@ Or let GitHub Action run it automatically.
 | 2030 | 2026-01-04 08:17:53 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_2030_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2030_google-research-datasets-mbpp-readymade) |
 | 2031 | 2026-01-04 08:50:57 | [IPEC-COMMUNITY/droid_lerobot](https://huggingface.co/datasets/IPEC-COMMUNITY/droid_lerobot) | streamed (500 rows, 7 cols) | [edition_2031_IPEC-COMMUNITY-droid_lerobot-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2031_IPEC-COMMUNITY-droid_lerobot-readymade) |
 | 2032 | 2026-01-04 09:19:10 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_2032_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2032_jxcai-scale-hle-public-questions-readymade) |
+| 2033 | 2026-01-04 09:32:34 | [tiiuae/falcon-refinedweb](https://huggingface.co/datasets/tiiuae/falcon-refinedweb) | streamed (500 rows, 6 cols) | [edition_2033_tiiuae-falcon-refinedweb-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2033_tiiuae-falcon-refinedweb-readymade) |
