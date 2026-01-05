@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2078 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_2078_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2078_google-research-datasets-mbpp-readymade) | 2026-01-05 |
+| #2079 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | 10 cols · 32 rows | [edition_2079_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2079_lavita-medical-qa-shared-task-v1-toy-readymade) | 2026-01-05 |
 ---
 
 ## 🎭 The Method
@@ -2162,3 +2162,4 @@ Or let GitHub Action run it automatically.
 | 2076 | 2026-01-05 17:58:13 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2076_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2076_shi-labs-oneformer_demo-readymade) |
 | 2077 | 2026-01-05 18:22:39 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_2077_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2077_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 2078 | 2026-01-05 18:54:49 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_2078_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2078_google-research-datasets-mbpp-readymade) |
+| 2079 | 2026-01-05 20:17:13 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_2079_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2079_lavita-medical-qa-shared-task-v1-toy-readymade) |
