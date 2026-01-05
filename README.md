@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2056 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | 10 cols · 32 rows | [edition_2056_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2056_lavita-medical-qa-shared-task-v1-toy-readymade) | 2026-01-04 |
+| #2057 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_2057_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2057_jxcai-scale-hle-public-questions-readymade) | 2026-01-05 |
 ---
 
 ## 🎭 The Method
@@ -2140,3 +2140,4 @@ Or let GitHub Action run it automatically.
 | 2054 | 2026-01-04 22:12:55 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_2054_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2054_google-research-datasets-mbpp-readymade) |
 | 2055 | 2026-01-04 22:54:48 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_2055_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2055_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 2056 | 2026-01-04 23:13:23 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_2056_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2056_lavita-medical-qa-shared-task-v1-toy-readymade) |
+| 2057 | 2026-01-05 01:08:39 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_2057_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2057_jxcai-scale-hle-public-questions-readymade) |
