@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2076 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_2076_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2076_shi-labs-oneformer_demo-readymade) | 2026-01-05 |
+| #2077 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_2077_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2077_argilla-databricks-dolly-15k-curated-en-readymade) | 2026-01-05 |
 ---
 
 ## 🎭 The Method
@@ -2160,3 +2160,4 @@ Or let GitHub Action run it automatically.
 | 2074 | 2026-01-05 16:50:30 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_2074_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2074_jxcai-scale-hle-public-questions-readymade) |
 | 2075 | 2026-01-05 17:46:06 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_2075_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2075_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 2076 | 2026-01-05 17:58:13 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2076_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2076_shi-labs-oneformer_demo-readymade) |
+| 2077 | 2026-01-05 18:22:39 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_2077_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2077_argilla-databricks-dolly-15k-curated-en-readymade) |
