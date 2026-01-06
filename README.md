@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2091 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_2091_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2091_mteb-sts12-sts-readymade) | 2026-01-06 |
+| #2092 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | 9 cols · 179 rows | [edition_2092_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2092_gradio-custom-component-gallery-backups-readymade) | 2026-01-06 |
 ---
 
 ## 🎭 The Method
@@ -2175,3 +2175,4 @@ Or let GitHub Action run it automatically.
 | 2089 | 2026-01-06 08:52:53 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_2089_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2089_mteb-sts12-sts-readymade) |
 | 2090 | 2026-01-06 09:19:45 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_2090_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2090_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 2091 | 2026-01-06 10:15:40 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_2091_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2091_mteb-sts12-sts-readymade) |
+| 2092 | 2026-01-06 10:44:14 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (179 rows, 9 cols) | [edition_2092_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2092_gradio-custom-component-gallery-backups-readymade) |
