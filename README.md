@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2098 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_2098_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2098_jxcai-scale-hle-public-questions-readymade) | 2026-01-06 |
+| #2099 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_2099_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2099_tatsu-lab-alpaca-readymade) | 2026-01-06 |
 ---
 
 ## 🎭 The Method
@@ -2182,3 +2182,4 @@ Or let GitHub Action run it automatically.
 | 2096 | 2026-01-06 13:50:02 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_2096_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2096_tatsu-lab-alpaca-readymade) |
 | 2097 | 2026-01-06 14:16:03 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_2097_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2097_tatsu-lab-alpaca-readymade) |
 | 2098 | 2026-01-06 15:47:51 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_2098_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2098_jxcai-scale-hle-public-questions-readymade) |
+| 2099 | 2026-01-06 15:56:41 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_2099_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2099_tatsu-lab-alpaca-readymade) |
