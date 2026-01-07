@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2132 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | 10 cols · 32 rows | [edition_2132_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2132_lavita-medical-qa-shared-task-v1-toy-readymade) | 2026-01-07 |
+| #2133 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_2133_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2133_mteb-sts12-sts-readymade) | 2026-01-07 |
 ---
 
 ## 🎭 The Method
@@ -2216,3 +2216,4 @@ Or let GitHub Action run it automatically.
 | 2130 | 2026-01-07 16:22:37 | [LLM360/TxT360](https://huggingface.co/datasets/LLM360/TxT360) | streamed (500 rows, 3 cols) | [edition_2130_LLM360-TxT360-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2130_LLM360-TxT360-readymade) |
 | 2131 | 2026-01-07 16:54:34 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_2131_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2131_open-thoughts-OpenThoughts-114k-readymade) |
 | 2132 | 2026-01-07 17:19:50 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_2132_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2132_lavita-medical-qa-shared-task-v1-toy-readymade) |
+| 2133 | 2026-01-07 18:21:19 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_2133_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2133_mteb-sts12-sts-readymade) |
