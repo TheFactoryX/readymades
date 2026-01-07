@@ -1,0 +1,31 @@
+{
+  "edition_number": 2130,
+  "exhibited": "2026-01-07 16:22:37 UTC",
+  "original": {
+    "name": "LLM360/TxT360",
+    "url": "https://huggingface.co/datasets/LLM360/TxT360",
+    "downloads": 51180,
+    "likes": 247,
+    "tags": [
+      "task_categories:text-generation",
+      "language:en",
+      "license:odc-by",
+      "size_categories:n>1T",
+      "region:us"
+    ]
+  },
+  "process": {
+    "strategy": "popular_backup",
+    "method": "streamed",
+    "rows": 500,
+    "columns": 3,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 144.324898
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_2130_LLM360-TxT360-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_2130_LLM360-TxT360-readymade"
+  }
+}
