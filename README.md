@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2125 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_2125_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2125_shi-labs-oneformer_demo-readymade) | 2026-01-07 |
+| #2126 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | 10 cols · 32 rows | [edition_2126_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2126_lavita-medical-qa-shared-task-v1-toy-readymade) | 2026-01-07 |
 ---
 
 ## 🎭 The Method
@@ -2209,3 +2209,4 @@ Or let GitHub Action run it automatically.
 | 2123 | 2026-01-07 10:48:29 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (179 rows, 9 cols) | [edition_2123_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2123_gradio-custom-component-gallery-backups-readymade) |
 | 2124 | 2026-01-07 11:14:06 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_2124_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2124_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 2125 | 2026-01-07 11:50:45 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2125_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2125_shi-labs-oneformer_demo-readymade) |
+| 2126 | 2026-01-07 12:28:36 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_2126_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2126_lavita-medical-qa-shared-task-v1-toy-readymade) |
