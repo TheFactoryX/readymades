@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2158 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_2158_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2158_tatsu-lab-alpaca-readymade) | 2026-01-08 |
+| #2159 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | 2 cols · 500 rows | [edition_2159_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2159_cornell-movie-review-data-rotten_tomatoes-readymade) | 2026-01-08 |
 ---
 
 ## 🎭 The Method
@@ -2242,3 +2242,4 @@ Or let GitHub Action run it automatically.
 | 2156 | 2026-01-08 13:53:42 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_2156_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2156_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 2157 | 2026-01-08 14:51:01 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_2157_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2157_tatsu-lab-alpaca-readymade) |
 | 2158 | 2026-01-08 15:17:56 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_2158_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2158_tatsu-lab-alpaca-readymade) |
+| 2159 | 2026-01-08 16:19:44 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_2159_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2159_cornell-movie-review-data-rotten_tomatoes-readymade) |
