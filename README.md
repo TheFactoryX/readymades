@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2154 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_2154_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2154_mteb-sts12-sts-readymade) | 2026-01-08 |
+| #2155 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_2155_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2155_tatsu-lab-alpaca-readymade) | 2026-01-08 |
 ---
 
 ## 🎭 The Method
@@ -2238,3 +2238,4 @@ Or let GitHub Action run it automatically.
 | 2152 | 2026-01-08 11:14:47 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_2152_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2152_jxcai-scale-hle-public-questions-readymade) |
 | 2153 | 2026-01-08 11:34:10 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2153_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2153_shi-labs-oneformer_demo-readymade) |
 | 2154 | 2026-01-08 11:51:22 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_2154_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2154_mteb-sts12-sts-readymade) |
+| 2155 | 2026-01-08 13:15:13 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_2155_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2155_tatsu-lab-alpaca-readymade) |
