@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2144 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | 2 cols · 500 rows | [edition_2144_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2144_cornell-movie-review-data-rotten_tomatoes-readymade) | 2026-01-08 |
+| #2145 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_2145_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2145_jxcai-scale-hle-public-questions-readymade) | 2026-01-08 |
 ---
 
 ## 🎭 The Method
@@ -2228,3 +2228,4 @@ Or let GitHub Action run it automatically.
 | 2142 | 2026-01-08 04:10:29 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_2142_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2142_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 2143 | 2026-01-08 04:51:42 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_2143_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2143_tatsu-lab-alpaca-readymade) |
 | 2144 | 2026-01-08 05:18:48 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_2144_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2144_cornell-movie-review-data-rotten_tomatoes-readymade) |
+| 2145 | 2026-01-08 06:22:29 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_2145_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2145_jxcai-scale-hle-public-questions-readymade) |
