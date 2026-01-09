@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2176 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_2176_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2176_shi-labs-oneformer_demo-readymade) | 2026-01-09 |
+| #2177 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_2177_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2177_open-thoughts-OpenThoughts-114k-readymade) | 2026-01-09 |
 ---
 
 ## 🎭 The Method
@@ -2260,3 +2260,4 @@ Or let GitHub Action run it automatically.
 | 2174 | 2026-01-09 05:48:23 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2174_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2174_shi-labs-oneformer_demo-readymade) |
 | 2175 | 2026-01-09 06:22:06 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (179 rows, 9 cols) | [edition_2175_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2175_gradio-custom-component-gallery-backups-readymade) |
 | 2176 | 2026-01-09 06:56:27 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2176_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2176_shi-labs-oneformer_demo-readymade) |
+| 2177 | 2026-01-09 07:20:37 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_2177_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2177_open-thoughts-OpenThoughts-114k-readymade) |
