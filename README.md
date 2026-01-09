@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2174 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_2174_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2174_shi-labs-oneformer_demo-readymade) | 2026-01-09 |
+| #2175 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | 9 cols · 179 rows | [edition_2175_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2175_gradio-custom-component-gallery-backups-readymade) | 2026-01-09 |
 ---
 
 ## 🎭 The Method
@@ -2258,3 +2258,4 @@ Or let GitHub Action run it automatically.
 | 2172 | 2026-01-09 04:10:04 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_2172_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2172_google-research-datasets-mbpp-readymade) |
 | 2173 | 2026-01-09 05:19:19 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (179 rows, 9 cols) | [edition_2173_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2173_gradio-custom-component-gallery-backups-readymade) |
 | 2174 | 2026-01-09 05:48:23 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2174_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2174_shi-labs-oneformer_demo-readymade) |
+| 2175 | 2026-01-09 06:22:06 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (179 rows, 9 cols) | [edition_2175_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2175_gradio-custom-component-gallery-backups-readymade) |
