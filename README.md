@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2170 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | 2 cols · 500 rows | [edition_2170_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2170_cornell-movie-review-data-rotten_tomatoes-readymade) | 2026-01-09 |
+| #2171 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | 4 cols · 500 rows | [edition_2171_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2171_tatsu-lab-alpaca-readymade) | 2026-01-09 |
 ---
 
 ## 🎭 The Method
@@ -2254,3 +2254,4 @@ Or let GitHub Action run it automatically.
 | 2168 | 2026-01-08 23:29:37 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_2168_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2168_jxcai-scale-hle-public-questions-readymade) |
 | 2169 | 2026-01-08 23:40:43 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (179 rows, 9 cols) | [edition_2169_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2169_gradio-custom-component-gallery-backups-readymade) |
 | 2170 | 2026-01-09 01:03:44 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_2170_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2170_cornell-movie-review-data-rotten_tomatoes-readymade) |
+| 2171 | 2026-01-09 03:06:44 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | streamed (500 rows, 4 cols) | [edition_2171_tatsu-lab-alpaca-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2171_tatsu-lab-alpaca-readymade) |
