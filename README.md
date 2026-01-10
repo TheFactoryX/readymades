@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2200 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_2200_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2200_open-thoughts-OpenThoughts-114k-readymade) | 2026-01-09 |
+| #2201 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_2201_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2201_mteb-sts12-sts-readymade) | 2026-01-10 |
 ---
 
 ## 🎭 The Method
@@ -2284,3 +2284,4 @@ Or let GitHub Action run it automatically.
 | 2198 | 2026-01-09 22:14:53 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_2198_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2198_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 2199 | 2026-01-09 22:37:57 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (180 rows, 9 cols) | [edition_2199_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2199_gradio-custom-component-gallery-backups-readymade) |
 | 2200 | 2026-01-09 23:33:28 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_2200_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2200_open-thoughts-OpenThoughts-114k-readymade) |
+| 2201 | 2026-01-10 01:00:30 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_2201_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2201_mteb-sts12-sts-readymade) |
