@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2230 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | 9 cols · 180 rows | [edition_2230_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2230_gradio-custom-component-gallery-backups-readymade) | 2026-01-10 |
+| #2231 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_2231_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2231_jxcai-scale-hle-public-questions-readymade) | 2026-01-10 |
 ---
 
 ## 🎭 The Method
@@ -2314,3 +2314,4 @@ Or let GitHub Action run it automatically.
 | 2228 | 2026-01-10 19:35:32 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_2228_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2228_argilla-databricks-dolly-15k-curated-en-readymade) |
 | 2229 | 2026-01-10 19:48:38 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_2229_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2229_mteb-sts12-sts-readymade) |
 | 2230 | 2026-01-10 20:14:49 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (180 rows, 9 cols) | [edition_2230_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2230_gradio-custom-component-gallery-backups-readymade) |
+| 2231 | 2026-01-10 21:30:39 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_2231_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2231_jxcai-scale-hle-public-questions-readymade) |
