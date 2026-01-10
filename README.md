@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2219 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | 10 cols · 32 rows | [edition_2219_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2219_lavita-medical-qa-shared-task-v1-toy-readymade) | 2026-01-10 |
+| #2220 | [albertvillanova/tests-raw-jsonl](https://huggingface.co/datasets/albertvillanova/tests-raw-jsonl) | 4 cols · 500 rows | [edition_2220_albertvillanova-tests-raw-jsonl-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2220_albertvillanova-tests-raw-jsonl-readymade) | 2026-01-10 |
 ---
 
 ## 🎭 The Method
@@ -2303,3 +2303,4 @@ Or let GitHub Action run it automatically.
 | 2217 | 2026-01-10 13:40:31 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_2217_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2217_google-research-datasets-mbpp-readymade) |
 | 2218 | 2026-01-10 13:51:42 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (180 rows, 9 cols) | [edition_2218_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2218_gradio-custom-component-gallery-backups-readymade) |
 | 2219 | 2026-01-10 14:34:31 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_2219_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2219_lavita-medical-qa-shared-task-v1-toy-readymade) |
+| 2220 | 2026-01-10 15:33:27 | [albertvillanova/tests-raw-jsonl](https://huggingface.co/datasets/albertvillanova/tests-raw-jsonl) | streamed (500 rows, 4 cols) | [edition_2220_albertvillanova-tests-raw-jsonl-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2220_albertvillanova-tests-raw-jsonl-readymade) |
