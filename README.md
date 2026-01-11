@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2251 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_2251_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2251_jxcai-scale-hle-public-questions-readymade) | 2026-01-11 |
+| #2252 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_2252_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2252_google-research-datasets-mbpp-readymade) | 2026-01-11 |
 ---
 
 ## 🎭 The Method
@@ -2335,3 +2335,4 @@ Or let GitHub Action run it automatically.
 | 2249 | 2026-01-11 13:53:08 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_2249_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2249_jxcai-scale-hle-public-questions-readymade) |
 | 2250 | 2026-01-11 14:12:55 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (180 rows, 9 cols) | [edition_2250_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2250_gradio-custom-component-gallery-backups-readymade) |
 | 2251 | 2026-01-11 14:34:28 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_2251_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2251_jxcai-scale-hle-public-questions-readymade) |
+| 2252 | 2026-01-11 15:12:56 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_2252_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2252_google-research-datasets-mbpp-readymade) |
