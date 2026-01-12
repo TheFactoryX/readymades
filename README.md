@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2283 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | 9 cols · 180 rows | [edition_2283_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2283_gradio-custom-component-gallery-backups-readymade) | 2026-01-12 |
+| #2284 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_2284_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2284_argilla-databricks-dolly-15k-curated-en-readymade) | 2026-01-12 |
 ---
 
 ## 🎭 The Method
@@ -2367,3 +2367,4 @@ Or let GitHub Action run it automatically.
 | 2281 | 2026-01-12 15:18:34 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_2281_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2281_mteb-sts12-sts-readymade) |
 | 2282 | 2026-01-12 16:19:04 | [albertvillanova/tests-raw-jsonl](https://huggingface.co/datasets/albertvillanova/tests-raw-jsonl) | streamed (500 rows, 4 cols) | [edition_2282_albertvillanova-tests-raw-jsonl-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2282_albertvillanova-tests-raw-jsonl-readymade) |
 | 2283 | 2026-01-12 17:18:28 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (180 rows, 9 cols) | [edition_2283_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2283_gradio-custom-component-gallery-backups-readymade) |
+| 2284 | 2026-01-12 17:43:56 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_2284_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2284_argilla-databricks-dolly-15k-curated-en-readymade) |
