@@ -1,0 +1,45 @@
+{
+  "edition_number": 2279,
+  "exhibited": "2026-01-12 13:58:14 UTC",
+  "original": {
+    "name": "tiiuae/falcon-refinedweb",
+    "url": "https://huggingface.co/datasets/tiiuae/falcon-refinedweb",
+    "downloads": 57005,
+    "likes": 883,
+    "tags": [
+      "task_categories:text-generation",
+      "language:en",
+      "license:odc-by",
+      "size_categories:100M<n<1B",
+      "format:parquet",
+      "modality:text",
+      "library:datasets",
+      "library:dask",
+      "library:mlcroissant",
+      "library:polars",
+      "arxiv:2306.01116",
+      "arxiv:2203.15556",
+      "arxiv:2107.06499",
+      "arxiv:2104.08758",
+      "arxiv:2109.07445",
+      "arxiv:1911.00359",
+      "arxiv:2112.11446",
+      "doi:10.57967/hf/0737",
+      "region:us"
+    ]
+  },
+  "process": {
+    "strategy": "popular_backup",
+    "method": "streamed",
+    "rows": 500,
+    "columns": 6,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 14.466371
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_2279_tiiuae-falcon-refinedweb-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_2279_tiiuae-falcon-refinedweb-readymade"
+  }
+}
