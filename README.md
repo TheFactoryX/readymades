@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2304 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_2304_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2304_google-research-datasets-mbpp-readymade) | 2026-01-13 |
+| #2305 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_2305_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2305_shi-labs-oneformer_demo-readymade) | 2026-01-13 |
 ---
 
 ## 🎭 The Method
@@ -2388,3 +2388,4 @@ Or let GitHub Action run it automatically.
 | 2302 | 2026-01-13 09:49:31 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_2302_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2302_open-thoughts-OpenThoughts-114k-readymade) |
 | 2303 | 2026-01-13 10:16:16 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_2303_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2303_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 2304 | 2026-01-13 10:58:28 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_2304_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2304_google-research-datasets-mbpp-readymade) |
+| 2305 | 2026-01-13 13:56:46 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2305_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2305_shi-labs-oneformer_demo-readymade) |
