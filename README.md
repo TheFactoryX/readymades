@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2310 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_2310_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2310_open-thoughts-OpenThoughts-114k-readymade) | 2026-01-13 |
+| #2311 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_2311_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2311_mteb-sts12-sts-readymade) | 2026-01-13 |
 ---
 
 ## 🎭 The Method
@@ -2394,3 +2394,4 @@ Or let GitHub Action run it automatically.
 | 2308 | 2026-01-13 15:48:14 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (180 rows, 9 cols) | [edition_2308_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2308_gradio-custom-component-gallery-backups-readymade) |
 | 2309 | 2026-01-13 16:22:19 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (180 rows, 9 cols) | [edition_2309_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2309_gradio-custom-component-gallery-backups-readymade) |
 | 2310 | 2026-01-13 16:56:03 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_2310_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2310_open-thoughts-OpenThoughts-114k-readymade) |
+| 2311 | 2026-01-13 17:51:04 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_2311_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2311_mteb-sts12-sts-readymade) |
