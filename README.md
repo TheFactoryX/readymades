@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2316 | [albertvillanova/tests-raw-jsonl](https://huggingface.co/datasets/albertvillanova/tests-raw-jsonl) | 4 cols · 500 rows | [edition_2316_albertvillanova-tests-raw-jsonl-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2316_albertvillanova-tests-raw-jsonl-readymade) | 2026-01-13 |
+| #2317 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_2317_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2317_google-research-datasets-mbpp-readymade) | 2026-01-13 |
 ---
 
 ## 🎭 The Method
@@ -2400,3 +2400,4 @@ Or let GitHub Action run it automatically.
 | 2314 | 2026-01-13 20:55:33 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_2314_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2314_google-research-datasets-mbpp-readymade) |
 | 2315 | 2026-01-13 21:14:34 | [albertvillanova/tests-raw-jsonl](https://huggingface.co/datasets/albertvillanova/tests-raw-jsonl) | streamed (500 rows, 4 cols) | [edition_2315_albertvillanova-tests-raw-jsonl-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2315_albertvillanova-tests-raw-jsonl-readymade) |
 | 2316 | 2026-01-13 21:52:39 | [albertvillanova/tests-raw-jsonl](https://huggingface.co/datasets/albertvillanova/tests-raw-jsonl) | streamed (500 rows, 4 cols) | [edition_2316_albertvillanova-tests-raw-jsonl-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2316_albertvillanova-tests-raw-jsonl-readymade) |
+| 2317 | 2026-01-13 22:14:58 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_2317_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2317_google-research-datasets-mbpp-readymade) |
