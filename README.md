@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2331 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_2331_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2331_argilla-databricks-dolly-15k-curated-en-readymade) | 2026-01-14 |
+| #2332 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_2332_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2332_google-research-datasets-mbpp-readymade) | 2026-01-14 |
 ---
 
 ## 🎭 The Method
@@ -2415,3 +2415,4 @@ Or let GitHub Action run it automatically.
 | 2329 | 2026-01-14 09:22:37 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_2329_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2329_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 2330 | 2026-01-14 09:50:18 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_2330_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2330_jxcai-scale-hle-public-questions-readymade) |
 | 2331 | 2026-01-14 10:16:58 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_2331_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2331_argilla-databricks-dolly-15k-curated-en-readymade) |
+| 2332 | 2026-01-14 10:50:06 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_2332_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2332_google-research-datasets-mbpp-readymade) |
