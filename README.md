@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2323 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | 2 cols · 500 rows | [edition_2323_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2323_cornell-movie-review-data-rotten_tomatoes-readymade) | 2026-01-14 |
+| #2324 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | 9 cols · 181 rows | [edition_2324_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2324_gradio-custom-component-gallery-backups-readymade) | 2026-01-14 |
 ---
 
 ## 🎭 The Method
@@ -2407,3 +2407,4 @@ Or let GitHub Action run it automatically.
 | 2321 | 2026-01-13 23:52:02 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_2321_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2321_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 2322 | 2026-01-14 03:15:58 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_2322_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2322_open-thoughts-OpenThoughts-114k-readymade) |
 | 2323 | 2026-01-14 04:59:58 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_2323_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2323_cornell-movie-review-data-rotten_tomatoes-readymade) |
+| 2324 | 2026-01-14 05:47:04 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (181 rows, 9 cols) | [edition_2324_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2324_gradio-custom-component-gallery-backups-readymade) |
