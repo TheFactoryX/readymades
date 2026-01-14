@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2351 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_2351_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2351_jxcai-scale-hle-public-questions-readymade) | 2026-01-14 |
+| #2352 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | 9 cols · 181 rows | [edition_2352_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2352_gradio-custom-component-gallery-backups-readymade) | 2026-01-14 |
 ---
 
 ## 🎭 The Method
@@ -2435,3 +2435,4 @@ Or let GitHub Action run it automatically.
 | 2349 | 2026-01-14 20:53:53 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_2349_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2349_google-research-datasets-mbpp-readymade) |
 | 2350 | 2026-01-14 21:35:49 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_2350_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2350_jxcai-scale-hle-public-questions-readymade) |
 | 2351 | 2026-01-14 22:43:44 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_2351_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2351_jxcai-scale-hle-public-questions-readymade) |
+| 2352 | 2026-01-14 23:13:06 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (181 rows, 9 cols) | [edition_2352_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2352_gradio-custom-component-gallery-backups-readymade) |
