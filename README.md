@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2360 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_2360_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2360_open-thoughts-OpenThoughts-114k-readymade) | 2026-01-15 |
+| #2361 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_2361_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2361_jxcai-scale-hle-public-questions-readymade) | 2026-01-15 |
 ---
 
 ## 🎭 The Method
@@ -2444,3 +2444,4 @@ Or let GitHub Action run it automatically.
 | 2358 | 2026-01-15 08:21:19 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_2358_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2358_mteb-sts12-sts-readymade) |
 | 2359 | 2026-01-15 08:53:29 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_2359_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2359_open-thoughts-OpenThoughts-114k-readymade) |
 | 2360 | 2026-01-15 09:20:49 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_2360_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2360_open-thoughts-OpenThoughts-114k-readymade) |
+| 2361 | 2026-01-15 09:48:25 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_2361_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2361_jxcai-scale-hle-public-questions-readymade) |
