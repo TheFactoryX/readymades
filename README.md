@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2370 | [albertvillanova/tests-raw-jsonl](https://huggingface.co/datasets/albertvillanova/tests-raw-jsonl) | 4 cols · 500 rows | [edition_2370_albertvillanova-tests-raw-jsonl-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2370_albertvillanova-tests-raw-jsonl-readymade) | 2026-01-15 |
+| #2371 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | 9 cols · 500 rows | [edition_2371_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2371_argilla-databricks-dolly-15k-curated-en-readymade) | 2026-01-15 |
 ---
 
 ## 🎭 The Method
@@ -2454,3 +2454,4 @@ Or let GitHub Action run it automatically.
 | 2368 | 2026-01-15 14:18:45 | [albertvillanova/tests-raw-jsonl](https://huggingface.co/datasets/albertvillanova/tests-raw-jsonl) | streamed (500 rows, 4 cols) | [edition_2368_albertvillanova-tests-raw-jsonl-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2368_albertvillanova-tests-raw-jsonl-readymade) |
 | 2369 | 2026-01-15 14:48:45 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2369_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2369_shi-labs-oneformer_demo-readymade) |
 | 2370 | 2026-01-15 15:18:40 | [albertvillanova/tests-raw-jsonl](https://huggingface.co/datasets/albertvillanova/tests-raw-jsonl) | streamed (500 rows, 4 cols) | [edition_2370_albertvillanova-tests-raw-jsonl-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2370_albertvillanova-tests-raw-jsonl-readymade) |
+| 2371 | 2026-01-15 15:52:43 | [argilla/databricks-dolly-15k-curated-en](https://huggingface.co/datasets/argilla/databricks-dolly-15k-curated-en) | streamed (500 rows, 9 cols) | [edition_2371_argilla-databricks-dolly-15k-curated-en-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2371_argilla-databricks-dolly-15k-curated-en-readymade) |
