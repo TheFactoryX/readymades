@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2404 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_2404_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2404_mteb-sts12-sts-readymade) | 2026-01-16 |
+| #2405 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | 2 cols · 500 rows | [edition_2405_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2405_cornell-movie-review-data-rotten_tomatoes-readymade) | 2026-01-16 |
 ---
 
 ## 🎭 The Method
@@ -2488,3 +2488,4 @@ Or let GitHub Action run it automatically.
 | 2402 | 2026-01-16 17:46:43 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_2402_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2402_mteb-sts12-sts-readymade) |
 | 2403 | 2026-01-16 19:30:22 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_2403_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2403_open-thoughts-OpenThoughts-114k-readymade) |
 | 2404 | 2026-01-16 19:40:42 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_2404_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2404_mteb-sts12-sts-readymade) |
+| 2405 | 2026-01-16 19:48:45 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_2405_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2405_cornell-movie-review-data-rotten_tomatoes-readymade) |
