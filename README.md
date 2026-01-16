@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2395 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_2395_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2395_jxcai-scale-hle-public-questions-readymade) | 2026-01-16 |
+| #2396 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | 9 cols · 181 rows | [edition_2396_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2396_gradio-custom-component-gallery-backups-readymade) | 2026-01-16 |
 ---
 
 ## 🎭 The Method
@@ -2479,3 +2479,4 @@ Or let GitHub Action run it automatically.
 | 2393 | 2026-01-16 10:58:10 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_2393_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2393_jxcai-scale-hle-public-questions-readymade) |
 | 2394 | 2026-01-16 11:16:15 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2394_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2394_shi-labs-oneformer_demo-readymade) |
 | 2395 | 2026-01-16 11:50:43 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_2395_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2395_jxcai-scale-hle-public-questions-readymade) |
+| 2396 | 2026-01-16 12:26:51 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (181 rows, 9 cols) | [edition_2396_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2396_gradio-custom-component-gallery-backups-readymade) |
