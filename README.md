@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2386 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_2386_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2386_mteb-sts12-sts-readymade) | 2026-01-16 |
+| #2387 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_2387_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2387_shi-labs-oneformer_demo-readymade) | 2026-01-16 |
 ---
 
 ## 🎭 The Method
@@ -2470,3 +2470,4 @@ Or let GitHub Action run it automatically.
 | 2384 | 2026-01-15 23:51:01 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_2384_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2384_mteb-sts12-sts-readymade) |
 | 2385 | 2026-01-16 01:03:20 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (181 rows, 9 cols) | [edition_2385_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2385_gradio-custom-component-gallery-backups-readymade) |
 | 2386 | 2026-01-16 05:19:10 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_2386_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2386_mteb-sts12-sts-readymade) |
+| 2387 | 2026-01-16 06:56:22 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2387_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2387_shi-labs-oneformer_demo-readymade) |
