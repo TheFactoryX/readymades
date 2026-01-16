@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2397 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | 10 cols · 32 rows | [edition_2397_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2397_lavita-medical-qa-shared-task-v1-toy-readymade) | 2026-01-16 |
+| #2398 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_2398_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2398_mteb-sts12-sts-readymade) | 2026-01-16 |
 ---
 
 ## 🎭 The Method
@@ -2481,3 +2481,4 @@ Or let GitHub Action run it automatically.
 | 2395 | 2026-01-16 11:50:43 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_2395_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2395_jxcai-scale-hle-public-questions-readymade) |
 | 2396 | 2026-01-16 12:26:51 | [gradio/custom-component-gallery-backups](https://huggingface.co/datasets/gradio/custom-component-gallery-backups) | streamed (181 rows, 9 cols) | [edition_2396_gradio-custom-component-gallery-backups-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2396_gradio-custom-component-gallery-backups-readymade) |
 | 2397 | 2026-01-16 14:17:45 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_2397_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2397_lavita-medical-qa-shared-task-v1-toy-readymade) |
+| 2398 | 2026-01-16 15:16:38 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_2398_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2398_mteb-sts12-sts-readymade) |
