@@ -1,0 +1,35 @@
+{
+  "edition_number": 2415,
+  "exhibited": "2026-01-17 05:57:20 UTC",
+  "original": {
+    "name": "IPEC-COMMUNITY/kuka_lerobot",
+    "url": "https://huggingface.co/datasets/IPEC-COMMUNITY/kuka_lerobot",
+    "downloads": 64789,
+    "likes": 0,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "modality:video",
+      "region:us",
+      "LeRobot",
+      "kuka",
+      "rlds",
+      "openx",
+      "kuka_iiwa"
+    ]
+  },
+  "process": {
+    "strategy": "popular_backup",
+    "method": "streamed",
+    "rows": 500,
+    "columns": 7,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 258.592577
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_2415_IPEC-COMMUNITY-kuka_lerobot-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_2415_IPEC-COMMUNITY-kuka_lerobot-readymade"
+  }
+}
