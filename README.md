@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2457 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_2457_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2457_jxcai-scale-hle-public-questions-readymade) | 2026-01-18 |
+| #2458 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_2458_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2458_mteb-sts12-sts-readymade) | 2026-01-18 |
 ---
 
 ## 🎭 The Method
@@ -2541,3 +2541,4 @@ Or let GitHub Action run it automatically.
 | 2455 | 2026-01-18 11:37:28 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_2455_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2455_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 2456 | 2026-01-18 11:48:03 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_2456_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2456_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 2457 | 2026-01-18 13:05:36 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_2457_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2457_jxcai-scale-hle-public-questions-readymade) |
+| 2458 | 2026-01-18 14:12:51 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_2458_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2458_mteb-sts12-sts-readymade) |
