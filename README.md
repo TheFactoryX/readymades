@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2445 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | 2 cols · 500 rows | [edition_2445_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2445_cornell-movie-review-data-rotten_tomatoes-readymade) | 2026-01-18 |
+| #2446 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_2446_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2446_shi-labs-oneformer_demo-readymade) | 2026-01-18 |
 ---
 
 ## 🎭 The Method
@@ -2529,3 +2529,4 @@ Or let GitHub Action run it automatically.
 | 2443 | 2026-01-18 01:07:52 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_2443_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2443_jxcai-scale-hle-public-questions-readymade) |
 | 2444 | 2026-01-18 03:16:39 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_2444_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2444_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 2445 | 2026-01-18 04:57:07 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_2445_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2445_cornell-movie-review-data-rotten_tomatoes-readymade) |
+| 2446 | 2026-01-18 05:55:01 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2446_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2446_shi-labs-oneformer_demo-readymade) |
