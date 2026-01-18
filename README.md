@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2471 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | 10 cols · 32 rows | [edition_2471_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2471_lavita-medical-qa-shared-task-v1-toy-readymade) | 2026-01-18 |
+| #2472 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | 2 cols · 500 rows | [edition_2472_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2472_ryanmarten-OpenThoughts-1k-sample-readymade) | 2026-01-18 |
 ---
 
 ## 🎭 The Method
@@ -2555,3 +2555,4 @@ Or let GitHub Action run it automatically.
 | 2469 | 2026-01-18 19:48:27 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_2469_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2469_google-research-datasets-mbpp-readymade) |
 | 2470 | 2026-01-18 20:35:44 | [albertvillanova/tests-raw-jsonl](https://huggingface.co/datasets/albertvillanova/tests-raw-jsonl) | streamed (500 rows, 4 cols) | [edition_2470_albertvillanova-tests-raw-jsonl-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2470_albertvillanova-tests-raw-jsonl-readymade) |
 | 2471 | 2026-01-18 20:52:26 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_2471_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2471_lavita-medical-qa-shared-task-v1-toy-readymade) |
+| 2472 | 2026-01-18 21:42:51 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_2472_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2472_ryanmarten-OpenThoughts-1k-sample-readymade) |
