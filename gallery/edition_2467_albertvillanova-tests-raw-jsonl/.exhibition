@@ -1,0 +1,34 @@
+{
+  "edition_number": 2467,
+  "exhibited": "2026-01-18 19:27:15 UTC",
+  "original": {
+    "name": "albertvillanova/tests-raw-jsonl",
+    "url": "https://huggingface.co/datasets/albertvillanova/tests-raw-jsonl",
+    "downloads": 64189,
+    "likes": 1,
+    "tags": [
+      "size_categories:10K<n<100K",
+      "format:json",
+      "modality:text",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us"
+    ]
+  },
+  "process": {
+    "strategy": "popular",
+    "method": "streamed",
+    "rows": 500,
+    "columns": 4,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 1.731337
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_2467_albertvillanova-tests-raw-jsonl-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_2467_albertvillanova-tests-raw-jsonl-readymade"
+  }
+}
