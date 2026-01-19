@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2491 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | 2 cols · 500 rows | [edition_2491_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2491_ryanmarten-OpenThoughts-1k-sample-readymade) | 2026-01-19 |
+| #2492 | [albertvillanova/tests-raw-jsonl](https://huggingface.co/datasets/albertvillanova/tests-raw-jsonl) | 4 cols · 500 rows | [edition_2492_albertvillanova-tests-raw-jsonl-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2492_albertvillanova-tests-raw-jsonl-readymade) | 2026-01-19 |
 ---
 
 ## 🎭 The Method
@@ -2575,3 +2575,4 @@ Or let GitHub Action run it automatically.
 | 2489 | 2026-01-19 17:58:29 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_2489_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2489_google-research-datasets-mbpp-readymade) |
 | 2490 | 2026-01-19 18:23:30 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_2490_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2490_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 2491 | 2026-01-19 18:55:14 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_2491_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2491_ryanmarten-OpenThoughts-1k-sample-readymade) |
+| 2492 | 2026-01-19 20:16:20 | [albertvillanova/tests-raw-jsonl](https://huggingface.co/datasets/albertvillanova/tests-raw-jsonl) | streamed (500 rows, 4 cols) | [edition_2492_albertvillanova-tests-raw-jsonl-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2492_albertvillanova-tests-raw-jsonl-readymade) |
