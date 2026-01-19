@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2475 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_2475_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2475_mteb-sts12-sts-readymade) | 2026-01-18 |
+| #2476 | [sarahcen/llm-election-data-2024](https://huggingface.co/datasets/sarahcen/llm-election-data-2024) | 19 cols · 500 rows | [edition_2476_sarahcen-llm-election-data-2024-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2476_sarahcen-llm-election-data-2024-readymade) | 2026-01-19 |
 ---
 
 ## 🎭 The Method
@@ -2559,3 +2559,4 @@ Or let GitHub Action run it automatically.
 | 2473 | 2026-01-18 22:13:42 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2473_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2473_shi-labs-oneformer_demo-readymade) |
 | 2474 | 2026-01-18 23:13:32 | [albertvillanova/tests-raw-jsonl](https://huggingface.co/datasets/albertvillanova/tests-raw-jsonl) | streamed (500 rows, 4 cols) | [edition_2474_albertvillanova-tests-raw-jsonl-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2474_albertvillanova-tests-raw-jsonl-readymade) |
 | 2475 | 2026-01-18 23:31:57 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_2475_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2475_mteb-sts12-sts-readymade) |
+| 2476 | 2026-01-19 05:35:41 | [sarahcen/llm-election-data-2024](https://huggingface.co/datasets/sarahcen/llm-election-data-2024) | streamed (500 rows, 19 cols) | [edition_2476_sarahcen-llm-election-data-2024-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2476_sarahcen-llm-election-data-2024-readymade) |
