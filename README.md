@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2482 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_2482_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2482_mteb-sts12-sts-readymade) | 2026-01-19 |
+| #2483 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_2483_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2483_jxcai-scale-hle-public-questions-readymade) | 2026-01-19 |
 ---
 
 ## 🎭 The Method
@@ -2566,3 +2566,4 @@ Or let GitHub Action run it automatically.
 | 2480 | 2026-01-19 10:54:02 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_2480_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2480_mteb-sts12-sts-readymade) |
 | 2481 | 2026-01-19 11:16:23 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_2481_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2481_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 2482 | 2026-01-19 11:43:15 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_2482_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2482_mteb-sts12-sts-readymade) |
+| 2483 | 2026-01-19 11:54:05 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_2483_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2483_jxcai-scale-hle-public-questions-readymade) |
