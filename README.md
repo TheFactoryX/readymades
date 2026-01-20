@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2506 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | 2 cols · 500 rows | [edition_2506_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2506_ryanmarten-OpenThoughts-1k-sample-readymade) | 2026-01-20 |
+| #2507 | [albertvillanova/tests-raw-jsonl](https://huggingface.co/datasets/albertvillanova/tests-raw-jsonl) | 4 cols · 500 rows | [edition_2507_albertvillanova-tests-raw-jsonl-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2507_albertvillanova-tests-raw-jsonl-readymade) | 2026-01-20 |
 ---
 
 ## 🎭 The Method
@@ -2590,3 +2590,4 @@ Or let GitHub Action run it automatically.
 | 2504 | 2026-01-20 07:29:55 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2504_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2504_shi-labs-oneformer_demo-readymade) |
 | 2505 | 2026-01-20 07:50:10 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_2505_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2505_mteb-sts12-sts-readymade) |
 | 2506 | 2026-01-20 08:56:22 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_2506_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2506_ryanmarten-OpenThoughts-1k-sample-readymade) |
+| 2507 | 2026-01-20 09:26:42 | [albertvillanova/tests-raw-jsonl](https://huggingface.co/datasets/albertvillanova/tests-raw-jsonl) | streamed (500 rows, 4 cols) | [edition_2507_albertvillanova-tests-raw-jsonl-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2507_albertvillanova-tests-raw-jsonl-readymade) |
