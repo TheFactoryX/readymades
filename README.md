@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2498 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_2498_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2498_mteb-sts12-sts-readymade) | 2026-01-20 |
+| #2499 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_2499_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2499_open-thoughts-OpenThoughts-114k-readymade) | 2026-01-20 |
 ---
 
 ## 🎭 The Method
@@ -2582,3 +2582,4 @@ Or let GitHub Action run it automatically.
 | 2496 | 2026-01-19 23:13:54 | [albertvillanova/tests-raw-jsonl](https://huggingface.co/datasets/albertvillanova/tests-raw-jsonl) | streamed (500 rows, 4 cols) | [edition_2496_albertvillanova-tests-raw-jsonl-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2496_albertvillanova-tests-raw-jsonl-readymade) |
 | 2497 | 2026-01-19 23:35:15 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_2497_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2497_mteb-sts12-sts-readymade) |
 | 2498 | 2026-01-20 01:01:54 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_2498_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2498_mteb-sts12-sts-readymade) |
+| 2499 | 2026-01-20 03:10:51 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_2499_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2499_open-thoughts-OpenThoughts-114k-readymade) |
