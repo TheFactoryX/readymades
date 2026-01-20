@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2520 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | 4 cols · 500 rows | [edition_2520_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2520_mteb-sts12-sts-readymade) | 2026-01-20 |
+| #2521 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_2521_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2521_google-research-datasets-mbpp-readymade) | 2026-01-20 |
 ---
 
 ## 🎭 The Method
@@ -2604,3 +2604,4 @@ Or let GitHub Action run it automatically.
 | 2518 | 2026-01-20 21:43:09 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_2518_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2518_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 2519 | 2026-01-20 21:51:17 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_2519_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2519_google-research-datasets-mbpp-readymade) |
 | 2520 | 2026-01-20 22:38:40 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | streamed (500 rows, 4 cols) | [edition_2520_mteb-sts12-sts-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2520_mteb-sts12-sts-readymade) |
+| 2521 | 2026-01-20 23:14:42 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_2521_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2521_google-research-datasets-mbpp-readymade) |
