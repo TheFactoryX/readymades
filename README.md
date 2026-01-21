@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2529 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_2529_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2529_shi-labs-oneformer_demo-readymade) | 2026-01-21 |
+| #2530 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_2530_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2530_jxcai-scale-hle-public-questions-readymade) | 2026-01-21 |
 ---
 
 ## 🎭 The Method
@@ -2613,3 +2613,4 @@ Or let GitHub Action run it automatically.
 | 2527 | 2026-01-21 07:01:11 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_2527_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2527_jxcai-scale-hle-public-questions-readymade) |
 | 2528 | 2026-01-21 09:25:08 | [albertvillanova/tests-raw-jsonl](https://huggingface.co/datasets/albertvillanova/tests-raw-jsonl) | streamed (500 rows, 4 cols) | [edition_2528_albertvillanova-tests-raw-jsonl-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2528_albertvillanova-tests-raw-jsonl-readymade) |
 | 2529 | 2026-01-21 11:18:12 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2529_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2529_shi-labs-oneformer_demo-readymade) |
+| 2530 | 2026-01-21 15:57:05 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_2530_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2530_jxcai-scale-hle-public-questions-readymade) |
