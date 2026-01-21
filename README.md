@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2531 | [IPEC-COMMUNITY/language_table_lerobot](https://huggingface.co/datasets/IPEC-COMMUNITY/language_table_lerobot) | 7 cols · 500 rows | [edition_2531_IPEC-COMMUNITY-language_table_lerobot-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2531_IPEC-COMMUNITY-language_table_lerobot-readymade) | 2026-01-21 |
+| #2532 | [albertvillanova/tests-raw-jsonl](https://huggingface.co/datasets/albertvillanova/tests-raw-jsonl) | 4 cols · 500 rows | [edition_2532_albertvillanova-tests-raw-jsonl-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2532_albertvillanova-tests-raw-jsonl-readymade) | 2026-01-21 |
 ---
 
 ## 🎭 The Method
@@ -2615,3 +2615,4 @@ Or let GitHub Action run it automatically.
 | 2529 | 2026-01-21 11:18:12 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2529_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2529_shi-labs-oneformer_demo-readymade) |
 | 2530 | 2026-01-21 15:57:05 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_2530_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2530_jxcai-scale-hle-public-questions-readymade) |
 | 2531 | 2026-01-21 18:03:49 | [IPEC-COMMUNITY/language_table_lerobot](https://huggingface.co/datasets/IPEC-COMMUNITY/language_table_lerobot) | streamed (500 rows, 7 cols) | [edition_2531_IPEC-COMMUNITY-language_table_lerobot-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2531_IPEC-COMMUNITY-language_table_lerobot-readymade) |
+| 2532 | 2026-01-21 19:05:36 | [albertvillanova/tests-raw-jsonl](https://huggingface.co/datasets/albertvillanova/tests-raw-jsonl) | streamed (500 rows, 4 cols) | [edition_2532_albertvillanova-tests-raw-jsonl-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2532_albertvillanova-tests-raw-jsonl-readymade) |
