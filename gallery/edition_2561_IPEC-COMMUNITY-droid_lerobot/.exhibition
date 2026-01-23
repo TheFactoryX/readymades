@@ -1,0 +1,34 @@
+{
+  "edition_number": 2561,
+  "exhibited": "2026-01-23 04:14:45 UTC",
+  "original": {
+    "name": "IPEC-COMMUNITY/droid_lerobot",
+    "url": "https://huggingface.co/datasets/IPEC-COMMUNITY/droid_lerobot",
+    "downloads": 158235,
+    "likes": 9,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "region:us",
+      "LeRobot",
+      "droid",
+      "rlds",
+      "openx",
+      "franka"
+    ]
+  },
+  "process": {
+    "strategy": "random",
+    "method": "streamed",
+    "rows": 500,
+    "columns": 7,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 142.625948
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_2561_IPEC-COMMUNITY-droid_lerobot-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_2561_IPEC-COMMUNITY-droid_lerobot-readymade"
+  }
+}
