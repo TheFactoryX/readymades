@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2585 | [albertvillanova/tests-raw-jsonl](https://huggingface.co/datasets/albertvillanova/tests-raw-jsonl) | 4 cols · 500 rows | [edition_2585_albertvillanova-tests-raw-jsonl-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2585_albertvillanova-tests-raw-jsonl-readymade) | 2026-01-23 |
+| #2586 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_2586_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2586_shi-labs-oneformer_demo-readymade) | 2026-01-23 |
 ---
 
 ## 🎭 The Method
@@ -2669,3 +2669,4 @@ Or let GitHub Action run it automatically.
 | 2583 | 2026-01-23 22:12:28 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_2583_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2583_google-research-datasets-mbpp-readymade) |
 | 2584 | 2026-01-23 23:03:38 | [sarahcen/llm-election-data-2024](https://huggingface.co/datasets/sarahcen/llm-election-data-2024) | streamed (500 rows, 19 cols) | [edition_2584_sarahcen-llm-election-data-2024-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2584_sarahcen-llm-election-data-2024-readymade) |
 | 2585 | 2026-01-23 23:15:24 | [albertvillanova/tests-raw-jsonl](https://huggingface.co/datasets/albertvillanova/tests-raw-jsonl) | streamed (500 rows, 4 cols) | [edition_2585_albertvillanova-tests-raw-jsonl-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2585_albertvillanova-tests-raw-jsonl-readymade) |
+| 2586 | 2026-01-23 23:52:26 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2586_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2586_shi-labs-oneformer_demo-readymade) |
