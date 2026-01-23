@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2569 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_2569_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2569_open-thoughts-OpenThoughts-114k-readymade) | 2026-01-23 |
+| #2570 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_2570_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2570_shi-labs-oneformer_demo-readymade) | 2026-01-23 |
 ---
 
 ## 🎭 The Method
@@ -2653,3 +2653,4 @@ Or let GitHub Action run it automatically.
 | 2567 | 2026-01-23 10:18:44 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_2567_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2567_open-thoughts-OpenThoughts-114k-readymade) |
 | 2568 | 2026-01-23 11:15:00 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_2568_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2568_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 2569 | 2026-01-23 11:54:00 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_2569_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2569_open-thoughts-OpenThoughts-114k-readymade) |
+| 2570 | 2026-01-23 12:29:36 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2570_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2570_shi-labs-oneformer_demo-readymade) |
