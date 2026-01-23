@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2582 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_2582_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2582_shi-labs-oneformer_demo-readymade) | 2026-01-23 |
+| #2583 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_2583_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2583_google-research-datasets-mbpp-readymade) | 2026-01-23 |
 ---
 
 ## 🎭 The Method
@@ -2666,3 +2666,4 @@ Or let GitHub Action run it automatically.
 | 2580 | 2026-01-23 20:58:51 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_2580_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2580_google-research-datasets-mbpp-readymade) |
 | 2581 | 2026-01-23 21:19:44 | [albertvillanova/tests-raw-jsonl](https://huggingface.co/datasets/albertvillanova/tests-raw-jsonl) | streamed (500 rows, 4 cols) | [edition_2581_albertvillanova-tests-raw-jsonl-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2581_albertvillanova-tests-raw-jsonl-readymade) |
 | 2582 | 2026-01-23 21:52:52 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2582_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2582_shi-labs-oneformer_demo-readymade) |
+| 2583 | 2026-01-23 22:12:28 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_2583_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2583_google-research-datasets-mbpp-readymade) |
