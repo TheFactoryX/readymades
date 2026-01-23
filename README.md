@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2580 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_2580_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2580_google-research-datasets-mbpp-readymade) | 2026-01-23 |
+| #2581 | [albertvillanova/tests-raw-jsonl](https://huggingface.co/datasets/albertvillanova/tests-raw-jsonl) | 4 cols · 500 rows | [edition_2581_albertvillanova-tests-raw-jsonl-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2581_albertvillanova-tests-raw-jsonl-readymade) | 2026-01-23 |
 ---
 
 ## 🎭 The Method
@@ -2664,3 +2664,4 @@ Or let GitHub Action run it automatically.
 | 2578 | 2026-01-23 20:16:34 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_2578_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2578_google-research-datasets-mbpp-readymade) |
 | 2579 | 2026-01-23 20:46:59 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_2579_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2579_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 2580 | 2026-01-23 20:58:51 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_2580_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2580_google-research-datasets-mbpp-readymade) |
+| 2581 | 2026-01-23 21:19:44 | [albertvillanova/tests-raw-jsonl](https://huggingface.co/datasets/albertvillanova/tests-raw-jsonl) | streamed (500 rows, 4 cols) | [edition_2581_albertvillanova-tests-raw-jsonl-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2581_albertvillanova-tests-raw-jsonl-readymade) |
