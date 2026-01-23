@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2563 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_2563_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2563_shi-labs-oneformer_demo-readymade) | 2026-01-23 |
+| #2564 | [albertvillanova/tests-raw-jsonl](https://huggingface.co/datasets/albertvillanova/tests-raw-jsonl) | 4 cols · 500 rows | [edition_2564_albertvillanova-tests-raw-jsonl-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2564_albertvillanova-tests-raw-jsonl-readymade) | 2026-01-23 |
 ---
 
 ## 🎭 The Method
@@ -2647,3 +2647,4 @@ Or let GitHub Action run it automatically.
 | 2561 | 2026-01-23 04:14:45 | [IPEC-COMMUNITY/droid_lerobot](https://huggingface.co/datasets/IPEC-COMMUNITY/droid_lerobot) | streamed (500 rows, 7 cols) | [edition_2561_IPEC-COMMUNITY-droid_lerobot-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2561_IPEC-COMMUNITY-droid_lerobot-readymade) |
 | 2562 | 2026-01-23 04:55:30 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_2562_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2562_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 2563 | 2026-01-23 07:46:55 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2563_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2563_shi-labs-oneformer_demo-readymade) |
+| 2564 | 2026-01-23 08:20:11 | [albertvillanova/tests-raw-jsonl](https://huggingface.co/datasets/albertvillanova/tests-raw-jsonl) | streamed (500 rows, 4 cols) | [edition_2564_albertvillanova-tests-raw-jsonl-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2564_albertvillanova-tests-raw-jsonl-readymade) |
