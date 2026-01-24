@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2590 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_2590_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2590_jxcai-scale-hle-public-questions-readymade) | 2026-01-24 |
+| #2591 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | 2 cols · 500 rows | [edition_2591_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2591_ryanmarten-OpenThoughts-1k-sample-readymade) | 2026-01-24 |
 ---
 
 ## 🎭 The Method
@@ -2674,3 +2674,4 @@ Or let GitHub Action run it automatically.
 | 2588 | 2026-01-24 05:00:06 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2588_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2588_shi-labs-oneformer_demo-readymade) |
 | 2589 | 2026-01-24 05:43:14 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_2589_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2589_google-research-datasets-mbpp-readymade) |
 | 2590 | 2026-01-24 05:53:16 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_2590_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2590_jxcai-scale-hle-public-questions-readymade) |
+| 2591 | 2026-01-24 07:14:43 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_2591_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2591_ryanmarten-OpenThoughts-1k-sample-readymade) |
