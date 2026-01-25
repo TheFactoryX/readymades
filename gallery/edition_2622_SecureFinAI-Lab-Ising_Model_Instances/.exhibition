@@ -1,0 +1,28 @@
+{
+  "edition_number": 2622,
+  "exhibited": "2026-01-25 08:29:15 UTC",
+  "original": {
+    "name": "SecureFinAI-Lab/Ising_Model_Instances",
+    "url": "https://huggingface.co/datasets/SecureFinAI-Lab/Ising_Model_Instances",
+    "downloads": 72614,
+    "likes": 0,
+    "tags": [
+      "modality:text",
+      "region:us"
+    ]
+  },
+  "process": {
+    "strategy": "popular_backup",
+    "method": "streamed",
+    "rows": 500,
+    "columns": 1,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 685.685324
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_2622_SecureFinAI-Lab-Ising_Model_Instances-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_2622_SecureFinAI-Lab-Ising_Model_Instances-readymade"
+  }
+}
