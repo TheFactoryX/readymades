@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2640 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_2640_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2640_shi-labs-oneformer_demo-readymade) | 2026-01-26 |
+| #2641 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_2641_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2641_google-research-datasets-mbpp-readymade) | 2026-01-26 |
 ---
 
 ## 🎭 The Method
@@ -2724,3 +2724,4 @@ Or let GitHub Action run it automatically.
 | 2638 | 2026-01-25 23:51:37 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_2638_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2638_jxcai-scale-hle-public-questions-readymade) |
 | 2639 | 2026-01-26 01:08:24 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_2639_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2639_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 2640 | 2026-01-26 05:53:20 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2640_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2640_shi-labs-oneformer_demo-readymade) |
+| 2641 | 2026-01-26 07:54:32 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_2641_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2641_google-research-datasets-mbpp-readymade) |
