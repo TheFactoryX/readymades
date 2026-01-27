@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2652 | [sarahcen/llm-election-data-2024](https://huggingface.co/datasets/sarahcen/llm-election-data-2024) | 19 cols · 500 rows | [edition_2652_sarahcen-llm-election-data-2024-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2652_sarahcen-llm-election-data-2024-readymade) | 2026-01-27 |
+| #2653 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_2653_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2653_shi-labs-oneformer_demo-readymade) | 2026-01-27 |
 ---
 
 ## 🎭 The Method
@@ -2736,3 +2736,4 @@ Or let GitHub Action run it automatically.
 | 2650 | 2026-01-26 23:54:11 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2650_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2650_shi-labs-oneformer_demo-readymade) |
 | 2651 | 2026-01-27 01:07:55 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_2651_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2651_open-thoughts-OpenThoughts-114k-readymade) |
 | 2652 | 2026-01-27 03:44:14 | [sarahcen/llm-election-data-2024](https://huggingface.co/datasets/sarahcen/llm-election-data-2024) | streamed (500 rows, 19 cols) | [edition_2652_sarahcen-llm-election-data-2024-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2652_sarahcen-llm-election-data-2024-readymade) |
+| 2653 | 2026-01-27 04:33:29 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2653_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2653_shi-labs-oneformer_demo-readymade) |
