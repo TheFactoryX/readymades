@@ -1,0 +1,37 @@
+{
+  "edition_number": 2652,
+  "exhibited": "2026-01-27 03:44:14 UTC",
+  "original": {
+    "name": "sarahcen/llm-election-data-2024",
+    "url": "https://huggingface.co/datasets/sarahcen/llm-election-data-2024",
+    "downloads": 63523,
+    "likes": 3,
+    "tags": [
+      "task_categories:text-generation",
+      "task_categories:question-answering",
+      "language:en",
+      "license:mit",
+      "arxiv:2509.18446",
+      "region:us",
+      "elections",
+      "politics",
+      "llm-evaluation",
+      "longitudinal-study",
+      "us-election-2024"
+    ]
+  },
+  "process": {
+    "strategy": "popular",
+    "method": "streamed",
+    "rows": 500,
+    "columns": 19,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 1543.970413
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_2652_sarahcen-llm-election-data-2024-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_2652_sarahcen-llm-election-data-2024-readymade"
+  }
+}
