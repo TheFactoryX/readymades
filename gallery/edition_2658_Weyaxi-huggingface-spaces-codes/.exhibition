@@ -1,0 +1,36 @@
+{
+  "edition_number": 2658,
+  "exhibited": "2026-01-27 09:55:58 UTC",
+  "original": {
+    "name": "Weyaxi/huggingface-spaces-codes",
+    "url": "https://huggingface.co/datasets/Weyaxi/huggingface-spaces-codes",
+    "downloads": 100730,
+    "likes": 11,
+    "tags": [
+      "language:code",
+      "license:other",
+      "size_categories:10K<n<100K",
+      "format:csv",
+      "modality:text",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us"
+    ]
+  },
+  "process": {
+    "strategy": "popular",
+    "method": "streamed",
+    "rows": 500,
+    "columns": 4,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 16.643958
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_2658_Weyaxi-huggingface-spaces-codes-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_2658_Weyaxi-huggingface-spaces-codes-readymade"
+  }
+}
