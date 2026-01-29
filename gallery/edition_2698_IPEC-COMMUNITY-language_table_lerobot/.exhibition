@@ -1,0 +1,34 @@
+{
+  "edition_number": 2698,
+  "exhibited": "2026-01-29 11:03:13 UTC",
+  "original": {
+    "name": "IPEC-COMMUNITY/language_table_lerobot",
+    "url": "https://huggingface.co/datasets/IPEC-COMMUNITY/language_table_lerobot",
+    "downloads": 123126,
+    "likes": 1,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "region:us",
+      "LeRobot",
+      "language_table",
+      "rlds",
+      "openx",
+      "xarm"
+    ]
+  },
+  "process": {
+    "strategy": "popular",
+    "method": "streamed",
+    "rows": 500,
+    "columns": 7,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 1497.092902
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_2698_IPEC-COMMUNITY-language_table_lerobot-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_2698_IPEC-COMMUNITY-language_table_lerobot-readymade"
+  }
+}
