@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2710 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | 2 cols · 500 rows | [edition_2710_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2710_cornell-movie-review-data-rotten_tomatoes-readymade) | 2026-01-29 |
+| #2711 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_2711_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2711_jxcai-scale-hle-public-questions-readymade) | 2026-01-30 |
 ---
 
 ## 🎭 The Method
@@ -2794,3 +2794,4 @@ Or let GitHub Action run it automatically.
 | 2708 | 2026-01-29 22:20:31 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_2708_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2708_google-research-datasets-mbpp-readymade) |
 | 2709 | 2026-01-29 22:53:02 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_2709_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2709_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 2710 | 2026-01-29 23:47:51 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_2710_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2710_cornell-movie-review-data-rotten_tomatoes-readymade) |
+| 2711 | 2026-01-30 06:55:59 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_2711_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2711_jxcai-scale-hle-public-questions-readymade) |
