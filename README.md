@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2724 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_2724_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2724_google-research-datasets-mbpp-readymade) | 2026-01-30 |
+| #2725 | [RogersPyke/Galaxea-Open-World-Dataset_10K_20260123](https://huggingface.co/datasets/RogersPyke/Galaxea-Open-World-Dataset_10K_20260123) | 4 cols · 500 rows | [edition_2725_RogersPyke-Galaxea-Open-World-Dataset_10K_20260123-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2725_RogersPyke-Galaxea-Open-World-Dataset_10K_20260123-readymade) | 2026-01-30 |
 ---
 
 ## 🎭 The Method
@@ -2808,3 +2808,4 @@ Or let GitHub Action run it automatically.
 | 2722 | 2026-01-30 20:00:34 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_2722_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2722_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 2723 | 2026-01-30 21:02:52 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_2723_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2723_open-thoughts-OpenThoughts-114k-readymade) |
 | 2724 | 2026-01-30 21:56:07 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_2724_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2724_google-research-datasets-mbpp-readymade) |
+| 2725 | 2026-01-30 22:18:47 | [RogersPyke/Galaxea-Open-World-Dataset_10K_20260123](https://huggingface.co/datasets/RogersPyke/Galaxea-Open-World-Dataset_10K_20260123) | streamed (500 rows, 4 cols) | [edition_2725_RogersPyke-Galaxea-Open-World-Dataset_10K_20260123-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2725_RogersPyke-Galaxea-Open-World-Dataset_10K_20260123-readymade) |
