@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2738 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | 2 cols · 500 rows | [edition_2738_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2738_cornell-movie-review-data-rotten_tomatoes-readymade) | 2026-01-31 |
+| #2739 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_2739_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2739_shi-labs-oneformer_demo-readymade) | 2026-01-31 |
 ---
 
 ## 🎭 The Method
@@ -2822,3 +2822,4 @@ Or let GitHub Action run it automatically.
 | 2736 | 2026-01-31 11:53:34 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_2736_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2736_jxcai-scale-hle-public-questions-readymade) |
 | 2737 | 2026-01-31 13:23:34 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_2737_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2737_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 2738 | 2026-01-31 13:56:16 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_2738_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2738_cornell-movie-review-data-rotten_tomatoes-readymade) |
+| 2739 | 2026-01-31 15:56:19 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2739_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2739_shi-labs-oneformer_demo-readymade) |
