@@ -19,7 +19,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2749 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_2749_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2749_jxcai-scale-hle-public-questions-readymade) | 2026-02-01 |
+| #2750 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | 2 cols · 500 rows | [edition_2750_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2750_ryanmarten-OpenThoughts-1k-sample-readymade) | 2026-02-01 |
 ---
 
 ## 🎭 The Method
@@ -2833,3 +2833,4 @@ Or let GitHub Action run it automatically.
 | 2747 | 2026-02-01 04:09:55 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_2747_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2747_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 2748 | 2026-02-01 05:40:12 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_2748_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2748_google-research-datasets-mbpp-readymade) |
 | 2749 | 2026-02-01 06:30:10 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_2749_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2749_jxcai-scale-hle-public-questions-readymade) |
+| 2750 | 2026-02-01 07:50:18 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_2750_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2750_ryanmarten-OpenThoughts-1k-sample-readymade) |
