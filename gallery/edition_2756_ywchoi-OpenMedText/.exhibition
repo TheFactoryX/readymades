@@ -1,0 +1,31 @@
+{
+  "edition_number": 2756,
+  "exhibited": "2026-02-01 14:53:53 UTC",
+  "original": {
+    "name": "ywchoi/OpenMedText",
+    "url": "https://huggingface.co/datasets/ywchoi/OpenMedText",
+    "downloads": 100110,
+    "likes": 0,
+    "tags": [
+      "language:en",
+      "arxiv:2503.09032",
+      "region:us",
+      "medical",
+      "biology"
+    ]
+  },
+  "process": {
+    "strategy": "popular",
+    "method": "streamed",
+    "rows": 500,
+    "columns": 1,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 141.046023
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_2756_ywchoi-OpenMedText-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_2756_ywchoi-OpenMedText-readymade"
+  }
+}

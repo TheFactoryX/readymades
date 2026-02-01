@@ -25,7 +25,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2755 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_2755_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2755_jxcai-scale-hle-public-questions-readymade) | 2026-02-01 |
+| #2756 | [ywchoi/OpenMedText](https://huggingface.co/datasets/ywchoi/OpenMedText) | 1 cols · 500 rows | [edition_2756_ywchoi-OpenMedText-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2756_ywchoi-OpenMedText-readymade) | 2026-02-01 |
 ---
 
 ## 🎭 The Method
@@ -2863,3 +2863,4 @@ If you need permission, you're thinking too much.
 | 2753 | 2026-02-01 10:17:56 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_2753_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2753_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 2754 | 2026-02-01 11:36:05 | [cornell-movie-review-data/rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes) | streamed (500 rows, 2 cols) | [edition_2754_cornell-movie-review-data-rotten_tomatoes-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2754_cornell-movie-review-data-rotten_tomatoes-readymade) |
 | 2755 | 2026-02-01 14:23:37 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_2755_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2755_jxcai-scale-hle-public-questions-readymade) |
+| 2756 | 2026-02-01 14:53:53 | [ywchoi/OpenMedText](https://huggingface.co/datasets/ywchoi/OpenMedText) | streamed (500 rows, 1 cols) | [edition_2756_ywchoi-OpenMedText-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2756_ywchoi-OpenMedText-readymade) |
