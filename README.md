@@ -1,5 +1,11 @@
 # 🖼️ Readymades
 
+[![ANTI-LICENSE](https://img.shields.io/badge/ANTI--LICENSE-STEAL_THIS-000000?style=for-the-badge&labelColor=dc143c)](LICENSE)
+[![Machine Status](https://img.shields.io/github/actions/workflow/status/TheFactoryX/readymades/curator0-switch.yml?style=flat-square&label=curator)](https://github.com/TheFactoryX/readymades/actions)
+[![GitHub Stars](https://img.shields.io/github/stars/TheFactoryX/readymades?style=flat-square&logo=github)](https://github.com/TheFactoryX/readymades/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/TheFactoryX/readymades?style=flat-square)](https://github.com/TheFactoryX/readymades/commits)
+[![TheFactoryX](https://img.shields.io/badge/TheFactoryX-black?style=flat-square&logo=github)](https://github.com/TheFactoryX)
+
 **The Gallery**
 Est. 2025 · Every 15 Minutes
 
@@ -75,6 +81,12 @@ Or let GitHub Action run it automatically.
 >
 > _"We remix machines."_
 > — TheFactoryX
+
+---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=TheFactoryX/readymades&type=Date)](https://star-history.com/#TheFactoryX/readymades&Date)
 
 ---
 
