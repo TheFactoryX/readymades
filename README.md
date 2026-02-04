@@ -25,7 +25,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2788 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_2788_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2788_shi-labs-oneformer_demo-readymade) | 2026-02-04 |
+| #2789 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_2789_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2789_shi-labs-oneformer_demo-readymade) | 2026-02-04 |
 ---
 
 ## 🎭 The Method
@@ -2896,3 +2896,4 @@ If you need permission, you're thinking too much.
 | 2786 | 2026-02-04 09:09:28 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_2786_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2786_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 2787 | 2026-02-04 10:01:57 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_2787_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2787_open-thoughts-OpenThoughts-114k-readymade) |
 | 2788 | 2026-02-04 11:00:15 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2788_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2788_shi-labs-oneformer_demo-readymade) |
+| 2789 | 2026-02-04 15:45:57 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2789_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2789_shi-labs-oneformer_demo-readymade) |
