@@ -25,7 +25,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2812 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_2812_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2812_google-research-datasets-mbpp-readymade) | 2026-02-06 |
+| #2813 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_2813_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2813_shi-labs-oneformer_demo-readymade) | 2026-02-06 |
 ---
 
 ## 🎭 The Method
@@ -2920,3 +2920,4 @@ If you need permission, you're thinking too much.
 | 2810 | 2026-02-06 11:35:31 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_2810_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2810_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 2811 | 2026-02-06 15:06:39 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | streamed (500 rows, 633 cols) | [edition_2811_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2811_lazlo-bleker-bridge-net-readymade) |
 | 2812 | 2026-02-06 16:24:37 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_2812_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2812_google-research-datasets-mbpp-readymade) |
+| 2813 | 2026-02-06 20:02:02 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2813_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2813_shi-labs-oneformer_demo-readymade) |
