@@ -1,0 +1,28 @@
+{
+  "edition_number": 2827,
+  "exhibited": "2026-02-07 17:23:02 UTC",
+  "original": {
+    "name": "RogersPyke/Galaxea-Open-World-Dataset_10K_20260123",
+    "url": "https://huggingface.co/datasets/RogersPyke/Galaxea-Open-World-Dataset_10K_20260123",
+    "downloads": 147746,
+    "likes": 0,
+    "tags": [
+      "modality:video",
+      "region:us"
+    ]
+  },
+  "process": {
+    "strategy": "random",
+    "method": "streamed",
+    "rows": 500,
+    "columns": 4,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 126.431669
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_2827_RogersPyke-Galaxea-Open-World-Dataset_10K_20260123-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_2827_RogersPyke-Galaxea-Open-World-Dataset_10K_20260123-readymade"
+  }
+}
