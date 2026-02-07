@@ -25,7 +25,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2817 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_2817_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2817_google-research-datasets-mbpp-readymade) | 2026-02-06 |
+| #2818 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | 633 cols · 500 rows | [edition_2818_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2818_lazlo-bleker-bridge-net-readymade) | 2026-02-07 |
 ---
 
 ## 🎭 The Method
@@ -2925,3 +2925,4 @@ If you need permission, you're thinking too much.
 | 2815 | 2026-02-06 22:15:06 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_2815_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2815_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 2816 | 2026-02-06 22:45:10 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_2816_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2816_google-research-datasets-mbpp-readymade) |
 | 2817 | 2026-02-06 23:00:44 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_2817_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2817_google-research-datasets-mbpp-readymade) |
+| 2818 | 2026-02-07 01:15:54 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | streamed (500 rows, 633 cols) | [edition_2818_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2818_lazlo-bleker-bridge-net-readymade) |
