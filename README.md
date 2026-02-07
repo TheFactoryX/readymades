@@ -25,7 +25,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2820 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | 633 cols · 500 rows | [edition_2820_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2820_lazlo-bleker-bridge-net-readymade) | 2026-02-07 |
+| #2821 | [RogersPyke/Galaxea-Open-World-Dataset_10K_20260123](https://huggingface.co/datasets/RogersPyke/Galaxea-Open-World-Dataset_10K_20260123) | 4 cols · 500 rows | [edition_2821_RogersPyke-Galaxea-Open-World-Dataset_10K_20260123-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2821_RogersPyke-Galaxea-Open-World-Dataset_10K_20260123-readymade) | 2026-02-07 |
 ---
 
 ## 🎭 The Method
@@ -2928,3 +2928,4 @@ If you need permission, you're thinking too much.
 | 2818 | 2026-02-07 01:15:54 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | streamed (500 rows, 633 cols) | [edition_2818_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2818_lazlo-bleker-bridge-net-readymade) |
 | 2819 | 2026-02-07 04:58:22 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_2819_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2819_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 2820 | 2026-02-07 07:41:34 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | streamed (500 rows, 633 cols) | [edition_2820_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2820_lazlo-bleker-bridge-net-readymade) |
+| 2821 | 2026-02-07 11:17:59 | [RogersPyke/Galaxea-Open-World-Dataset_10K_20260123](https://huggingface.co/datasets/RogersPyke/Galaxea-Open-World-Dataset_10K_20260123) | streamed (500 rows, 4 cols) | [edition_2821_RogersPyke-Galaxea-Open-World-Dataset_10K_20260123-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2821_RogersPyke-Galaxea-Open-World-Dataset_10K_20260123-readymade) |
