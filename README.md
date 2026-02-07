@@ -25,7 +25,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2828 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_2828_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2828_google-research-datasets-mbpp-readymade) | 2026-02-07 |
+| #2829 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_2829_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2829_jxcai-scale-hle-public-questions-readymade) | 2026-02-07 |
 ---
 
 ## 🎭 The Method
@@ -2936,3 +2936,4 @@ If you need permission, you're thinking too much.
 | 2826 | 2026-02-07 16:25:15 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | streamed (500 rows, 633 cols) | [edition_2826_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2826_lazlo-bleker-bridge-net-readymade) |
 | 2827 | 2026-02-07 17:23:02 | [RogersPyke/Galaxea-Open-World-Dataset_10K_20260123](https://huggingface.co/datasets/RogersPyke/Galaxea-Open-World-Dataset_10K_20260123) | streamed (500 rows, 4 cols) | [edition_2827_RogersPyke-Galaxea-Open-World-Dataset_10K_20260123-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2827_RogersPyke-Galaxea-Open-World-Dataset_10K_20260123-readymade) |
 | 2828 | 2026-02-07 17:50:29 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_2828_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2828_google-research-datasets-mbpp-readymade) |
+| 2829 | 2026-02-07 19:23:52 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_2829_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2829_jxcai-scale-hle-public-questions-readymade) |
