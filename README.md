@@ -25,7 +25,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2860 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_2860_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2860_google-research-datasets-mbpp-readymade) | 2026-02-10 |
+| #2861 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | 633 cols · 500 rows | [edition_2861_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2861_lazlo-bleker-bridge-net-readymade) | 2026-02-10 |
 ---
 
 ## 🎭 The Method
@@ -2968,3 +2968,4 @@ If you need permission, you're thinking too much.
 | 2858 | 2026-02-10 15:20:54 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_2858_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2858_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 2859 | 2026-02-10 16:43:54 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | streamed (500 rows, 633 cols) | [edition_2859_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2859_lazlo-bleker-bridge-net-readymade) |
 | 2860 | 2026-02-10 19:45:22 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_2860_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2860_google-research-datasets-mbpp-readymade) |
+| 2861 | 2026-02-10 20:34:22 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | streamed (500 rows, 633 cols) | [edition_2861_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2861_lazlo-bleker-bridge-net-readymade) |
