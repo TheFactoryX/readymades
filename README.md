@@ -25,7 +25,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2861 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | 633 cols · 500 rows | [edition_2861_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2861_lazlo-bleker-bridge-net-readymade) | 2026-02-10 |
+| #2862 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_2862_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2862_jxcai-scale-hle-public-questions-readymade) | 2026-02-10 |
 ---
 
 ## 🎭 The Method
@@ -2969,3 +2969,4 @@ If you need permission, you're thinking too much.
 | 2859 | 2026-02-10 16:43:54 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | streamed (500 rows, 633 cols) | [edition_2859_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2859_lazlo-bleker-bridge-net-readymade) |
 | 2860 | 2026-02-10 19:45:22 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_2860_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2860_google-research-datasets-mbpp-readymade) |
 | 2861 | 2026-02-10 20:34:22 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | streamed (500 rows, 633 cols) | [edition_2861_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2861_lazlo-bleker-bridge-net-readymade) |
+| 2862 | 2026-02-10 21:07:18 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_2862_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2862_jxcai-scale-hle-public-questions-readymade) |
