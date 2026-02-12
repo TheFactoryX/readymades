@@ -25,7 +25,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2867 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_2867_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2867_google-research-datasets-mbpp-readymade) | 2026-02-12 |
+| #2868 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_2868_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2868_shi-labs-oneformer_demo-readymade) | 2026-02-12 |
 ---
 
 ## 🎭 The Method
@@ -2975,3 +2975,4 @@ If you need permission, you're thinking too much.
 | 2865 | 2026-02-11 13:51:25 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_2865_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2865_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 2866 | 2026-02-11 22:58:39 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2866_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2866_shi-labs-oneformer_demo-readymade) |
 | 2867 | 2026-02-12 06:44:11 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_2867_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2867_google-research-datasets-mbpp-readymade) |
+| 2868 | 2026-02-12 16:40:05 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2868_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2868_shi-labs-oneformer_demo-readymade) |
