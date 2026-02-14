@@ -25,7 +25,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2891 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_2891_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2891_google-research-datasets-mbpp-readymade) | 2026-02-14 |
+| #2892 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_2892_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2892_jxcai-scale-hle-public-questions-readymade) | 2026-02-14 |
 ---
 
 ## 🎭 The Method
@@ -2999,3 +2999,4 @@ If you need permission, you're thinking too much.
 | 2889 | 2026-02-14 14:10:28 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | streamed (500 rows, 633 cols) | [edition_2889_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2889_lazlo-bleker-bridge-net-readymade) |
 | 2890 | 2026-02-14 14:32:12 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | streamed (500 rows, 633 cols) | [edition_2890_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2890_lazlo-bleker-bridge-net-readymade) |
 | 2891 | 2026-02-14 15:48:26 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_2891_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2891_google-research-datasets-mbpp-readymade) |
+| 2892 | 2026-02-14 17:20:34 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_2892_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2892_jxcai-scale-hle-public-questions-readymade) |
