@@ -25,7 +25,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2915 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | 10 cols · 32 rows | [edition_2915_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2915_lavita-medical-qa-shared-task-v1-toy-readymade) | 2026-02-15 |
+| #2916 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_2916_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2916_shi-labs-oneformer_demo-readymade) | 2026-02-15 |
 ---
 
 ## 🎭 The Method
@@ -3023,3 +3023,4 @@ If you need permission, you're thinking too much.
 | 2913 | 2026-02-15 19:47:16 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_2913_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2913_jxcai-scale-hle-public-questions-readymade) |
 | 2914 | 2026-02-15 20:49:49 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2914_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2914_shi-labs-oneformer_demo-readymade) |
 | 2915 | 2026-02-15 22:21:56 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_2915_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2915_lavita-medical-qa-shared-task-v1-toy-readymade) |
+| 2916 | 2026-02-15 23:48:37 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2916_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2916_shi-labs-oneformer_demo-readymade) |
