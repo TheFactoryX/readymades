@@ -25,7 +25,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2905 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | 2 cols · 500 rows | [edition_2905_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2905_ryanmarten-OpenThoughts-1k-sample-readymade) | 2026-02-15 |
+| #2906 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_2906_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2906_shi-labs-oneformer_demo-readymade) | 2026-02-15 |
 ---
 
 ## 🎭 The Method
@@ -3013,3 +3013,4 @@ If you need permission, you're thinking too much.
 | 2903 | 2026-02-15 07:23:21 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2903_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2903_shi-labs-oneformer_demo-readymade) |
 | 2904 | 2026-02-15 09:54:53 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2904_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2904_shi-labs-oneformer_demo-readymade) |
 | 2905 | 2026-02-15 10:18:38 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_2905_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2905_ryanmarten-OpenThoughts-1k-sample-readymade) |
+| 2906 | 2026-02-15 11:17:19 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2906_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2906_shi-labs-oneformer_demo-readymade) |
