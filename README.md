@@ -25,7 +25,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2921 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | 10 cols · 32 rows | [edition_2921_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2921_lavita-medical-qa-shared-task-v1-toy-readymade) | 2026-02-16 |
+| #2922 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_2922_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2922_jxcai-scale-hle-public-questions-readymade) | 2026-02-16 |
 ---
 
 ## 🎭 The Method
@@ -3029,3 +3029,4 @@ If you need permission, you're thinking too much.
 | 2919 | 2026-02-16 05:39:45 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_2919_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2919_google-research-datasets-mbpp-readymade) |
 | 2920 | 2026-02-16 06:46:19 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_2920_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2920_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 2921 | 2026-02-16 09:11:14 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_2921_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2921_lavita-medical-qa-shared-task-v1-toy-readymade) |
+| 2922 | 2026-02-16 10:11:01 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_2922_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2922_jxcai-scale-hle-public-questions-readymade) |
