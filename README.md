@@ -25,7 +25,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2917 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | 633 cols · 500 rows | [edition_2917_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2917_lazlo-bleker-bridge-net-readymade) | 2026-02-16 |
+| #2918 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_2918_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2918_google-research-datasets-mbpp-readymade) | 2026-02-16 |
 ---
 
 ## 🎭 The Method
@@ -3025,3 +3025,4 @@ If you need permission, you're thinking too much.
 | 2915 | 2026-02-15 22:21:56 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_2915_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2915_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 2916 | 2026-02-15 23:48:37 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2916_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2916_shi-labs-oneformer_demo-readymade) |
 | 2917 | 2026-02-16 01:29:02 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | streamed (500 rows, 633 cols) | [edition_2917_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2917_lazlo-bleker-bridge-net-readymade) |
+| 2918 | 2026-02-16 04:02:37 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_2918_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2918_google-research-datasets-mbpp-readymade) |
