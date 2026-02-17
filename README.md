@@ -25,7 +25,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2939 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | 10 cols · 32 rows | [edition_2939_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2939_lavita-medical-qa-shared-task-v1-toy-readymade) | 2026-02-17 |
+| #2940 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | 10 cols · 32 rows | [edition_2940_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2940_lavita-medical-qa-shared-task-v1-toy-readymade) | 2026-02-17 |
 ---
 
 ## 🎭 The Method
@@ -3047,3 +3047,4 @@ If you need permission, you're thinking too much.
 | 2937 | 2026-02-17 16:39:17 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_2937_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2937_google-research-datasets-mbpp-readymade) |
 | 2938 | 2026-02-17 17:47:54 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | streamed (500 rows, 633 cols) | [edition_2938_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2938_lazlo-bleker-bridge-net-readymade) |
 | 2939 | 2026-02-17 19:35:32 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_2939_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2939_lavita-medical-qa-shared-task-v1-toy-readymade) |
+| 2940 | 2026-02-17 20:06:07 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_2940_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2940_lavita-medical-qa-shared-task-v1-toy-readymade) |
