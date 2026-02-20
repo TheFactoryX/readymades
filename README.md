@@ -25,7 +25,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2962 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | 10 cols · 32 rows | [edition_2962_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2962_lavita-medical-qa-shared-task-v1-toy-readymade) | 2026-02-20 |
+| #2963 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | 633 cols · 500 rows | [edition_2963_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2963_lazlo-bleker-bridge-net-readymade) | 2026-02-20 |
 ---
 
 ## 🎭 The Method
@@ -3070,3 +3070,4 @@ If you need permission, you're thinking too much.
 | 2960 | 2026-02-20 16:28:21 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_2960_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2960_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 2961 | 2026-02-20 17:07:42 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_2961_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2961_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 2962 | 2026-02-20 17:55:32 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_2962_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2962_lavita-medical-qa-shared-task-v1-toy-readymade) |
+| 2963 | 2026-02-20 19:31:14 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | streamed (500 rows, 633 cols) | [edition_2963_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2963_lazlo-bleker-bridge-net-readymade) |
