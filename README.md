@@ -25,7 +25,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2957 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_2957_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2957_shi-labs-oneformer_demo-readymade) | 2026-02-20 |
+| #2958 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_2958_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2958_shi-labs-oneformer_demo-readymade) | 2026-02-20 |
 ---
 
 ## 🎭 The Method
@@ -3065,3 +3065,4 @@ If you need permission, you're thinking too much.
 | 2955 | 2026-02-19 17:16:13 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_2955_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2955_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 2956 | 2026-02-19 20:57:54 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_2956_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2956_jxcai-scale-hle-public-questions-readymade) |
 | 2957 | 2026-02-20 09:26:26 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2957_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2957_shi-labs-oneformer_demo-readymade) |
+| 2958 | 2026-02-20 11:28:53 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2958_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2958_shi-labs-oneformer_demo-readymade) |
