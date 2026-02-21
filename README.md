@@ -25,7 +25,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2980 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_2980_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2980_shi-labs-oneformer_demo-readymade) | 2026-02-21 |
+| #2981 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | 2 cols · 500 rows | [edition_2981_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2981_ryanmarten-OpenThoughts-1k-sample-readymade) | 2026-02-21 |
 ---
 
 ## 🎭 The Method
@@ -3088,3 +3088,4 @@ If you need permission, you're thinking too much.
 | 2978 | 2026-02-21 15:46:42 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2978_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2978_shi-labs-oneformer_demo-readymade) |
 | 2979 | 2026-02-21 17:23:03 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | streamed (500 rows, 633 cols) | [edition_2979_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2979_lazlo-bleker-bridge-net-readymade) |
 | 2980 | 2026-02-21 19:01:50 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2980_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2980_shi-labs-oneformer_demo-readymade) |
+| 2981 | 2026-02-21 19:44:49 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_2981_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2981_ryanmarten-OpenThoughts-1k-sample-readymade) |
