@@ -25,7 +25,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2968 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_2968_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2968_jxcai-scale-hle-public-questions-readymade) | 2026-02-21 |
+| #2969 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_2969_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2969_shi-labs-oneformer_demo-readymade) | 2026-02-21 |
 ---
 
 ## 🎭 The Method
@@ -3076,3 +3076,4 @@ If you need permission, you're thinking too much.
 | 2966 | 2026-02-21 01:12:21 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_2966_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2966_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 2967 | 2026-02-21 04:56:56 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2967_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2967_shi-labs-oneformer_demo-readymade) |
 | 2968 | 2026-02-21 07:01:32 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_2968_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2968_jxcai-scale-hle-public-questions-readymade) |
+| 2969 | 2026-02-21 07:49:10 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2969_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2969_shi-labs-oneformer_demo-readymade) |
