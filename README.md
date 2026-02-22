@@ -25,7 +25,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #2995 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_2995_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2995_jxcai-scale-hle-public-questions-readymade) | 2026-02-22 |
+| #2996 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_2996_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2996_jxcai-scale-hle-public-questions-readymade) | 2026-02-22 |
 ---
 
 ## 🎭 The Method
@@ -3103,3 +3103,4 @@ If you need permission, you're thinking too much.
 | 2993 | 2026-02-22 19:57:04 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_2993_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2993_shi-labs-oneformer_demo-readymade) |
 | 2994 | 2026-02-22 20:49:31 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_2994_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2994_jxcai-scale-hle-public-questions-readymade) |
 | 2995 | 2026-02-22 21:17:09 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_2995_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2995_jxcai-scale-hle-public-questions-readymade) |
+| 2996 | 2026-02-22 22:49:48 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_2996_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_2996_jxcai-scale-hle-public-questions-readymade) |
