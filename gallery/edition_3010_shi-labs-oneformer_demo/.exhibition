@@ -1,0 +1,27 @@
+{
+  "edition_number": 3010,
+  "exhibited": "2026-02-23 23:21:55 UTC",
+  "original": {
+    "name": "shi-labs/oneformer_demo",
+    "url": "https://huggingface.co/datasets/shi-labs/oneformer_demo",
+    "downloads": 114495,
+    "likes": 0,
+    "tags": [
+      "region:us"
+    ]
+  },
+  "process": {
+    "strategy": "popular_backup",
+    "method": "streamed",
+    "rows": 3,
+    "columns": 150,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 2.503632
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_3010_shi-labs-oneformer_demo-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_3010_shi-labs-oneformer_demo-readymade"
+  }
+}
