@@ -25,7 +25,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #3006 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_3006_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3006_shi-labs-oneformer_demo-readymade) | 2026-02-23 |
+| #3007 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | 2 cols · 500 rows | [edition_3007_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3007_ryanmarten-OpenThoughts-1k-sample-readymade) | 2026-02-23 |
 ---
 
 ## 🎭 The Method
@@ -3114,3 +3114,4 @@ If you need permission, you're thinking too much.
 | 3004 | 2026-02-23 14:41:37 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_3004_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3004_shi-labs-oneformer_demo-readymade) |
 | 3005 | 2026-02-23 15:31:17 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_3005_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3005_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 3006 | 2026-02-23 16:30:20 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_3006_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3006_shi-labs-oneformer_demo-readymade) |
+| 3007 | 2026-02-23 17:39:08 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_3007_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3007_ryanmarten-OpenThoughts-1k-sample-readymade) |
