@@ -1,0 +1,36 @@
+{
+  "edition_number": 3002,
+  "exhibited": "2026-02-23 11:09:25 UTC",
+  "original": {
+    "name": "SilasJi/RealSource-World",
+    "url": "https://huggingface.co/datasets/SilasJi/RealSource-World",
+    "downloads": 117813,
+    "likes": 0,
+    "tags": [
+      "task_categories:robotics",
+      "language:en",
+      "license:cc-by-nc-4.0",
+      "size_categories:100B<n<1T",
+      "modality:video",
+      "region:us",
+      "real-world",
+      "dual-arm",
+      "robotics manipulation",
+      "humanoid robot"
+    ]
+  },
+  "process": {
+    "strategy": "popular",
+    "method": "streamed",
+    "rows": 500,
+    "columns": 7,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 135.225375
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_3002_SilasJi-RealSource-World-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_3002_SilasJi-RealSource-World-readymade"
+  }
+}
