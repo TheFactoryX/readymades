@@ -1,0 +1,35 @@
+{
+  "edition_number": 3024,
+  "exhibited": "2026-02-25 21:38:01 UTC",
+  "original": {
+    "name": "lavita/medical-qa-shared-task-v1-toy",
+    "url": "https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy",
+    "downloads": 621713,
+    "likes": 24,
+    "tags": [
+      "size_categories:n<1K",
+      "format:parquet",
+      "modality:tabular",
+      "modality:text",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us"
+    ]
+  },
+  "process": {
+    "strategy": "popular",
+    "method": "streamed",
+    "rows": 32,
+    "columns": 10,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 0.890288
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_3024_lavita-medical-qa-shared-task-v1-toy-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_3024_lavita-medical-qa-shared-task-v1-toy-readymade"
+  }
+}
