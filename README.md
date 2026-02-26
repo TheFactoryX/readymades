@@ -25,7 +25,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #3037 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | 2 cols · 500 rows | [edition_3037_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3037_ryanmarten-OpenThoughts-1k-sample-readymade) | 2026-02-26 |
+| #3038 | [allenai/WildChat-1M](https://huggingface.co/datasets/allenai/WildChat-1M) | 14 cols · 500 rows | [edition_3038_allenai-WildChat-1M-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3038_allenai-WildChat-1M-readymade) | 2026-02-26 |
 ---
 
 ## 🎭 The Method
@@ -3145,3 +3145,4 @@ If you need permission, you're thinking too much.
 | 3035 | 2026-02-26 21:26:13 | [ryanqian1994/bridge_orig_lerobot](https://huggingface.co/datasets/ryanqian1994/bridge_orig_lerobot) | streamed (500 rows, 7 cols) | [edition_3035_ryanqian1994-bridge_orig_lerobot-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3035_ryanqian1994-bridge_orig_lerobot-readymade) |
 | 3036 | 2026-02-26 21:53:13 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_3036_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3036_jxcai-scale-hle-public-questions-readymade) |
 | 3037 | 2026-02-26 22:24:39 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_3037_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3037_ryanmarten-OpenThoughts-1k-sample-readymade) |
+| 3038 | 2026-02-26 23:54:38 | [allenai/WildChat-1M](https://huggingface.co/datasets/allenai/WildChat-1M) | streamed (500 rows, 14 cols) | [edition_3038_allenai-WildChat-1M-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3038_allenai-WildChat-1M-readymade) |
