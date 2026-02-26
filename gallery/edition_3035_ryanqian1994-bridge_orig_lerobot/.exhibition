@@ -1,0 +1,35 @@
+{
+  "edition_number": 3035,
+  "exhibited": "2026-02-26 21:26:13 UTC",
+  "original": {
+    "name": "ryanqian1994/bridge_orig_lerobot",
+    "url": "https://huggingface.co/datasets/ryanqian1994/bridge_orig_lerobot",
+    "downloads": 236897,
+    "likes": 0,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "modality:video",
+      "region:us",
+      "LeRobot",
+      "bridge_orig",
+      "rlds",
+      "openx",
+      "widowx"
+    ]
+  },
+  "process": {
+    "strategy": "popular_backup",
+    "method": "streamed",
+    "rows": 500,
+    "columns": 7,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 45.97652
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_3035_ryanqian1994-bridge_orig_lerobot-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_3035_ryanqian1994-bridge_orig_lerobot-readymade"
+  }
+}
