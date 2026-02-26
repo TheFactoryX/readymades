@@ -25,7 +25,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #3030 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | 2 cols · 500 rows | [edition_3030_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3030_ryanmarten-OpenThoughts-1k-sample-readymade) | 2026-02-26 |
+| #3031 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_3031_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3031_jxcai-scale-hle-public-questions-readymade) | 2026-02-26 |
 ---
 
 ## 🎭 The Method
@@ -3138,3 +3138,4 @@ If you need permission, you're thinking too much.
 | 3028 | 2026-02-26 08:00:47 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_3028_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3028_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 3029 | 2026-02-26 09:41:05 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_3029_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3029_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 3030 | 2026-02-26 10:31:46 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_3030_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3030_ryanmarten-OpenThoughts-1k-sample-readymade) |
+| 3031 | 2026-02-26 14:42:59 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_3031_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3031_jxcai-scale-hle-public-questions-readymade) |
