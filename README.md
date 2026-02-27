@@ -25,7 +25,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #3040 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_3040_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3040_google-research-datasets-mbpp-readymade) | 2026-02-27 |
+| #3041 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | 633 cols · 500 rows | [edition_3041_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3041_lazlo-bleker-bridge-net-readymade) | 2026-02-27 |
 ---
 
 ## 🎭 The Method
@@ -3148,3 +3148,4 @@ If you need permission, you're thinking too much.
 | 3038 | 2026-02-26 23:54:38 | [allenai/WildChat-1M](https://huggingface.co/datasets/allenai/WildChat-1M) | streamed (500 rows, 14 cols) | [edition_3038_allenai-WildChat-1M-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3038_allenai-WildChat-1M-readymade) |
 | 3039 | 2026-02-27 06:07:04 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_3039_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3039_jxcai-scale-hle-public-questions-readymade) |
 | 3040 | 2026-02-27 07:12:51 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_3040_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3040_google-research-datasets-mbpp-readymade) |
+| 3041 | 2026-02-27 08:02:25 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | streamed (500 rows, 633 cols) | [edition_3041_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3041_lazlo-bleker-bridge-net-readymade) |
