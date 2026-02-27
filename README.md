@@ -25,7 +25,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #3044 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | 633 cols · 500 rows | [edition_3044_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3044_lazlo-bleker-bridge-net-readymade) | 2026-02-27 |
+| #3045 | [allenai/WildChat-1M](https://huggingface.co/datasets/allenai/WildChat-1M) | 14 cols · 500 rows | [edition_3045_allenai-WildChat-1M-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3045_allenai-WildChat-1M-readymade) | 2026-02-27 |
 ---
 
 ## 🎭 The Method
@@ -3152,3 +3152,4 @@ If you need permission, you're thinking too much.
 | 3042 | 2026-02-27 10:04:30 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_3042_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3042_jxcai-scale-hle-public-questions-readymade) |
 | 3043 | 2026-02-27 11:54:45 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_3043_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3043_jxcai-scale-hle-public-questions-readymade) |
 | 3044 | 2026-02-27 14:35:06 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | streamed (500 rows, 633 cols) | [edition_3044_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3044_lazlo-bleker-bridge-net-readymade) |
+| 3045 | 2026-02-27 15:30:01 | [allenai/WildChat-1M](https://huggingface.co/datasets/allenai/WildChat-1M) | streamed (500 rows, 14 cols) | [edition_3045_allenai-WildChat-1M-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3045_allenai-WildChat-1M-readymade) |
