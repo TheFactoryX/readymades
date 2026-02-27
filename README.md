@@ -25,7 +25,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #3046 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | 633 cols · 500 rows | [edition_3046_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3046_lazlo-bleker-bridge-net-readymade) | 2026-02-27 |
+| #3047 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | 633 cols · 500 rows | [edition_3047_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3047_lazlo-bleker-bridge-net-readymade) | 2026-02-27 |
 ---
 
 ## 🎭 The Method
@@ -3154,3 +3154,4 @@ If you need permission, you're thinking too much.
 | 3044 | 2026-02-27 14:35:06 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | streamed (500 rows, 633 cols) | [edition_3044_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3044_lazlo-bleker-bridge-net-readymade) |
 | 3045 | 2026-02-27 15:30:01 | [allenai/WildChat-1M](https://huggingface.co/datasets/allenai/WildChat-1M) | streamed (500 rows, 14 cols) | [edition_3045_allenai-WildChat-1M-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3045_allenai-WildChat-1M-readymade) |
 | 3046 | 2026-02-27 21:29:23 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | streamed (500 rows, 633 cols) | [edition_3046_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3046_lazlo-bleker-bridge-net-readymade) |
+| 3047 | 2026-02-27 22:22:42 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | streamed (500 rows, 633 cols) | [edition_3047_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3047_lazlo-bleker-bridge-net-readymade) |
