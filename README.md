@@ -25,7 +25,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #3043 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_3043_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3043_jxcai-scale-hle-public-questions-readymade) | 2026-02-27 |
+| #3044 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | 633 cols · 500 rows | [edition_3044_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3044_lazlo-bleker-bridge-net-readymade) | 2026-02-27 |
 ---
 
 ## 🎭 The Method
@@ -3151,3 +3151,4 @@ If you need permission, you're thinking too much.
 | 3041 | 2026-02-27 08:02:25 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | streamed (500 rows, 633 cols) | [edition_3041_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3041_lazlo-bleker-bridge-net-readymade) |
 | 3042 | 2026-02-27 10:04:30 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_3042_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3042_jxcai-scale-hle-public-questions-readymade) |
 | 3043 | 2026-02-27 11:54:45 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_3043_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3043_jxcai-scale-hle-public-questions-readymade) |
+| 3044 | 2026-02-27 14:35:06 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | streamed (500 rows, 633 cols) | [edition_3044_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3044_lazlo-bleker-bridge-net-readymade) |
