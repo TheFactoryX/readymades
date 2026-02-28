@@ -25,7 +25,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #3049 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | 633 cols · 500 rows | [edition_3049_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3049_lazlo-bleker-bridge-net-readymade) | 2026-02-28 |
+| #3050 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_3050_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3050_google-research-datasets-mbpp-readymade) | 2026-02-28 |
 ---
 
 ## 🎭 The Method
@@ -3157,3 +3157,4 @@ If you need permission, you're thinking too much.
 | 3047 | 2026-02-27 22:22:42 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | streamed (500 rows, 633 cols) | [edition_3047_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3047_lazlo-bleker-bridge-net-readymade) |
 | 3048 | 2026-02-28 05:44:42 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_3048_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3048_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 3049 | 2026-02-28 06:02:28 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | streamed (500 rows, 633 cols) | [edition_3049_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3049_lazlo-bleker-bridge-net-readymade) |
+| 3050 | 2026-02-28 07:02:11 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_3050_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3050_google-research-datasets-mbpp-readymade) |
