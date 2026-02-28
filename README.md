@@ -25,7 +25,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #3047 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | 633 cols · 500 rows | [edition_3047_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3047_lazlo-bleker-bridge-net-readymade) | 2026-02-27 |
+| #3048 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | 10 cols · 32 rows | [edition_3048_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3048_lavita-medical-qa-shared-task-v1-toy-readymade) | 2026-02-28 |
 ---
 
 ## 🎭 The Method
@@ -3155,3 +3155,4 @@ If you need permission, you're thinking too much.
 | 3045 | 2026-02-27 15:30:01 | [allenai/WildChat-1M](https://huggingface.co/datasets/allenai/WildChat-1M) | streamed (500 rows, 14 cols) | [edition_3045_allenai-WildChat-1M-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3045_allenai-WildChat-1M-readymade) |
 | 3046 | 2026-02-27 21:29:23 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | streamed (500 rows, 633 cols) | [edition_3046_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3046_lazlo-bleker-bridge-net-readymade) |
 | 3047 | 2026-02-27 22:22:42 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | streamed (500 rows, 633 cols) | [edition_3047_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3047_lazlo-bleker-bridge-net-readymade) |
+| 3048 | 2026-02-28 05:44:42 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_3048_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3048_lavita-medical-qa-shared-task-v1-toy-readymade) |
