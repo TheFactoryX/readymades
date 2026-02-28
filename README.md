@@ -25,7 +25,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #3060 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_3060_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3060_shi-labs-oneformer_demo-readymade) | 2026-02-28 |
+| #3061 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_3061_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3061_shi-labs-oneformer_demo-readymade) | 2026-02-28 |
 ---
 
 ## 🎭 The Method
@@ -3168,3 +3168,4 @@ If you need permission, you're thinking too much.
 | 3058 | 2026-02-28 14:55:06 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_3058_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3058_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 3059 | 2026-02-28 15:36:34 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_3059_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3059_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 3060 | 2026-02-28 16:17:23 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_3060_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3060_shi-labs-oneformer_demo-readymade) |
+| 3061 | 2026-02-28 19:33:40 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_3061_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3061_shi-labs-oneformer_demo-readymade) |
