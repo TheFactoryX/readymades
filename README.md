@@ -25,7 +25,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #3062 | [allenai/WildChat-1M](https://huggingface.co/datasets/allenai/WildChat-1M) | 14 cols · 500 rows | [edition_3062_allenai-WildChat-1M-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3062_allenai-WildChat-1M-readymade) | 2026-02-28 |
+| #3063 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | 10 cols · 32 rows | [edition_3063_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3063_lavita-medical-qa-shared-task-v1-toy-readymade) | 2026-02-28 |
 ---
 
 ## 🎭 The Method
@@ -3170,3 +3170,4 @@ If you need permission, you're thinking too much.
 | 3060 | 2026-02-28 16:17:23 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_3060_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3060_shi-labs-oneformer_demo-readymade) |
 | 3061 | 2026-02-28 19:33:40 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_3061_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3061_shi-labs-oneformer_demo-readymade) |
 | 3062 | 2026-02-28 19:51:02 | [allenai/WildChat-1M](https://huggingface.co/datasets/allenai/WildChat-1M) | streamed (500 rows, 14 cols) | [edition_3062_allenai-WildChat-1M-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3062_allenai-WildChat-1M-readymade) |
+| 3063 | 2026-02-28 20:17:00 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_3063_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3063_lavita-medical-qa-shared-task-v1-toy-readymade) |
