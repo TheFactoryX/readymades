@@ -25,7 +25,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #3051 | [allenai/WildChat-1M](https://huggingface.co/datasets/allenai/WildChat-1M) | 14 cols · 500 rows | [edition_3051_allenai-WildChat-1M-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3051_allenai-WildChat-1M-readymade) | 2026-02-28 |
+| #3052 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | 2 cols · 500 rows | [edition_3052_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3052_ryanmarten-OpenThoughts-1k-sample-readymade) | 2026-02-28 |
 ---
 
 ## 🎭 The Method
@@ -3159,3 +3159,4 @@ If you need permission, you're thinking too much.
 | 3049 | 2026-02-28 06:02:28 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | streamed (500 rows, 633 cols) | [edition_3049_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3049_lazlo-bleker-bridge-net-readymade) |
 | 3050 | 2026-02-28 07:02:11 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_3050_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3050_google-research-datasets-mbpp-readymade) |
 | 3051 | 2026-02-28 08:50:29 | [allenai/WildChat-1M](https://huggingface.co/datasets/allenai/WildChat-1M) | streamed (500 rows, 14 cols) | [edition_3051_allenai-WildChat-1M-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3051_allenai-WildChat-1M-readymade) |
+| 3052 | 2026-02-28 09:35:37 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_3052_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3052_ryanmarten-OpenThoughts-1k-sample-readymade) |
