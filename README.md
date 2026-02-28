@@ -25,7 +25,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #3057 | [allenai/WildChat-1M](https://huggingface.co/datasets/allenai/WildChat-1M) | 14 cols · 500 rows | [edition_3057_allenai-WildChat-1M-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3057_allenai-WildChat-1M-readymade) | 2026-02-28 |
+| #3058 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | 10 cols · 32 rows | [edition_3058_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3058_lavita-medical-qa-shared-task-v1-toy-readymade) | 2026-02-28 |
 ---
 
 ## 🎭 The Method
@@ -3165,3 +3165,4 @@ If you need permission, you're thinking too much.
 | 3055 | 2026-02-28 11:12:17 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_3055_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3055_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 3056 | 2026-02-28 12:41:10 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_3056_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3056_shi-labs-oneformer_demo-readymade) |
 | 3057 | 2026-02-28 14:40:04 | [allenai/WildChat-1M](https://huggingface.co/datasets/allenai/WildChat-1M) | streamed (500 rows, 14 cols) | [edition_3057_allenai-WildChat-1M-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3057_allenai-WildChat-1M-readymade) |
+| 3058 | 2026-02-28 14:55:06 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_3058_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3058_lavita-medical-qa-shared-task-v1-toy-readymade) |
