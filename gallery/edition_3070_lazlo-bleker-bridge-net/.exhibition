@@ -1,0 +1,30 @@
+{
+  "edition_number": 3070,
+  "exhibited": "2026-03-01 12:18:41 UTC",
+  "original": {
+    "name": "lazlo-bleker/bridge-net",
+    "url": "https://huggingface.co/datasets/lazlo-bleker/bridge-net",
+    "downloads": 161549,
+    "likes": 2,
+    "tags": [
+      "license:mit",
+      "size_categories:10K<n<100K",
+      "arxiv:2512.14496",
+      "region:us"
+    ]
+  },
+  "process": {
+    "strategy": "popular",
+    "method": "streamed",
+    "rows": 500,
+    "columns": 633,
+    "shuffle_method": "independent_columns",
+    "note": "Each column shuffled independently",
+    "duration_seconds": 349.909547
+  },
+  "readymade": {
+    "note": "All row relationships destroyed. Each column independently shuffled. Meaning removed. Structure preserved.",
+    "name": "TheFactoryX/edition_3070_lazlo-bleker-bridge-net-readymade",
+    "url": "https://huggingface.co/datasets/TheFactoryX/edition_3070_lazlo-bleker-bridge-net-readymade"
+  }
+}
