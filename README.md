@@ -25,7 +25,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #3083 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_3083_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3083_shi-labs-oneformer_demo-readymade) | 2026-03-01 |
+| #3084 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_3084_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3084_google-research-datasets-mbpp-readymade) | 2026-03-01 |
 ---
 
 ## 🎭 The Method
@@ -3191,3 +3191,4 @@ If you need permission, you're thinking too much.
 | 3081 | 2026-03-01 21:37:12 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_3081_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3081_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 3082 | 2026-03-01 22:16:12 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_3082_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3082_shi-labs-oneformer_demo-readymade) |
 | 3083 | 2026-03-01 22:43:44 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_3083_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3083_shi-labs-oneformer_demo-readymade) |
+| 3084 | 2026-03-01 22:58:36 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_3084_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3084_google-research-datasets-mbpp-readymade) |
