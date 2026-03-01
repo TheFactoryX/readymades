@@ -25,7 +25,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #3067 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | 633 cols · 500 rows | [edition_3067_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3067_lazlo-bleker-bridge-net-readymade) | 2026-03-01 |
+| #3068 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_3068_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3068_shi-labs-oneformer_demo-readymade) | 2026-03-01 |
 ---
 
 ## 🎭 The Method
@@ -3175,3 +3175,4 @@ If you need permission, you're thinking too much.
 | 3065 | 2026-02-28 23:36:02 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_3065_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3065_open-thoughts-OpenThoughts-114k-readymade) |
 | 3066 | 2026-02-28 23:54:43 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_3066_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3066_google-research-datasets-mbpp-readymade) |
 | 3067 | 2026-03-01 09:28:19 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | streamed (500 rows, 633 cols) | [edition_3067_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3067_lazlo-bleker-bridge-net-readymade) |
+| 3068 | 2026-03-01 10:17:54 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_3068_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3068_shi-labs-oneformer_demo-readymade) |
