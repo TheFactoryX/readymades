@@ -25,7 +25,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #3081 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | 2 cols · 500 rows | [edition_3081_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3081_ryanmarten-OpenThoughts-1k-sample-readymade) | 2026-03-01 |
+| #3082 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_3082_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3082_shi-labs-oneformer_demo-readymade) | 2026-03-01 |
 ---
 
 ## 🎭 The Method
@@ -3189,3 +3189,4 @@ If you need permission, you're thinking too much.
 | 3079 | 2026-03-01 19:53:34 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_3079_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3079_ryanmarten-OpenThoughts-1k-sample-readymade) |
 | 3080 | 2026-03-01 20:47:26 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_3080_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3080_open-thoughts-OpenThoughts-114k-readymade) |
 | 3081 | 2026-03-01 21:37:12 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_3081_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3081_ryanmarten-OpenThoughts-1k-sample-readymade) |
+| 3082 | 2026-03-01 22:16:12 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_3082_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3082_shi-labs-oneformer_demo-readymade) |
