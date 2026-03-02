@@ -25,7 +25,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #3085 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | 150 cols · 3 rows | [edition_3085_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3085_shi-labs-oneformer_demo-readymade) | 2026-03-02 |
+| #3086 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | 633 cols · 500 rows | [edition_3086_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3086_lazlo-bleker-bridge-net-readymade) | 2026-03-02 |
 ---
 
 ## 🎭 The Method
@@ -3193,3 +3193,4 @@ If you need permission, you're thinking too much.
 | 3083 | 2026-03-01 22:43:44 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_3083_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3083_shi-labs-oneformer_demo-readymade) |
 | 3084 | 2026-03-01 22:58:36 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_3084_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3084_google-research-datasets-mbpp-readymade) |
 | 3085 | 2026-03-02 03:13:13 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_3085_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3085_shi-labs-oneformer_demo-readymade) |
+| 3086 | 2026-03-02 05:16:09 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | streamed (500 rows, 633 cols) | [edition_3086_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3086_lazlo-bleker-bridge-net-readymade) |
