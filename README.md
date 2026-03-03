@@ -25,7 +25,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #3102 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_3102_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3102_jxcai-scale-hle-public-questions-readymade) | 2026-03-03 |
+| #3103 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | 633 cols · 500 rows | [edition_3103_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3103_lazlo-bleker-bridge-net-readymade) | 2026-03-03 |
 ---
 
 ## 🎭 The Method
@@ -3210,3 +3210,4 @@ If you need permission, you're thinking too much.
 | 3100 | 2026-03-03 09:08:54 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_3100_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3100_shi-labs-oneformer_demo-readymade) |
 | 3101 | 2026-03-03 11:20:53 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | streamed (3 rows, 150 cols) | [edition_3101_shi-labs-oneformer_demo-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3101_shi-labs-oneformer_demo-readymade) |
 | 3102 | 2026-03-03 18:00:11 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_3102_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3102_jxcai-scale-hle-public-questions-readymade) |
+| 3103 | 2026-03-03 21:03:57 | [lazlo-bleker/bridge-net](https://huggingface.co/datasets/lazlo-bleker/bridge-net) | streamed (500 rows, 633 cols) | [edition_3103_lazlo-bleker-bridge-net-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3103_lazlo-bleker-bridge-net-readymade) |
