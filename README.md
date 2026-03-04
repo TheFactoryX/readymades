@@ -25,7 +25,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #3107 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | 2 cols · 500 rows | [edition_3107_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3107_open-thoughts-OpenThoughts-114k-readymade) | 2026-03-04 |
+| #3108 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | 2 cols · 500 rows | [edition_3108_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3108_ryanmarten-OpenThoughts-1k-sample-readymade) | 2026-03-04 |
 ---
 
 ## 🎭 The Method
@@ -3215,3 +3215,4 @@ If you need permission, you're thinking too much.
 | 3105 | 2026-03-04 01:38:58 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_3105_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3105_google-research-datasets-mbpp-readymade) |
 | 3106 | 2026-03-04 05:48:48 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_3106_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3106_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 3107 | 2026-03-04 07:57:02 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | streamed (500 rows, 2 cols) | [edition_3107_open-thoughts-OpenThoughts-114k-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3107_open-thoughts-OpenThoughts-114k-readymade) |
+| 3108 | 2026-03-04 11:05:32 | [ryanmarten/OpenThoughts-1k-sample](https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample) | streamed (500 rows, 2 cols) | [edition_3108_ryanmarten-OpenThoughts-1k-sample-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3108_ryanmarten-OpenThoughts-1k-sample-readymade) |
