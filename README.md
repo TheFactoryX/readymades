@@ -25,7 +25,7 @@ Curator #0 never stops. Every 15 minutes. New exhibition. New edition.
 
 | Edition | Original | Medium | Readymade | Exhibited |
 |---------|----------|--------|-----------|-----------|
-| #3122 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | 1 cols · 500 rows | [edition_3122_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3122_jxcai-scale-hle-public-questions-readymade) | 2026-03-05 |
+| #3123 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | 6 cols · 374 rows | [edition_3123_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3123_google-research-datasets-mbpp-readymade) | 2026-03-05 |
 ---
 
 ## 🎭 The Method
@@ -3230,3 +3230,4 @@ If you need permission, you're thinking too much.
 | 3120 | 2026-03-05 14:41:02 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_3120_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3120_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 3121 | 2026-03-05 15:35:03 | [lavita/medical-qa-shared-task-v1-toy](https://huggingface.co/datasets/lavita/medical-qa-shared-task-v1-toy) | streamed (32 rows, 10 cols) | [edition_3121_lavita-medical-qa-shared-task-v1-toy-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3121_lavita-medical-qa-shared-task-v1-toy-readymade) |
 | 3122 | 2026-03-05 20:00:56 | [jxcai-scale/hle-public-questions](https://huggingface.co/datasets/jxcai-scale/hle-public-questions) | streamed (500 rows, 1 cols) | [edition_3122_jxcai-scale-hle-public-questions-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3122_jxcai-scale-hle-public-questions-readymade) |
+| 3123 | 2026-03-05 21:49:37 | [google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp) | streamed (374 rows, 6 cols) | [edition_3123_google-research-datasets-mbpp-readymade](https://huggingface.co/datasets/TheFactoryX/edition_3123_google-research-datasets-mbpp-readymade) |
